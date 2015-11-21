@@ -1,0 +1,87 @@
+﻿Civil Engineering Technology
+CVET-140 
+Adding course from the accumulator
+Materials of Construction
+A study of common construction materials in civil engineering with particular emphasis on
+Portland cement concrete and asphalt cement concrete. Aggregates, Portland cement, and
+asphalt cement (each an ingredient in the concretes) are studied extensively. Mass-volume
+relationships are explored in relation to these materials. An overview of laboratory testing procedures for evaluating these materials is provided. Important properties of masonry, steel, and
+wood products are also discussed. (Co-requisites: CVET-141 or equivalent course.) Lecture
+2, Credits 2 (Fall)
+CVET-141 
+Adding course from the accumulator
+Making course from CVET-140 
+Materials of Construction
+A study of common construction materials in civil engineering with particular emphasis on
+Portland cement concrete and asphalt cement concrete. Aggregates, Portland cement, and
+asphalt cement (each an ingredient in the concretes) are studied extensively. Mass-volume
+relationships are explored in relation to these materials. An overview of laboratory testing procedures for evaluating these materials is provided. Important properties of masonry, steel, and
+wood products are also discussed. (Co-requisites: CVET-141 or equivalent course.) Lecture
+2, Credits 2 (Fall)
+
+Materials of Construction Laboratory
+The Materials of Construction Laboratory will be taken concurrently with CVET-140. Standard
+laboratory tests will be performed for evaluating the properties of aggregate, Portland cement
+concrete, asphalt cement concrete, and mortar. Mix design procedures for Portland cement
+concrete and asphalt cement concrete will be learned and used. An introduction to green
+building materials will be provided. (Co-requisites: CVET-140 or equivalent course.) Lab,
+Credits 1 (Fall)
+CVET-150 
+Adding course from the accumulator
+Making course from CVET-141 
+Materials of Construction Laboratory
+The Materials of Construction Laboratory will be taken concurrently with CVET-140. Standard
+laboratory tests will be performed for evaluating the properties of aggregate, Portland cement
+concrete, asphalt cement concrete, and mortar. Mix design procedures for Portland cement
+concrete and asphalt cement concrete will be learned and used. An introduction to green
+building materials will be provided. (Co-requisites: CVET-140 or equivalent course.) Lab,
+Credits 1 (Fall)
+
+Computer Aided Design and Drafting
+Introduction to engineering graphics as a means of communication in the technical fields.
+The course is laboratory oriented and provides the student with basic skills to create and edit
+professional 2D & 3D drawings with this comprehensive first course in the use of computer
+aided design and drafting (CADD) software for (Mechanical, Architectural and Civil drawings). The course assumes no prior knowledge of engineering drawing or CADD. Lecture/
+Lab 4, Credits 2 (Spring)
+CVET-160 Surveying
+Adding course from the accumulator
+Making course from CVET-150 
+Computer Aided Design and Drafting
+Introduction to engineering graphics as a means of communication in the technical fields.
+The course is laboratory oriented and provides the student with basic skills to create and edit
+professional 2D & 3D drawings with this comprehensive first course in the use of computer
+aided design and drafting (CADD) software for (Mechanical, Architectural and Civil drawings). The course assumes no prior knowledge of engineering drawing or CADD. Lecture/
+Lab 4, Credits 2 (Spring)
+
+Introduction to fundamentals of surveying. Topics include: note taking; differential leveling;
+vertical and horizontal measurement; traversing; topographic mapping; horizontal, vertical,
+compound and reverse curves; earthwork; and GPS/GIS. (Co-requisites: CVET-161 or equivalent course.) Lecture 3, Credits 3 (Fall)
+CVET-161 
+Adding course from the accumulator
+Making course from CVET-160 Surveying
+Introduction to fundamentals of surveying. Topics include: note taking; differential leveling;
+vertical and horizontal measurement; traversing; topographic mapping; horizontal, vertical,
+compound and reverse curves; earthwork; and GPS/GIS. (Co-requisites: CVET-161 or equivalent course.) Lecture 3, Credits 3 (Fall)
+
+Surveying Laboratory
+Students apply the fundamentals of surveying to field exercises using modern surveying
+equipment. Field exercises include differential leveling, cross sections, traversing, topographic mapping, horizontal curve layout, vertical curve design, earthwork estimation, use of data
+collectors, and GPS/GIS. (Co-requisites: CVET-160 or equivalent course.) Lab, Credits 1 (Fall)
+
+2	
+
+Undergraduate Course Descriptions
+
+CVET-170 
+Adding course from the accumulator
+Making course from CVET-161 
+Surveying Laboratory
+Students apply the fundamentals of surveying to field exercises using modern surveying
+equipment. Field exercises include differential leveling, cross sections, traversing, topographic mapping, horizontal curve layout, vertical curve design, earthwork estimation, use of data
+collectors, and GPS/GIS. (Co-requisites: CVET-160 or equivalent course.) Lab, Credits 1 (Fall)
+
+2	
+
+Undergraduate Course Descriptions
+
+
