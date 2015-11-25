@@ -1,4 +1,12 @@
 class Course
+	attr_reader :id
+	attr_reader :name
+	attr_reader :description
+	attr_reader :credits
+	attr_reader :prereqs
+	attr_reader :coreqs
+	attr_reader :semesteres_offered
+
 	def initialize( id, name, description, credits, prereqs, coreqs, semesteres_offered )
 		@id = id
 		@name = name

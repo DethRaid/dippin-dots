@@ -22,6 +22,7 @@ def main
 	
 	file_1_courses = gen_course_list_from_file name1
 	file_2_courses = gen_course_list_from_file name2
+	changes = find_diffs_in_second_list file_1_coursee file_2_courses
 end
 
 def gen_course_list_from_file( filename )
@@ -48,6 +49,28 @@ def gen_course_list_from_file( filename )
 		courses << (make_course course_accum)
 	end
 	courses
+end
+
+def find_diffs_in_second_list( list1, list2 )
+	diffs = Array.new
+
+	list1.each do |course1|
+		course2 = list2.select { |course| course.id == course1.id }
+		
+		if course2 != null
+			# We found what we want. Let's compare semesters
+			semesters1 = course1.semesteres_offered
+			semesters2 = course2.semesteres_offered
+
+			semesters_of_course1 = semesters1 - semesters2
+			semesters_of_course2 = semesters2 - semesters1
+
+      diffs << Change.new course1.id, semesters_of_course2, semesters_of_course1 
+		end
+    diffs
+	end
+
+	diffs
 end
 
 main
