@@ -4,7 +4,7 @@ require_relative 'Change'
 
 def make_course(text)
   lines = text.split(/\n/)
-  course_id = lines[0][0...-1]
+  course_id = lines[0][0...8]
   course_name = lines[1]
   course_desc = lines[2..-1].join("\n").tr("\n", ' ')
 
@@ -28,7 +28,7 @@ def main
   file_1_courses = gen_course_list_from_file(name1)
   file_2_courses = gen_course_list_from_file(name2)
   changes = find_diffs_in_second_list(file_1_courses, file_2_courses)
-  puts "Calculated #{changes.length} differences"
+  puts "Calculated #{changes.length} differences:"
   puts changes
 end
 
@@ -59,54 +59,44 @@ def gen_course_list_from_file(filename)
 end
 
 def courses_to_diffs(course_list, dropped)
+  puts "Dealing with #{course_list.length} courses"
   course_list.map do |course|
+    puts "Adding diff for course #{course.id}"
     Change.new(course.id, [], [], dropped, !dropped)
   end
 end
 
-def find_diffs_in_second_list(last_year_classes, this_year_classes)
-  diffs = []
+def find_diffs_for_course(course1, course2)
+  semesters_dropped = course1.semesters_offered - course2.semesters_offered
+  semesters_added = course2.semesters_offered - course1.semesters_offered
 
+  if semesters_dropped.nil? && semesters_added.nil?
+    Change.new(course2.id, semesters_dropped, semesters_added)
+  else
+    nil
+  end
+end
+
+def find_diffs_in_second_list(last_year_courses, this_year_courses)
+  diffs = []
   old_courses = []
   new_courses = []
 
-  last_year_classes.each do |course1|
-    course2 = this_year_classes.select { |course| course.id == course1.id }
+  last_year_courses.each do |course1|
+    if this_year_courses.include? course1
+      course2 = this_year_courses.find { |course| course == course1 }
 
-    course2 = thid_year_classes.select { |course| course.name == course1.name } if course2.nil?
-
-    # If we can't find the course in the new list, it's an old course
-    old_courses << course1 unless course2.nil?
-
-    course2_nil = course2.nil?
-    course1_has_semesters = course1.semesters_offered.nil?
-    course2_has_semesters = course2.semesters_offered.nil? if course2_nil
-
-    unless course2_nil || !course1_has_semesters || !course2_has_semesters
-      course2 = course2[0]
-      # We found what we want. Let's compare semesters
-      semesters1 = course1.semesters_offered
-      semesters2 = course2.semesters_offered
-
-      semesters_of_course1 = semesters1 - semesters2
-      semesters_of_course2 = semesters2 - semesters1
-
-      diffs << Change.new(course1.id, semesters_of_course2, semesters_of_course1)
-    end 
+      diffs << find_diffs_for_course(course1, course2) unless course2.nil?
+    else
+      old_courses << course1
+    end
   end
 
-  this_year_classes.each do |course2|
-    course1 = this_year_classes.select { |course| course.id == course2.id }
-    course2 = this_year_classes.select { |course| course.name == course2.name } if course1.nil?
+  this_year_courses.each { |course| new_courses << course unless last_year_courses.include? course }
 
-    # If we can't find a class from this year in last year, the course is new
-    new_courses << course2 unless course2.nil?
-  end
-
-  diffs << courses_to_diffs(old_courses, true)
-  diffs << courses_to_diffs(new_courses, false)
-
-  diffs
+  diffs << courses_to_diffs(old_courses, true) unless old_courses.nil?
+  diffs << courses_to_diffs(new_courses, false) unless new_courses.nil?
+  diffs.flatten.compact
 end
 
 main
