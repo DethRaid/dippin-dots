@@ -12,13 +12,12 @@ def make_course(text)
   if lines[-1] =~ semester_regex
     semesters_offered = lines[-1][semester_regex][1..-2]
   end
-  
-  unless semesters_offered.kind_of?(Array) || semesters_offered.nil?
+
+  unless semesters_offered.is_a?(Array) || semesters_offered.nil?
     semesters_offered = semesters_offered.split
   end
 
-  Course.new(course_id, course_name, course_desc, nil, nil, nil,
-             semesters_offered)
+  Course.new(course_id, course_name, course_desc, nil, nil, nil, semesters_offered) 
 end
 
 def main
@@ -39,10 +38,11 @@ def gen_course_list_from_file(filename)
     course_accum = ''
     parsing_class = false
     f.each_line do |line|
+      # puts line
       # if the line has four capital letters followed by a dash and three numbers, we're starting a new course description
       if line =~ /^[A-Z]{4}-[0-9]{3}/ && line.length < 15
 
-        courses << make_course(course_accum) if course_accum.length > 1
+        courses << make_course(course_accum) if course_accum.length > 0
         course_accum = ''
         parsing_class = true
 
@@ -53,7 +53,7 @@ def gen_course_list_from_file(filename)
       end
       course_accum += line if parsing_class
     end
-    courses << make_course(course_accum)
+    courses << make_course(course_accum) if course_accum.length > 0
   end
   courses
 end
@@ -61,7 +61,7 @@ end
 def find_diffs_in_second_list(list1, list2)
   diffs = []
 
-  list1.each do |course1| 
+  list1.each do |course1|
     course2 = list2.select { |course| course.id == course1.id }
 
     course2_nil = course2.nil?
