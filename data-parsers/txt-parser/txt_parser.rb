@@ -4,7 +4,7 @@ require_relative 'Change'
 
 def make_course(text)
   lines = text.split(/\n/)
-  course_id = lines[0]
+  course_id = lines[0][0...-1]
   course_name = lines[1]
   course_desc = lines[2..-1].join("\n").tr("\n", ' ')
 
@@ -40,7 +40,7 @@ def gen_course_list_from_file(filename)
     f.each_line do |line|
       # puts line
       # if the line has four capital letters followed by a dash and three numbers, we're starting a new course description
-      if line =~ /^[A-Z]{4}-[0-9]{3}/ && line.length < 15
+      if line =~ /^[A-Z0-9]{4}-[0-9]{3}/ && line.length < 15
 
         courses << make_course(course_accum) if course_accum.length > 0
         course_accum = ''
@@ -58,11 +58,25 @@ def gen_course_list_from_file(filename)
   courses
 end
 
-def find_diffs_in_second_list(list1, list2)
+def courses_to_diffs(course_list, dropped)
+  course_list.map do |course|
+    Change.new(course.id, [], [], dropped, !dropped)
+  end
+end
+
+def find_diffs_in_second_list(last_year_classes, this_year_classes)
   diffs = []
 
-  list1.each do |course1|
-    course2 = list2.select { |course| course.id == course1.id }
+  old_courses = []
+  new_courses = []
+
+  last_year_classes.each do |course1|
+    course2 = this_year_classes.select { |course| course.id == course1.id }
+
+    course2 = thid_year_classes.select { |course| course.name == course1.name } if course2.nil?
+
+    # If we can't find the course in the new list, it's an old course
+    old_courses << course1 unless course2.nil?
 
     course2_nil = course2.nil?
     course1_has_semesters = course1.semesters_offered.nil?
@@ -78,9 +92,19 @@ def find_diffs_in_second_list(list1, list2)
       semesters_of_course2 = semesters2 - semesters1
 
       diffs << Change.new(course1.id, semesters_of_course2, semesters_of_course1)
-    end
-    diffs
+    end 
   end
+
+  this_year_classes.each do |course2|
+    course1 = this_year_classes.select { |course| course.id == course2.id }
+    course2 = this_year_classes.select { |course| course.name == course2.name } if course1.nil?
+
+    # If we can't find a class from this year in last year, the course is new
+    new_courses << course2 unless course2.nil?
+  end
+
+  diffs << courses_to_diffs(old_courses, true)
+  diffs << courses_to_diffs(new_courses, false)
 
   diffs
 end

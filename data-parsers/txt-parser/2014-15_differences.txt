@@ -1,0 +1,11306 @@
+Diffing files ../../data/txt/2014_Undergrad_Course_Descriptions.txt and ../../data/txt/2015_Undergrad_Course_Descriptions.txt
+Calculated 2 differences
+Course 'CVET-140'
+	* Was dropped
+Course 'CVET-141'
+	* Was dropped
+Course 'CVET-150'
+	* Was dropped
+Course 'CVET-161'
+	* Was dropped
+Course 'CVET-170'
+	* Was dropped
+Course 'CVET-180'
+	* Was dropped
+Course 'CVET-181'
+	* Was dropped
+Course 'CVET-220'
+	* Was dropped
+Course 'CVET-230'
+	* Was dropped
+Course 'CVET-240'
+	* Was dropped
+Course 'CVET-241'
+	* Was dropped
+Course 'CVET-251'
+	* Was dropped
+Course 'CVET-300'
+	* Was dropped
+Course 'CVET-330'
+	* Was dropped
+Course 'CVET-332 			'
+	* Was dropped
+Course 'CVET-400'
+	* Was dropped
+Course 'CVET-401'
+	* Was dropped
+Course 'CVET-412'
+	* Was dropped
+Course 'CVET-414'
+	* Was dropped
+Course 'CVET-421'
+	* Was dropped
+Course 'CVET-422'
+	* Was dropped
+Course 'CVET-423'
+	* Was dropped
+Course 'CVET-431'
+	* Was dropped
+Course 'CVET-432'
+	* Was dropped
+Course 'CVET-433'
+	* Was dropped
+Course 'CVET-434'
+	* Was dropped
+Course 'CVET-435'
+	* Was dropped
+Course 'CVET-436'
+	* Was dropped
+Course 'CVET-43'
+	* Was dropped
+Course 'CVET-440'
+	* Was dropped
+Course 'CVET-441'
+	* Was dropped
+Course 'CVET-450'
+	* Was dropped
+Course 'CVET-451'
+	* Was dropped
+Course 'CVET-452'
+	* Was dropped
+Course 'CVET-453'
+	* Was dropped
+Course 'CVET-461'
+	* Was dropped
+Course 'CVET-462'
+	* Was dropped
+Course 'CVET-464'
+	* Was dropped
+Course 'CVET-465'
+	* Was dropped
+Course 'CVET-489'
+	* Was dropped
+Course 'CVET-499'
+	* Was dropped
+Course 'CVET-500'
+	* Was dropped
+Course 'CVET-505'
+	* Was dropped
+Course 'CVET-599'
+	* Was dropped
+Course 'CPET-121'
+	* Was dropped
+Course 'CPET-141'
+	* Was dropped
+Course 'CPET-142'
+	* Was dropped
+Course 'CPET-201'
+	* Was dropped
+Course 'CPET-202'
+	* Was dropped
+Course 'CPET-241'
+	* Was dropped
+Course 'CPET-242'
+	* Was dropped
+Course 'CPET-321'
+	* Was dropped
+Course 'CPET-341'
+	* Was dropped
+Course 'CPET-342'
+	* Was dropped
+Course 'CPET-371'
+	* Was dropped
+Course 'CPET-461'
+	* Was dropped
+Course 'CPET-481'
+	* Was dropped
+Course 'CPET-499'
+	* Was dropped
+Course 'CPET-561'
+	* Was dropped
+Course 'CPET-563'
+	* Was dropped
+Course 'CPET-571'
+	* Was dropped
+Course 'CPET-581'
+	* Was dropped
+Course 'CPET-597'
+	* Was dropped
+Course 'CPET-599'
+	* Was dropped
+Course 'EEET-111'
+	* Was dropped
+Course 'EEET-112'
+	* Was dropped
+Course 'EEET-121'
+	* Was dropped
+Course 'EEET-122'
+	* Was dropped
+Course 'EEET-211'
+	* Was dropped
+Course 'EEET-212'
+	* Was dropped
+Course 'EEET-215'
+	* Was dropped
+Course 'EEET-216'
+	* Was dropped
+Course 'EEET-221'
+	* Was dropped
+Course 'EEET-222'
+	* Was dropped
+Course 'EEET-225'
+	* Was dropped
+Course 'EEET-226'
+	* Was dropped
+Course 'EEET-241'
+	* Was dropped
+Course 'EEET-242'
+	* Was dropped
+Course 'EEET-247'
+	* Was dropped
+Course 'EEET-248'
+	* Was dropped
+Course 'EEET-251'
+	* Was dropped
+Course 'EEET-252'
+	* Was dropped
+Course 'EEET-261'
+	* Was dropped
+Course 'EEET-299'
+	* Was dropped
+Course 'EEET-311'
+	* Was dropped
+Course 'EEET-312'
+	* Was dropped
+Course 'EEET-321'
+	* Was dropped
+Course 'EEET-351'
+	* Was dropped
+Course 'EEET-352'
+	* Was dropped
+Course 'EEET-353'
+	* Was dropped
+Course 'EEET-354'
+	* Was dropped
+Course 'EEET-361'
+	* Was dropped
+Course 'EEET-421'
+	* Was dropped
+Course 'EEET-425'
+	* Was dropped
+Course 'EEET-427'
+	* Was dropped
+Course 'EEET-431'
+	* Was dropped
+Course 'EEET-432'
+	* Was dropped
+Course 'EEET-441'
+	* Was dropped
+Course 'EEET-461'
+	* Was dropped
+Course 'EEET-489'
+	* Was dropped
+Course 'EEET-499'
+	* Was dropped
+Course 'EEET-525'
+	* Was dropped
+Course 'EEET-531'
+	* Was dropped
+Course 'EEET-541'
+	* Was dropped
+Course 'EEET-561'
+	* Was dropped
+Course 'EEET-599'
+	* Was dropped
+Course 'EMET-290'
+	* Was dropped
+Course 'EMET-419'
+	* Was dropped
+Course 'EMET-499'
+	* Was dropped
+Course 'ENGT-110'
+	* Was dropped
+Course 'ENGT-299'
+	* Was dropped
+Course 'ESHS-100'
+	* Was dropped
+Course 'ESHS-150'
+	* Was dropped
+Course 'ESHS-200'
+	* Was dropped
+Course 'ESHS-201'
+	* Was dropped
+Course 'ESHS-225'
+	* Was dropped
+Course 'ESHS-250'
+	* Was dropped
+Course 'ESHS-251'
+	* Was dropped
+Course 'ESHS-310'
+	* Was dropped
+Course 'ESHS-320'
+	* Was dropped
+Course 'ESHS-330'
+	* Was dropped
+Course 'ESHS-460'
+	* Was dropped
+Course 'ESHS-480'
+	* Was dropped
+Course 'ESHS-489'
+	* Was dropped
+Course 'ESHS-499'
+	* Was dropped
+Course 'ESHS-500'
+	* Was dropped
+Course 'ESHS-501'
+	* Was dropped
+Course 'ESHS-511'
+	* Was dropped
+Course 'ESHS-512'
+	* Was dropped
+Course 'ESHS-515'
+	* Was dropped
+Course 'ESHS-525'
+	* Was dropped
+Course 'ESHS-526'
+	* Was dropped
+Course 'ESHS-530'
+	* Was dropped
+Course 'ESHS-544'
+	* Was dropped
+Course 'ESHS-550'
+	* Was dropped
+Course 'ESHS-590'
+	* Was dropped
+Course 'ESHS-599'
+	* Was dropped
+Course 'FOOD-111'
+	* Was dropped
+Course 'FOOD-121'
+	* Was dropped
+Course 'FOOD-123'
+	* Was dropped
+Course 'FOOD-151'
+	* Was dropped
+Course 'FOOD-153'
+	* Was dropped
+Course 'FOOD-160'
+	* Was dropped
+Course 'FOOD-161'
+	* Was dropped
+Course 'FOOD-162'
+	* Was dropped
+Course 'FOOD-163'
+	* Was dropped
+Course 'FOOD-165'
+	* Was dropped
+Course 'FOOD-171'
+	* Was dropped
+Course 'FOOD-173'
+	* Was dropped
+Course 'FOOD-175'
+	* Was dropped
+Course 'FOOD-223'
+	* Was dropped
+Course 'FOOD-224'
+	* Was dropped
+Course 'FOOD-226'
+	* Was dropped
+Course 'FOOD-251'
+	* Was dropped
+Course 'FOOD-325'
+	* Was dropped
+Course 'FOOD-413'
+	* Was dropped
+Course 'FOOD-454'
+	* Was dropped
+Course 'FOOD-489'
+	* Was dropped
+Course 'FOOD-599'
+	* Was dropped
+Course 'HSPT-131'
+	* Was dropped
+Course 'HSPT-181'
+	* Was dropped
+Course 'HSPT-212'
+	* Was dropped
+Course 'HSPT-232'
+	* Was dropped
+Course 'HSPT-234'
+	* Was dropped
+Course 'HSPT-235'
+	* Was dropped
+Course 'HSPT-244'
+	* Was dropped
+Course 'HSPT-246'
+	* Was dropped
+Course 'HSPT-248'
+	* Was dropped
+Course 'HSPT-281'
+	* Was dropped
+Course 'HSPT-284'
+	* Was dropped
+Course 'HSPT-334'
+	* Was dropped
+Course 'HSPT-336'
+	* Was dropped
+Course 'HSPT-345'
+	* Was dropped
+Course 'HSPT-372'
+	* Was dropped
+Course 'HSPT-374'
+	* Was dropped
+Course 'HSPT-381'
+	* Was dropped
+Course 'HSPT-383'
+	* Was dropped
+Course 'HSPT-384'
+	* Was dropped
+Course 'HSPT-475'
+	* Was dropped
+Course 'HSPT-477'
+	* Was dropped
+Course 'HSPT-481'
+	* Was dropped
+Course 'HSPT-489'
+	* Was dropped
+Course 'HSPT-490'
+	* Was dropped
+Course 'HSPT-499'
+	* Was dropped
+Course 'HSPT-599'
+	* Was dropped
+Course 'HRDE-386'
+	* Was dropped
+Course 'MFET-105'
+	* Was dropped
+Course 'MFET-120'
+	* Was dropped
+Course 'MFET-340'
+	* Was dropped
+Course 'MFET-341'
+	* Was dropped
+Course 'MFET-345'
+	* Was dropped
+Course 'MFET-346'
+	* Was dropped
+Course 'MFET-420'
+	* Was dropped
+Course 'MFET-436'
+	* Was dropped
+Course 'MFET-445'
+	* Was dropped
+Course 'MFET-446'
+	* Was dropped
+Course 'MFET-450'
+	* Was dropped
+Course 'MFET-456'
+	* Was dropped
+Course 'MFET-460'
+	* Was dropped
+Course 'MFET-499'
+	* Was dropped
+Course 'MFET-580'
+	* Was dropped
+Course 'MFET-590'
+	* Was dropped
+Course 'MFET-599'
+	* Was dropped
+Course 'MCET-101'
+	* Was dropped
+Course 'MCET-110'
+	* Was dropped
+Course 'MCET-111'
+	* Was dropped
+Course 'MCET-150'
+	* Was dropped
+Course 'MCET-210'
+	* Was dropped
+Course 'MCET-211'
+	* Was dropped
+Course 'MCET-220'
+	* Was dropped
+Course 'MCET-221'
+	* Was dropped
+Course 'MCET-320'
+	* Was dropped
+Course 'MCET-330'
+	* Was dropped
+Course 'MCET-400'
+	* Was dropped
+Course 'MCET-430'
+	* Was dropped
+Course 'MCET-450'
+	* Was dropped
+Course 'MCET-499'
+	* Was dropped
+Course 'MCET-530'
+	* Was dropped
+Course 'MCET-535'
+	* Was dropped
+Course 'MCET-550'
+	* Was dropped
+Course 'MCET-551'
+	* Was dropped
+Course 'MCET-560'
+	* Was dropped
+Course 'MCET-563'
+	* Was dropped
+Course 'MCET-567'
+	* Was dropped
+Course 'MCET-568'
+	* Was dropped
+Course 'MCET-585'
+	* Was dropped
+Course 'MCET-569'
+	* Was dropped
+Course 'MCET-586'
+	* Was dropped
+Course 'MCET-570'
+	* Was dropped
+Course 'MCET-574'
+	* Was dropped
+Course 'MCET-575'
+	* Was dropped
+Course 'MCET-578'
+	* Was dropped
+Course 'MCET-580'
+	* Was dropped
+Course 'MCET-582'
+	* Was dropped
+Course 'MCET-583'
+	* Was dropped
+Course 'MCET-590'
+	* Was dropped
+Course 'MCET-599'
+	* Was dropped
+Course 'PACK-101'
+	* Was dropped
+Course 'PACK-151'
+	* Was dropped
+Course 'PACK-152'
+	* Was dropped
+Course 'PACK-211'
+	* Was dropped
+Course 'PACK-212'
+	* Was dropped
+Course 'PACK-299'
+	* Was dropped
+Course 'PACK-301'
+	* Was dropped
+Course 'PACK-302'
+	* Was dropped
+Course 'PACK-311'
+	* Was dropped
+Course 'PACK-312'
+	* Was dropped
+Course 'PACK-420'
+	* Was dropped
+Course 'PACK-421'
+	* Was dropped
+Course 'PACK-422'
+	* Was dropped
+Course 'PACK-430'
+	* Was dropped
+Course 'PACK-451'
+	* Was dropped
+Course 'PACK-470'
+	* Was dropped
+Course 'PACK-471'
+	* Was dropped
+Course 'PACK-481'
+	* Was dropped
+Course 'PACK-489'
+	* Was dropped
+Course 'PACK-499'
+	* Was dropped
+Course 'PACK-530'
+	* Was dropped
+Course 'PACK-531'
+	* Was dropped
+Course 'PACK-535'
+	* Was dropped
+Course 'PACK-546'
+	* Was dropped
+Course 'PACK-547'
+	* Was dropped
+Course 'PACK-550'
+	* Was dropped
+Course 'PACK-555'
+	* Was dropped
+Course 'PACK-599'
+	* Was dropped
+Course 'AERO-101'
+	* Was dropped
+Course 'AERO-102'
+	* Was dropped
+Course 'AERO-201'
+	* Was dropped
+Course 'AERO-202'
+	* Was dropped
+Course 'AERO-401'
+	* Was dropped
+Course 'AERO-402'
+	* Was dropped
+Course 'ARMY-101'
+	* Was dropped
+Course 'ARMY-102'
+	* Was dropped
+Course 'ARMY-201'
+	* Was dropped
+Course 'ARMY-202'
+	* Was dropped
+Course 'ARMY-301'
+	* Was dropped
+Course 'ARMY-402'
+	* Was dropped
+Course 'ARMY-501'
+	* Was dropped
+Course 'ARMY-302'
+	* Was dropped
+Course 'ARMY-340'
+	* Was dropped
+Course 'ARMY-401'
+	* Was dropped
+Course 'ACCT-110'
+	* Was dropped
+Course 'ACCT-210'
+	* Was dropped
+Course 'ACCT-360'
+	* Was dropped
+Course 'ACCT-365'
+	* Was dropped
+Course 'ACCT-420'
+	* Was dropped
+Course 'ACCT-430'
+	* Was dropped
+Course 'ACCT-440'
+	* Was dropped
+Course 'ACCT-445'
+	* Was dropped
+Course 'ACCT-450'
+	* Was dropped
+Course 'ACCT-460'
+	* Was dropped
+Course 'ACCT-489'
+	* Was dropped
+Course 'ACCT-510'
+	* Was dropped
+Course 'ACCT-540'
+	* Was dropped
+Course 'BLEG-200'
+	* Was dropped
+Course 'BLEG-300'
+	* Was dropped
+Course 'DECS-310'
+	* Was dropped
+Course 'FINC-120'
+	* Was dropped
+Course 'FINC-220'
+	* Was dropped
+Course 'FINC-352'
+	* Was dropped
+Course 'FINC-359'
+	* Was dropped
+Course 'FINC-361'
+	* Was dropped
+Course 'FINC-362'
+	* Was dropped
+Course 'FINC-470'
+	* Was dropped
+Course 'INTB-225'
+	* Was dropped
+Course 'INTB-300'
+	* Was dropped
+Course 'INTB-310'
+	* Was dropped
+Course 'INTB-320'
+	* Was dropped
+Course 'INTB-489'
+	* Was dropped
+Course 'INTB-550'
+	* Was dropped
+Course 'FINC-420'
+	* Was dropped
+Course 'MGMT-101'
+	* Was dropped
+Course 'FINC-430'
+	* Was dropped
+Course 'MGMT-150'
+	* Was dropped
+Course 'FINC-460'
+	* Was dropped
+Course 'MGMT-215'
+	* Was dropped
+Course 'MGMT-300'
+	* Was dropped
+Course 'MGMT-301'
+	* Was dropped
+Course 'MGMT-305'
+	* Was dropped
+Course 'MGMT-310'
+	* Was dropped
+Course 'MGMT-320'
+	* Was dropped
+Course 'MGMT-330'
+	* Was dropped
+Course 'MGMT-340'
+	* Was dropped
+Course 'MGMT-360'
+	* Was dropped
+Course 'MGMT-380'
+	* Was dropped
+Course 'MGMT-420'
+	* Was dropped
+Course 'MGMT-470'
+	* Was dropped
+Course 'MGMT-489'
+	* Was dropped
+Course 'MGMT-550'
+	* Was dropped
+Course 'MGMT-560'
+	* Was dropped
+Course 'MGIS-101'
+	* Was dropped
+Course 'MGIS-102'
+	* Was dropped
+Course 'MGIS-120'
+	* Was dropped
+Course 'MGIS-201'
+	* Was dropped
+Course 'MGIS-250'
+	* Was dropped
+Course 'MGIS-320'
+	* Was dropped
+Course 'MGIS-330'
+	* Was dropped
+Course 'MGIS-340'
+	* Was dropped
+Course 'MGIS-350'
+	* Was dropped
+Course 'MGIS-360'
+	* Was dropped
+Course 'MGIS-415'
+	* Was dropped
+Course 'MGIS-425'
+	* Was dropped
+Course 'MGIS-435'
+	* Was dropped
+Course 'MGIS-445'
+	* Was dropped
+Course 'MGIS-450'
+	* Was dropped
+Course 'MGIS-550'
+	* Was dropped
+Course 'MKTG-230'
+	* Was dropped
+Course 'MKTG-310'
+	* Was dropped
+Course 'MKTG-320'
+	* Was dropped
+Course 'MKTG-340'
+	* Was dropped
+Course 'MKTG-350'
+	* Was dropped
+Course 'MKTG-360'
+	* Was dropped
+Course 'MKTG-370'
+	* Was dropped
+Course 'MKTG-410'
+	* Was dropped
+Course 'MKTG-550'
+	* Was dropped
+Course 'CINT-101'
+	* Was dropped
+Course 'CINT-151H'
+	* Was dropped
+Course 'CSCI-101'
+	* Was dropped
+Course 'CSCI-140'
+	* Was dropped
+Course 'CSCI-141'
+	* Was dropped
+Course 'CSCI-142'
+	* Was dropped
+Course 'CSCI-242'
+	* Was dropped
+Course 'CSCI-243'
+	* Was dropped
+Course 'CSCI-250'
+	* Was dropped
+Course 'CSCI-251'
+	* Was dropped
+Course 'CSCI-261'
+	* Was dropped
+Course 'CSCI-262'
+	* Was dropped
+Course 'CSCI-263'
+	* Was dropped
+Course 'CSCI-320'
+	* Was dropped
+Course 'CSCI-331'
+	* Was dropped
+Course 'CSCI-344'
+	* Was dropped
+Course 'CSCI-351'
+	* Was dropped
+Course 'CSCI-352'
+	* Was dropped
+Course 'CSCI-420'
+	* Was dropped
+Course 'CSCI-431'
+	* Was dropped
+Course 'CSCI-452'
+	* Was dropped
+Course 'CSCI-453'
+	* Was dropped
+Course 'CSCI-455'
+	* Was dropped
+Course 'CSCI-462'
+	* Was dropped
+Course 'CSCI-464'
+	* Was dropped
+Course 'CSCI-471'
+	* Was dropped
+Course 'CSCI-499'
+	* Was dropped
+Course 'CSCI-510'
+	* Was dropped
+Course 'CSCI-519'
+	* Was dropped
+Course 'CSCI-529'
+	* Was dropped
+Course 'CSCI-571'
+	* Was dropped
+Course 'CSCI-531'
+	* Was dropped
+Course 'CSCI-599'
+	* Was dropped
+Course 'CSCI-532'
+	* Was dropped
+Course 'CSCI-539'
+	* Was dropped
+Course 'CSCI-541'
+	* Was dropped
+Course 'CSCI-549'
+	* Was dropped
+Course 'CSCI-559'
+	* Was dropped
+Course 'CSCI-569'
+	* Was dropped
+Course 'CSEC-101'
+	* Was dropped
+Course 'CSEC-210'
+	* Was dropped
+Course 'CSEC-362'
+	* Was dropped
+Course 'CSEC-363'
+	* Was dropped
+Course 'CSEC-461'
+	* Was dropped
+Course 'CSEC-462'
+	* Was dropped
+Course 'CSEC-463'
+	* Was dropped
+Course 'CSEC-464'
+	* Was dropped
+Course 'CSEC-472'
+	* Was dropped
+Course 'CSEC-465'
+	* Was dropped
+Course 'CSEC-473'
+	* Was dropped
+Course 'CSEC-466'
+	* Was dropped
+Course 'CSEC-474'
+	* Was dropped
+Course 'CSEC-467'
+	* Was dropped
+Course 'CSEC-468'
+	* Was dropped
+Course 'CSEC-469'
+	* Was dropped
+Course 'CSEC-470'
+	* Was dropped
+Course 'CSEC-471'
+	* Was dropped
+Course 'CSEC-475'
+	* Was dropped
+Course 'CSEC-476'
+	* Was dropped
+Course 'CSEC-477'
+	* Was dropped
+Course 'CSEC-478'
+	* Was dropped
+Course 'CSEC-479'
+	* Was dropped
+Course 'CSEC-490'
+	* Was dropped
+Course 'CSEC-499'
+	* Was dropped
+Course 'CSEC-559'
+	* Was dropped
+Course 'CSEC-599'
+	* Was dropped
+Course 'ISTE-100'
+	* Was dropped
+Course 'ISTE-101'
+	* Was dropped
+Course 'ISTE-105'
+	* Was dropped
+Course 'ISTE-110'
+	* Was dropped
+Course 'ISTE-120'
+	* Was dropped
+Course 'ISTE-121'
+	* Was dropped
+Course 'ISTE-140'
+	* Was dropped
+Course 'ISTE-151H'
+	* Was dropped
+Course 'ISTE-190'
+	* Was dropped
+Course 'ISTE-200'
+	* Was dropped
+Course 'ISTE-202'
+	* Was dropped
+Course 'ISTE-205'
+	* Was dropped
+Course 'ISTE-206'
+	* Was dropped
+Course 'ISTE-230'
+	* Was dropped
+Course 'ISTE-240'
+	* Was dropped
+Course 'ISTE-260'
+	* Was dropped
+Course 'ISTE-270'
+	* Was dropped
+Course 'ISTE-271'
+	* Was dropped
+Course 'ISTE-305'
+	* Was dropped
+Course 'ISTE-330'
+	* Was dropped
+Course 'ISTE-340'
+	* Was dropped
+Course 'ISTE-341'
+	* Was dropped
+Course 'ISTE-371'
+	* Was dropped
+Course 'ISTE-382'
+	* Was dropped
+Course 'ISTE-384'
+	* Was dropped
+Course 'ISTE-386'
+	* Was dropped
+Course 'ISTE-392'
+	* Was dropped
+Course 'ISTE-394'
+	* Was dropped
+Course 'ISTE-405'
+	* Was dropped
+Course 'ISTE-422'
+	* Was dropped
+Course 'ISTE-424'
+	* Was dropped
+Course 'ISTE-430'
+	* Was dropped
+Course 'ISTE-432'
+	* Was dropped
+Course 'ISTE-434'
+	* Was dropped
+Course 'ISTE-436'
+	* Was dropped
+Course 'ISTE-438'
+	* Was dropped
+Course 'ISTE-442'
+	* Was dropped
+Course 'ISTE-444'
+	* Was dropped
+Course 'ISTE-452'
+	* Was dropped
+Course 'ISTE-454'
+	* Was dropped
+Course 'ISTE-456'
+	* Was dropped
+Course 'ISTE-472'
+	* Was dropped
+Course 'ISTE-474'
+	* Was dropped
+Course 'ISTE-476'
+	* Was dropped
+Course 'ISTE-482'
+	* Was dropped
+Course 'ISTE-483'
+	* Was dropped
+Course 'ISTE-484'
+	* Was dropped
+Course 'ISTE-499'
+	* Was dropped
+Course 'ISTE-500'
+	* Was dropped
+Course 'ISTE-501'
+	* Was dropped
+Course 'ISTE-590'
+	* Was dropped
+Course 'ISTE-599'
+	* Was dropped
+Course 'IGME-101'
+	* Was dropped
+Course 'IGME-102'
+	* Was dropped
+Course 'IGME-105'
+	* Was dropped
+Course 'IGME-106'
+	* Was dropped
+Course 'IGME-110'
+	* Was dropped
+Course 'IGME-119'
+	* Was dropped
+Course 'IGME-201'
+	* Was dropped
+Course 'IGME-202'
+	* Was dropped
+Course 'IGME-209'
+	* Was dropped
+Course 'IGME-219'
+	* Was dropped
+Course 'IGME-220'
+	* Was dropped
+Course 'IGME-230'
+	* Was dropped
+Course 'IGME-236'
+	* Was dropped
+Course 'IGME-309'
+	* Was dropped
+Course 'IGME-320'
+	* Was dropped
+Course 'IGME-330'
+	* Was dropped
+Course 'IGME-430'
+	* Was dropped
+Course 'IGME-431'
+	* Was dropped
+Course 'IGME-440'
+	* Was dropped
+Course 'IGME-450'
+	* Was dropped
+Course 'IGME-451'
+	* Was dropped
+Course 'IGME-470'
+	* Was dropped
+Course 'IGME-499'
+	* Was dropped
+Course 'IGME-529'
+	* Was dropped
+Course 'IGME-540'
+	* Was dropped
+Course 'IGME-550'
+	* Was dropped
+Course 'IGME-560'
+	* Was dropped
+Course 'IGME-570'
+	* Was dropped
+Course 'IGME-571'
+	* Was dropped
+Course 'IGME-580'
+	* Was dropped
+Course 'IGME-581'
+	* Was dropped
+Course 'IGME-582'
+	* Was dropped
+Course 'IGME-583'
+	* Was dropped
+Course 'IGME-584'
+	* Was dropped
+Course 'IGME-585'
+	* Was dropped
+Course 'IGME-588'
+	* Was dropped
+Course 'IGME-590'
+	* Was dropped
+Course 'IGME-599'
+	* Was dropped
+Course 'MEDI-130'
+	* Was dropped
+Course 'MEDI-150'
+	* Was dropped
+Course 'MEDI-245'
+	* Was dropped
+Course 'MEDI-310'
+	* Was dropped
+Course 'MEDI-320'
+	* Was dropped
+Course 'MEDI-330'
+	* Was dropped
+Course 'MEDI-430'
+	* Was dropped
+Course 'NSSA-101'
+	* Was dropped
+Course 'NSSA-102'
+	* Was dropped
+Course 'NSSA-220'
+	* Was dropped
+Course 'NSSA-221'
+	* Was dropped
+Course 'NSSA-241'
+	* Was dropped
+Course 'NSSA-242'
+	* Was dropped
+Course 'NSSA-245'
+	* Was dropped
+Course 'NSSA-290'
+	* Was dropped
+Course 'NSSA-320'
+	* Was dropped
+Course 'NSSA-322'
+	* Was dropped
+Course 'NSSA-341'
+	* Was dropped
+Course 'NSSA-342'
+	* Was dropped
+Course 'NSSA-370'
+	* Was dropped
+Course 'NSSA-422'
+	* Was dropped
+Course 'NSSA-423'
+	* Was dropped
+Course 'NSSA-425'
+	* Was dropped
+Course 'NSSA-426'
+	* Was dropped
+Course 'NSSA-441'
+	* Was dropped
+Course 'NSSA-443'
+	* Was dropped
+Course 'NSSA-445'
+	* Was dropped
+Course 'SWEN-101'
+	* Was dropped
+Course 'SWEN-220'
+	* Was dropped
+Course 'SWEN-250'
+	* Was dropped
+Course 'SWEN-256'
+	* Was dropped
+Course 'SWEN-261'
+	* Was dropped
+Course 'SWEN-262'
+	* Was dropped
+Course 'SWEN-331'
+	* Was dropped
+Course 'SWEN-342'
+	* Was dropped
+Course 'SWEN-343'
+	* Was dropped
+Course 'SWEN-344'
+	* Was dropped
+Course 'SWEN-350'
+	* Was dropped
+Course 'SWEN-352'
+	* Was dropped
+Course 'SWEN-356'
+	* Was dropped
+Course 'SWEN-383'
+	* Was dropped
+Course 'SWEN-440'
+	* Was dropped
+Course 'SWEN-444'
+	* Was dropped
+Course 'SWEN-461'
+	* Was dropped
+Course 'SWEN-462'
+	* Was dropped
+Course 'SWEN-549'
+	* Was dropped
+Course 'SWEN-559'
+	* Was dropped
+Course 'SWEN-561'
+	* Was dropped
+Course 'SWEN-562'
+	* Was dropped
+Course 'SWEN-590'
+	* Was dropped
+Course 'SWEN-598'
+	* Was dropped
+Course 'SWEN-599'
+	* Was dropped
+Course 'SWEN-463'
+	* Was dropped
+Course 'SWEN-467'
+	* Was dropped
+Course 'SWEN-498'
+	* Was dropped
+Course 'SWEN-499'
+	* Was dropped
+Course 'SWEN-548'
+	* Was dropped
+Course 'CQAS-251'
+	* Was dropped
+Course 'CQAS-252'
+	* Was dropped
+Course 'CQAS-325'
+	* Was dropped
+Course 'CQAS-511'
+	* Was dropped
+Course 'BIME-181'
+	* Was dropped
+Course 'BIME-182'
+	* Was dropped
+Course 'BIME-200'
+	* Was dropped
+Course 'BIME-250'
+	* Was dropped
+Course 'BIME-370'
+	* Was dropped
+Course 'BIME-391'
+	* Was dropped
+Course 'BIME-410'
+	* Was dropped
+Course 'BIME-411'
+	* Was dropped
+Course 'BIME-440'
+	* Was dropped
+Course 'BIME-450'
+	* Was dropped
+Course 'BIME-460'
+	* Was dropped
+Course 'BIME-489'
+	* Was dropped
+Course 'BIME-491'
+	* Was dropped
+Course 'BIME-492'
+	* Was dropped
+Course 'BIME-497'
+	* Was dropped
+Course 'BIME-498'
+	* Was dropped
+Course 'BIME-599'
+	* Was dropped
+Course 'CHME-181'
+	* Was dropped
+Course 'CHME-182'
+	* Was dropped
+Course 'CHME-230'
+	* Was dropped
+Course 'CHME-301'
+	* Was dropped
+Course 'CHME-302'
+	* Was dropped
+Course 'CHME-310'
+	* Was dropped
+Course 'CHME-320'
+	* Was dropped
+Course 'CHME-321'
+	* Was dropped
+Course 'CHME-330'
+	* Was dropped
+Course 'CHME-340'
+	* Was dropped
+Course 'CHME-350'
+	* Was dropped
+Course 'CHME-391'
+	* Was dropped
+Course 'CHME-401'
+	* Was dropped
+Course 'CHME-421'
+	* Was dropped
+Course 'CHME-422'
+	* Was dropped
+Course 'CHME-431'
+	* Was dropped
+Course 'CHME-450'
+	* Was dropped
+Course 'CHME-451'
+	* Was dropped
+Course 'CHME-489'
+	* Was dropped
+Course 'CHME-490'
+	* Was dropped
+Course 'CHME-491'
+	* Was dropped
+Course 'CHME-599'
+	* Was dropped
+Course 'CMPE-110'
+	* Was dropped
+Course 'CMPE-160'
+	* Was dropped
+Course 'CMPE-240'
+	* Was dropped
+Course 'CMPE-250'
+	* Was dropped
+Course 'CMPE-260'
+	* Was dropped
+Course 'CMPE-350'
+	* Was dropped
+Course 'CMPE-380'
+	* Was dropped
+Course 'CMPE-460'
+	* Was dropped
+Course 'CMPE-480'
+	* Was dropped
+Course 'CMPE-489'
+	* Was dropped
+Course 'CMPE-495'
+	* Was dropped
+Course 'CMPE-496'
+	* Was dropped
+Course 'CMPE-497'
+	* Was dropped
+Course 'CMPE-498'
+	* Was dropped
+Course 'EEEE-105'
+	* Was dropped
+Course 'CMPE-530'
+	* Was dropped
+Course 'EEEE-120'
+	* Was dropped
+Course 'CMPE-540'
+	* Was dropped
+Course 'EEEE-220'
+	* Was dropped
+Course 'CMPE-550'
+	* Was dropped
+Course 'CMPE-570'
+	* Was dropped
+Course 'CMPE-599'
+	* Was dropped
+Course 'EGEN-099'
+	* Was dropped
+Course 'EEEE-221'
+	* Was dropped
+Course 'EEEE-251'
+	* Was dropped
+Course 'EEEE-252'
+	* Was dropped
+Course 'EEEE-253'
+	* Was dropped
+Course 'EEEE-260'
+	* Was dropped
+Course 'EEEE-281'
+	* Was dropped
+Course 'EEEE-282'
+	* Was dropped
+Course 'EEEE-285'
+	* Was dropped
+Course 'EEEE-321'
+	* Was dropped
+Course 'EEEE-346'
+	* Was dropped
+Course 'EEEE-353'
+	* Was dropped
+Course 'EEEE-374'
+	* Was dropped
+Course 'EEEE-381'
+	* Was dropped
+Course 'EEEE-414'
+	* Was dropped
+Course 'EEEE-420'
+	* Was dropped
+Course 'EEEE-421'
+	* Was dropped
+Course 'EEEE-489'
+	* Was dropped
+Course 'EEEE-422'
+	* Was dropped
+Course 'EEEE-497'
+	* Was dropped
+Course 'EEEE-450'
+	* Was dropped
+Course 'EEEE-451'
+	* Was dropped
+Course 'EEEE-482'
+	* Was dropped
+Course 'EEEE-498'
+	* Was dropped
+Course 'EEEE-505'
+	* Was dropped
+Course 'EEEE-510'
+	* Was dropped
+Course 'EEEE-512'
+	* Was dropped
+Course 'EEEE-484'
+	* Was dropped
+Course 'EEEE-520'
+	* Was dropped
+Course 'EEEE-485'
+	* Was dropped
+Course 'EEEE-521'
+	* Was dropped
+Course 'EEEE-525'
+	* Was dropped
+Course 'EEEE-530'
+	* Was dropped
+Course 'EEEE-531'
+	* Was dropped
+Course 'EEEE-532'
+	* Was dropped
+Course 'EEEE-546'
+	* Was dropped
+Course 'EEEE-547'
+	* Was dropped
+Course 'EEEE-579'
+	* Was dropped
+Course 'EEEE-585'
+	* Was dropped
+Course 'EEEE-587'
+	* Was dropped
+Course 'EEEE-592'
+	* Was dropped
+Course 'EEEE-593'
+	* Was dropped
+Course 'EEEE-599'
+	* Was dropped
+Course 'EGEN-100'
+	* Was dropped
+Course 'EGEN-132'
+	* Was dropped
+Course 'EGEN-231'
+	* Was dropped
+Course 'EGEN-489'
+	* Was dropped
+Course 'ISEE-120'
+	* Was dropped
+Course 'ISEE-140'
+	* Was dropped
+Course 'ISEE-200'
+	* Was dropped
+Course 'ISEE-301'
+	* Was dropped
+Course 'ISEE-323'
+	* Was dropped
+Course 'ISEE-330'
+	* Was dropped
+Course 'ISEE-345'
+	* Was dropped
+Course 'ISEE-350'
+	* Was dropped
+Course 'ISEE-420'
+	* Was dropped
+Course 'ISEE-421'
+	* Was dropped
+Course 'ISEE-460'
+	* Was dropped
+Course 'ISEE-489'
+	* Was dropped
+Course 'ISEE-497'
+	* Was dropped
+Course 'ISEE-498'
+	* Was dropped
+Course 'ISEE-510'
+	* Was dropped
+Course 'ISEE-561'
+	* Was dropped
+Course 'ISEE-599'
+	* Was dropped
+Course 'MECE-102'
+	* Was dropped
+Course 'MECE-104'
+	* Was dropped
+Course 'MECE-109'
+	* Was dropped
+Course 'MECE-110'
+	* Was dropped
+Course 'MECE-151'
+	* Was dropped
+Course 'MECE-200'
+	* Was dropped
+Course 'MECE-203'
+	* Was dropped
+Course 'MECE-204'
+	* Was dropped
+Course 'MECE-210'
+	* Was dropped
+Course 'MECE-211'
+	* Was dropped
+Course 'MECE-251'
+	* Was dropped
+Course 'MECE-252'
+	* Was dropped
+Course 'MECE-253'
+	* Was dropped
+Course 'MECE-301'
+	* Was dropped
+Course 'MECE-304'
+	* Was dropped
+Course 'MECE-305'
+	* Was dropped
+Course 'MECE-306'
+	* Was dropped
+Course 'MECE-310'
+	* Was dropped
+Course 'MECE-317'
+	* Was dropped
+Course 'MECE-320'
+	* Was dropped
+Course 'MECE-348'
+	* Was dropped
+Course 'MECE-350'
+	* Was dropped
+Course 'MECE-352'
+	* Was dropped
+Course 'MECE-355'
+	* Was dropped
+Course 'MECE-360'
+	* Was dropped
+Course 'MECE-401'
+	* Was dropped
+Course 'MECE-405'
+	* Was dropped
+Course 'MECE-406'
+	* Was dropped
+Course 'MECE-407'
+	* Was dropped
+Course 'MECE-410'
+	* Was dropped
+Course 'MECE-411'
+	* Was dropped
+Course 'MECE-421'
+	* Was dropped
+Course 'MECE-450'
+	* Was dropped
+Course 'MECE-451'
+	* Was dropped
+Course 'MECE-523'
+	* Was dropped
+Course 'MECE-524'
+	* Was dropped
+Course 'MECE-525'
+	* Was dropped
+Course 'MECE-529'
+	* Was dropped
+Course 'MECE-489'
+	* Was dropped
+Course 'MECE-538'
+	* Was dropped
+Course 'MECE-497'
+	* Was dropped
+Course 'MECE-543'
+	* Was dropped
+Course 'MECE-498'
+	* Was dropped
+Course 'MECE-499'
+	* Was dropped
+Course 'MECE-520'
+	* Was dropped
+Course 'MECE-544'
+	* Was dropped
+Course 'MECE-557'
+	* Was dropped
+Course 'MECE-558'
+	* Was dropped
+Course 'MECE-589'
+	* Was dropped
+Course 'MECE-599'
+	* Was dropped
+Course 'MCEE-101'
+	* Was dropped
+Course 'MCEE-201'
+	* Was dropped
+Course 'MCEE-205'
+	* Was dropped
+Course 'MCEE-320'
+	* Was dropped
+Course 'MCEE-360'
+	* Was dropped
+Course 'MCEE-495'
+	* Was dropped
+Course 'MCEE-496'
+	* Was dropped
+Course 'MCEE-499'
+	* Was dropped
+Course 'MCEE-502'
+	* Was dropped
+Course 'MCEE-503'
+	* Was dropped
+Course 'MCEE-505'
+	* Was dropped
+Course 'MCEE-515'
+	* Was dropped
+Course 'MCEE-520'
+	* Was dropped
+Course 'MCEE-550'
+	* Was dropped
+Course 'MCEE-599'
+	* Was dropped
+Course 'MEDG-101'
+	* Was dropped
+Course 'MEDG-102'
+	* Was dropped
+Course 'MEDG-103'
+	* Was dropped
+Course 'MEDG-104'
+	* Was dropped
+Course 'MEDG-105'
+	* Was dropped
+Course 'MEDG-106'
+	* Was dropped
+Course 'MEDS-105'
+	* Was dropped
+Course 'MEDS-201'
+	* Was dropped
+Course 'MEDS-240'
+	* Was dropped
+Course 'MEDS-245'
+	* Was dropped
+Course 'MEDS-250'
+	* Was dropped
+Course 'MEDS-251'
+	* Was dropped
+Course 'MEDS-280'
+	* Was dropped
+Course 'MEDS-281'
+	* Was dropped
+Course 'MEDS-290'
+	* Was dropped
+Course 'MEDS-294'
+	* Was dropped
+Course 'MEDS-295'
+	* Was dropped
+Course 'MEDS-296'
+	* Was dropped
+Course 'MEDS-297'
+	* Was dropped
+Course 'MEDS-298'
+	* Was dropped
+Course 'MEDS-299'
+	* Was dropped
+Course 'MEDS-300'
+	* Was dropped
+Course 'MEDS-301'
+	* Was dropped
+Course 'MEDS-310'
+	* Was dropped
+Course 'MEDS-311'
+	* Was dropped
+Course 'MEDS-313'
+	* Was dropped
+Course 'MEDS-315'
+	* Was dropped
+Course 'MEDS-333'
+	* Was dropped
+Course 'MEDS-345'
+	* Was dropped
+Course 'MEDS-350'
+	* Was dropped
+Course 'MEDS-351'
+	* Was dropped
+Course 'MEDS-352'
+	* Was dropped
+Course 'MEDS-353'
+	* Was dropped
+Course 'MEDS-354'
+	* Was dropped
+Course 'MEDS-360'
+	* Was dropped
+Course 'MEDS-361'
+	* Was dropped
+Course 'MEDS-370'
+	* Was dropped
+Course 'MEDS-400'
+	* Was dropped
+Course 'MEDS-401'
+	* Was dropped
+Course 'MEDS-402'
+	* Was dropped
+Course 'MEDS-403'
+	* Was dropped
+Course 'MEDS-405'
+	* Was dropped
+Course 'MEDS-406'
+	* Was dropped
+Course 'MEDS-407'
+	* Was dropped
+Course 'MEDS-413'
+	* Was dropped
+Course 'MEDS-415'
+	* Was dropped
+Course 'MEDS-416'
+	* Was dropped
+Course 'MEDS-417'
+	* Was dropped
+Course 'MEDS-418'
+	* Was dropped
+Course 'MEDS-420'
+	* Was dropped
+Course 'MEDS-425'
+	* Was dropped
+Course 'MEDS-426'
+	* Was dropped
+Course 'MEDS-430'
+	* Was dropped
+Course 'MEDS-440H'
+	* Was dropped
+Course 'MEDS-450'
+	* Was dropped
+Course 'MEDS-451'
+	* Was dropped
+Course 'MEDS-489'
+	* Was dropped
+Course 'MEDS-490'
+	* Was dropped
+Course 'MEDS-499'
+	* Was dropped
+Course 'MEDS-510'
+	* Was dropped
+Course 'MEDS-511'
+	* Was dropped
+Course 'MEDS-589'
+	* Was dropped
+Course 'MEDS-599'
+	* Was dropped
+Course 'DMSO-301'
+	* Was dropped
+Course 'DMSO-302'
+	* Was dropped
+Course 'DMSO-309'
+	* Was dropped
+Course 'DMSO-310'
+	* Was dropped
+Course 'DMSO-312'
+	* Was dropped
+Course 'DMSO-414'
+	* Was dropped
+Course 'DMSO-452'
+	* Was dropped
+Course 'DMSO-453'
+	* Was dropped
+Course 'DMSO-454'
+	* Was dropped
+Course 'DMSO-456'
+	* Was dropped
+Course 'DMSO-457'
+	* Was dropped
+Course 'DMSO-460'
+	* Was dropped
+Course 'DMSO-570'
+	* Was dropped
+Course 'DMSO-571'
+	* Was dropped
+Course 'HLTH-300'
+	* Was dropped
+Course 'HLTH-310'
+	* Was dropped
+Course 'HLTH-320'
+	* Was dropped
+Course 'HLTH-330'
+	* Was dropped
+Course 'ECHO-305			'
+	* Was dropped
+Course 'ECHO-307		'
+	* Was dropped
+Course 'ECHO-308		'
+	* Was dropped
+Course 'ECHO-320		'
+	* Was dropped
+Course 'ECHO-401				'
+	* Was dropped
+Course 'ECHO-402				'
+	* Was dropped
+Course 'ECHO-410		'
+	* Was dropped
+Course 'NUTR-125'
+	* Was dropped
+Course 'NUTR-210'
+	* Was dropped
+Course 'NUTR-223'
+	* Was dropped
+Course 'NUTR-300'
+	* Was dropped
+Course 'NUTR-333'
+	* Was dropped
+Course 'NUTR-402'
+	* Was dropped
+Course 'NUTR-497'
+	* Was dropped
+Course 'NUTR-499'
+	* Was dropped
+Course 'NUTR-510'
+	* Was dropped
+Course 'NUTR-525'
+	* Was dropped
+Course 'NUTR-526'
+	* Was dropped
+Course 'NUTR-550'
+	* Was dropped
+Course 'NUTR-554'
+	* Was dropped
+Course 'PHYA-206'
+	* Was dropped
+Course 'PHYA-401'
+	* Was dropped
+Course 'PHYA-402'
+	* Was dropped
+Course 'PHYA-420'
+	* Was dropped
+Course 'PHYA-405'
+	* Was dropped
+Course 'PHYA-421'
+	* Was dropped
+Course 'PHYA-406'
+	* Was dropped
+Course 'PHYA-422'
+	* Was dropped
+Course 'PHYA-409'
+	* Was dropped
+Course 'PHYA-415'
+	* Was dropped
+Course 'PHYA-416'
+	* Was dropped
+Course 'PHYA-417'
+	* Was dropped
+Course 'PHYA-419'
+	* Was dropped
+Course 'PHYA-423'
+	* Was dropped
+Course 'PHYA-424'
+	* Was dropped
+Course 'PHYA-430'
+	* Was dropped
+Course 'PHYA-440'
+	* Was dropped
+Course 'PHYA-510'
+	* Was dropped
+Course 'PHYA-520'
+	* Was dropped
+Course 'PHYA-550'
+	* Was dropped
+Course 'PHYA-560'
+	* Was dropped
+Course 'ITDI-221'
+	* Was dropped
+Course 'ITDI-222'
+	* Was dropped
+Course 'ITDI-223'
+	* Was dropped
+Course 'ITDI-226'
+	* Was dropped
+Course 'ITDI-231'
+	* Was dropped
+Course 'ITDI-101'
+	* Was dropped
+Course 'ITDI-233'
+	* Was dropped
+Course 'ITDI-105'
+	* Was dropped
+Course 'ITDI-236'
+	* Was dropped
+Course 'ITDI-211'
+	* Was dropped
+Course 'ITDI-239'
+	* Was dropped
+Course 'ITDI-246'
+	* Was dropped
+Course 'ITDI-248'
+	* Was dropped
+Course 'ITDI-251'
+	* Was dropped
+Course 'ITDI-256'
+	* Was dropped
+Course 'ITDI-301'
+	* Was dropped
+Course 'ITDI-311'
+	* Was dropped
+Course 'ITDI-316'
+	* Was dropped
+Course 'CCER-201'
+	* Was dropped
+Course 'CCER-202'
+	* Was dropped
+Course 'CCER-301'
+	* Was dropped
+Course 'CCER-302'
+	* Was dropped
+Course 'CCER-498'
+	* Was dropped
+Course 'CCER-499'
+	* Was dropped
+Course 'CCER-501'
+	* Was dropped
+Course 'CCER-502'
+	* Was dropped
+Course 'CCER-520'
+	* Was dropped
+Course 'CCER-530'
+	* Was dropped
+Course 'CWFD-520'
+	* Was dropped
+Course 'CCER-599'
+	* Was dropped
+Course 'CWFD-530'
+	* Was dropped
+Course 'CWFD-599'
+	* Was dropped
+Course 'CWFD-201'
+	* Was dropped
+Course 'CWFD-202'
+	* Was dropped
+Course 'CGEN-201'
+	* Was dropped
+Course 'CWFD-301'
+	* Was dropped
+Course 'CGEN-202'
+	* Was dropped
+Course 'CWFD-302'
+	* Was dropped
+Course 'CWFD-498'
+	* Was dropped
+Course 'CWFD-499'
+	* Was dropped
+Course 'CWFD-501'
+	* Was dropped
+Course 'CWFD-502'
+	* Was dropped
+Course 'CGEN-501'
+	* Was dropped
+Course 'CGEN-502'
+	* Was dropped
+Course 'CGLS-201'
+	* Was dropped
+Course 'CGLS-202'
+	* Was dropped
+Course 'CGLS-599'
+	* Was dropped
+Course 'CGLS-301'
+	* Was dropped
+Course 'CMTJ-201'
+	* Was dropped
+Course 'CGLS-302'
+	* Was dropped
+Course 'CGLS-498'
+	* Was dropped
+Course 'CGLS-499'
+	* Was dropped
+Course 'CGLS-501'
+	* Was dropped
+Course 'CGLS-502'
+	* Was dropped
+Course 'CGLS-520'
+	* Was dropped
+Course 'CMTJ-202'
+	* Was dropped
+Course 'CMTJ-301'
+	* Was dropped
+Course 'CMTJ-302'
+	* Was dropped
+Course 'CMTJ-498'
+	* Was dropped
+Course 'CMTJ-499'
+	* Was dropped
+Course 'CGLS-530'
+	* Was dropped
+Course 'CMTJ-501'
+	* Was dropped
+Course 'CMTJ-502'
+	* Was dropped
+Course 'CMTJ-520'
+	* Was dropped
+Course 'CMTJ-530'
+	* Was dropped
+Course 'CMTJ-599'
+	* Was dropped
+Course 'CWTD-530'
+	* Was dropped
+Course 'FDTN-111'
+	* Was dropped
+Course 'FDTN-112'
+	* Was dropped
+Course 'FDTN-121'
+	* Was dropped
+Course 'FDTN-122'
+	* Was dropped
+Course 'FDTN-131'
+	* Was dropped
+Course 'FDTN-132'
+	* Was dropped
+Course 'FDTN-141'
+	* Was dropped
+Course 'ARTH-135'
+	* Was dropped
+Course 'ARTH-136'
+	* Was dropped
+Course 'ARTH-221'
+	* Was dropped
+Course 'ARTH-311'
+	* Was dropped
+Course 'ARTH-312'
+	* Was dropped
+Course 'ARTH-317'
+	* Was dropped
+Course 'ARTH-318'
+	* Was dropped
+Course 'ARTH-345'
+	* Was dropped
+Course 'ARTH-346'
+	* Was dropped
+Course 'ARTH-364'
+	* Was dropped
+Course 'ARTH-366'
+	* Was dropped
+Course 'ARTH-368'
+	* Was dropped
+Course 'ARTH-369'
+	* Was dropped
+Course 'ARTH-373'
+	* Was dropped
+Course 'ARTH-378'
+	* Was dropped
+Course 'ARTH-379'
+	* Was dropped
+Course 'ARTH-392'
+	* Was dropped
+Course 'ARTH-457'
+	* Was dropped
+Course 'ARTH-521'
+	* Was dropped
+Course 'ARTH-541'
+	* Was dropped
+Course 'ARTH-544'
+	* Was dropped
+Course 'ARTH-550'
+	* Was dropped
+Course 'ARTH-554'
+	* Was dropped
+Course 'ARTH-558'
+	* Was dropped
+Course 'ARTH-561'
+	* Was dropped
+Course 'ARTH-566'
+	* Was dropped
+Course 'ARTH-568'
+	* Was dropped
+Course 'ARTH-572'
+	* Was dropped
+Course 'ARTH-573'
+	* Was dropped
+Course 'ARTH-574'
+	* Was dropped
+Course 'ARTH-576'
+	* Was dropped
+Course 'ARTH-577'
+	* Was dropped
+Course 'ARTH-578'
+	* Was dropped
+Course 'ARTH-581'
+	* Was dropped
+Course 'ARTH-582'
+	* Was dropped
+Course 'ARTH-583'
+	* Was dropped
+Course 'ARTH-584'
+	* Was dropped
+Course 'ARTH-586'
+	* Was dropped
+Course 'ARTH-587'
+	* Was dropped
+Course 'FNAS-305'
+	* Was dropped
+Course 'ARTH-588'
+	* Was dropped
+Course 'FNAS-498'
+	* Was dropped
+Course 'FNAS-201'
+	* Was dropped
+Course 'FNAS-202'
+	* Was dropped
+Course 'FNAS-203'
+	* Was dropped
+Course 'FNAS-204'
+	* Was dropped
+Course 'FNAS-205'
+	* Was dropped
+Course 'FNAS-269'
+	* Was dropped
+Course 'FNAS-401'
+	* Was dropped
+Course 'FNAS-499'
+	* Was dropped
+Course 'FNAS-501'
+	* Was dropped
+Course 'FNAS-502'
+	* Was dropped
+Course 'FNAS-503'
+	* Was dropped
+Course 'FNAS-504'
+	* Was dropped
+Course 'FNAS-514'
+	* Was dropped
+Course 'FNAS-517'
+	* Was dropped
+Course 'FNAS-533'
+	* Was dropped
+Course 'FNAS-535'
+	* Was dropped
+Course 'FNAS-538'
+	* Was dropped
+Course 'FNAS-543'
+	* Was dropped
+Course 'FNAS-561'
+	* Was dropped
+Course 'FNAS-563'
+	* Was dropped
+Course 'FNAS-568'
+	* Was dropped
+Course 'FNAS-571'
+	* Was dropped
+Course 'FNAS-573'
+	* Was dropped
+Course 'FNAS-583'
+	* Was dropped
+Course 'FNAS-599'
+	* Was dropped
+Course 'ILLS-213'
+	* Was dropped
+Course 'ILLS-214'
+	* Was dropped
+Course 'ILLS-218'
+	* Was dropped
+Course 'ILLS-219'
+	* Was dropped
+Course 'ILLS-313'
+	* Was dropped
+Course 'ILLS-319'
+	* Was dropped
+Course 'ILLS-358'
+	* Was dropped
+Course 'ILLS-359'
+	* Was dropped
+Course 'ILLS-364'
+	* Was dropped
+Course 'ILLS-369'
+	* Was dropped
+Course 'ILLS-379'
+	* Was dropped
+Course 'ILLS-413'
+	* Was dropped
+Course 'ILLS-461'
+	* Was dropped
+Course 'ILLS-462'
+	* Was dropped
+Course 'ILLS-465'
+	* Was dropped
+Course 'ILLS-466'
+	* Was dropped
+Course 'ILLS-467'
+	* Was dropped
+Course 'ILLS-468'
+	* Was dropped
+Course 'ILLS-472'
+	* Was dropped
+Course 'ILLS-477'
+	* Was dropped
+Course 'ILLS-482'
+	* Was dropped
+Course 'ILLS-498'
+	* Was dropped
+Course 'ILLS-499'
+	* Was dropped
+Course 'ILLS-501'
+	* Was dropped
+Course 'ILLS-563'
+	* Was dropped
+Course 'ILLS-568'
+	* Was dropped
+Course 'ILLS-569'
+	* Was dropped
+Course 'ILLS-599'
+	* Was dropped
+Course 'ILLM-498'
+	* Was dropped
+Course 'ILLM-499'
+	* Was dropped
+Course 'ILLM-501'
+	* Was dropped
+Course 'ILLM-502'
+	* Was dropped
+Course 'ILLM-503'
+	* Was dropped
+Course 'ILLM-507'
+	* Was dropped
+Course 'ILLM-508'
+	* Was dropped
+Course 'ILLM-512'
+	* Was dropped
+Course 'ILLM-515'
+	* Was dropped
+Course 'ILLM-516'
+	* Was dropped
+Course 'ILLM-517'
+	* Was dropped
+Course 'ILLM-518'
+	* Was dropped
+Course 'ILLM-599'
+	* Was dropped
+Course 'ILLM-506'
+	* Was dropped
+Course 'DDDD-101'
+	* Was dropped
+Course 'DDDD-102'
+	* Was dropped
+Course 'DDDD-103'
+	* Was dropped
+Course 'DDDD-201'
+	* Was dropped
+Course 'DDDD-202'
+	* Was dropped
+Course 'DDDD-206'
+	* Was dropped
+Course 'DDDD-207'
+	* Was dropped
+Course 'DDDD-208'
+	* Was dropped
+Course 'DDDD-301'
+	* Was dropped
+Course 'DDDD-302'
+	* Was dropped
+Course 'DDDD-306'
+	* Was dropped
+Course 'DDDD-401'
+	* Was dropped
+Course 'DDDD-402'
+	* Was dropped
+Course 'DDDD-403'
+	* Was dropped
+Course 'DDDD-498'
+	* Was dropped
+Course 'DDDD-499'
+	* Was dropped
+Course 'DDDD-599'
+	* Was dropped
+Course 'DDDD-516'
+	* Was dropped
+Course 'DDDD-517'
+	* Was dropped
+Course 'DDDD-521'
+	* Was dropped
+Course 'DDDD-522'
+	* Was dropped
+Course 'DDDD-523'
+	* Was dropped
+Course 'DDDD-526'
+	* Was dropped
+Course 'DDDD-527'
+	* Was dropped
+Course 'DDDD-528'
+	* Was dropped
+Course 'GRDE-106'
+	* Was dropped
+Course 'GRDE-107'
+	* Was dropped
+Course 'GRDE-202'
+	* Was dropped
+Course 'GRDE-205'
+	* Was dropped
+Course 'GRDE-206'
+	* Was dropped
+Course 'GRDE-207'
+	* Was dropped
+Course 'GRDE-301'
+	* Was dropped
+Course 'GRDE-302'
+	* Was dropped
+Course 'GRDE-306'
+	* Was dropped
+Course 'GRDE-307'
+	* Was dropped
+Course 'GRDE-308'
+	* Was dropped
+Course 'GRDE-322'
+	* Was dropped
+Course 'GRDE-326'
+	* Was dropped
+Course 'GRDE-367'
+	* Was dropped
+Course 'GRDE-401'
+	* Was dropped
+Course 'GRDE-402'
+	* Was dropped
+Course 'GRDE-411'
+	* Was dropped
+Course 'GRDE-418'
+	* Was dropped
+Course 'GRDE-421'
+	* Was dropped
+Course 'GRDE-422'
+	* Was dropped
+Course 'GRDE-423'
+	* Was dropped
+Course 'GRDE-428'
+	* Was dropped
+Course 'GRDE-431'
+	* Was dropped
+Course 'GRDE-448'
+	* Was dropped
+Course 'GRDE-498'
+	* Was dropped
+Course 'GRDE-499'
+	* Was dropped
+Course 'GRDE-599'
+	* Was dropped
+Course 'IDDE-102'
+	* Was dropped
+Course 'IDDE-201'
+	* Was dropped
+Course 'IDDE-202'
+	* Was dropped
+Course 'IDDE-206'
+	* Was dropped
+Course 'IDDE-207'
+	* Was dropped
+Course 'IDDE-211'
+	* Was dropped
+Course 'IDDE-212'
+	* Was dropped
+Course 'IDDE-221'
+	* Was dropped
+Course 'IDDE-223'
+	* Was dropped
+Course 'IDDE-301'
+	* Was dropped
+Course 'IDDE-302'
+	* Was dropped
+Course 'IDDE-306'
+	* Was dropped
+Course 'IDDE-307'
+	* Was dropped
+Course 'IDDE-311'
+	* Was dropped
+Course 'IDDE-359'
+	* Was dropped
+Course 'IDDE-406'
+	* Was dropped
+Course 'IDDE-407'
+	* Was dropped
+Course 'IDDE-408'
+	* Was dropped
+Course 'IDDE-498'
+	* Was dropped
+Course 'IDDE-499'
+	* Was dropped
+Course 'IDDE-501'
+	* Was dropped
+Course 'IDDE-502'
+	* Was dropped
+Course 'IDDE-520'
+	* Was dropped
+Course 'IDDE-561'
+	* Was dropped
+Course 'IDDE-569'
+	* Was dropped
+Course 'IDDE-573'
+	* Was dropped
+Course 'IDDE-599'
+	* Was dropped
+Course 'INDE-102'
+	* Was dropped
+Course 'INDE-201'
+	* Was dropped
+Course 'INDE-202'
+	* Was dropped
+Course 'INDE-203'
+	* Was dropped
+Course 'INDE-207'
+	* Was dropped
+Course 'INDE-212'
+	* Was dropped
+Course 'INDE-222'
+	* Was dropped
+Course 'INDE-301'
+	* Was dropped
+Course 'INDE-302'
+	* Was dropped
+Course 'INDE-303'
+	* Was dropped
+Course 'INDE-304'
+	* Was dropped
+Course 'INDE-363'
+	* Was dropped
+Course 'INDE-366'
+	* Was dropped
+Course 'INDE-401'
+	* Was dropped
+Course 'INDE-402'
+	* Was dropped
+Course 'INDE-403'
+	* Was dropped
+Course 'INDE-405'
+	* Was dropped
+Course 'INDE-407'
+	* Was dropped
+Course 'INDE-498'
+	* Was dropped
+Course 'INDE-499'
+	* Was dropped
+Course 'INDE-599'
+	* Was dropped
+Course 'NMDE-101'
+	* Was dropped
+Course 'NMDE-102'
+	* Was dropped
+Course 'NMDE-103'
+	* Was dropped
+Course 'NMDE-201'
+	* Was dropped
+Course 'NMDE-202'
+	* Was dropped
+Course 'NMDE-203'
+	* Was dropped
+Course 'NMDE-204'
+	* Was dropped
+Course 'NMDE-301'
+	* Was dropped
+Course 'NMDE-302'
+	* Was dropped
+Course 'NMDE-303'
+	* Was dropped
+Course 'NMDE-305'
+	* Was dropped
+Course 'NMDE-401'
+	* Was dropped
+Course 'NMDE-404'
+	* Was dropped
+Course 'NMDE-406'
+	* Was dropped
+Course 'NMDE-408'
+	* Was dropped
+Course 'NMDE-411'
+	* Was dropped
+Course 'NMDE-498'
+	* Was dropped
+Course 'NMDE-499'
+	* Was dropped
+Course 'NMDE-599'
+	* Was dropped
+Course 'SOFA-101'
+	* Was dropped
+Course 'SOFA-102'
+	* Was dropped
+Course 'SOFA-103'
+	* Was dropped
+Course 'SOFA-106'
+	* Was dropped
+Course 'SOFA-107'
+	* Was dropped
+Course 'SOFA-108'
+	* Was dropped
+Course 'SOFA-111'
+	* Was dropped
+Course 'SOFA-112'
+	* Was dropped
+Course 'SOFA-121'
+	* Was dropped
+Course 'SOFA-122'
+	* Was dropped
+Course 'SOFA-127'
+	* Was dropped
+Course 'SOFA-165'
+	* Was dropped
+Course 'SOFA-202'
+	* Was dropped
+Course 'SOFA-203'
+	* Was dropped
+Course 'SOFA-205'
+	* Was dropped
+Course 'SOFA-208'
+	* Was dropped
+Course 'SOFA-209'
+	* Was dropped
+Course 'SOFA-211'
+	* Was dropped
+Course 'SOFA-212'
+	* Was dropped
+Course 'SOFA-213'
+	* Was dropped
+Course 'SOFA-215'
+	* Was dropped
+Course 'SOFA-216'
+	* Was dropped
+Course 'SOFA-217'
+	* Was dropped
+Course 'SOFA-218'
+	* Was dropped
+Course 'SOFA-224'
+	* Was dropped
+Course 'SOFA-225'
+	* Was dropped
+Course 'SOFA-227'
+	* Was dropped
+Course 'SOFA-228'
+	* Was dropped
+Course 'SOFA-301'
+	* Was dropped
+Course 'SOFA-302'
+	* Was dropped
+Course 'SOFA-306'
+	* Was dropped
+Course 'SOFA-311'
+	* Was dropped
+Course 'SOFA-312'
+	* Was dropped
+Course 'SOFA-313'
+	* Was dropped
+Course 'SOFA-316'
+	* Was dropped
+Course 'SOFA-317'
+	* Was dropped
+Course 'SOFA-323'
+	* Was dropped
+Course 'SOFA-363'
+	* Was dropped
+Course 'SOFA-401'
+	* Was dropped
+Course 'SOFA-402'
+	* Was dropped
+Course 'SOFA-406'
+	* Was dropped
+Course 'SOFA-407'
+	* Was dropped
+Course 'SOFA-408'
+	* Was dropped
+Course 'SOFA-498'
+	* Was dropped
+Course 'SOFA-499'
+	* Was dropped
+Course 'SOFA-505'
+	* Was dropped
+Course 'SOFA-509'
+	* Was dropped
+Course 'SOFA-511'
+	* Was dropped
+Course 'SOFA-512'
+	* Was dropped
+Course 'SOFA-513'
+	* Was dropped
+Course 'SOFA-521'
+	* Was dropped
+Course 'SOFA-522'
+	* Was dropped
+Course 'SOFA-523'
+	* Was dropped
+Course 'SOFA-524'
+	* Was dropped
+Course 'SOFA-526'
+	* Was dropped
+Course 'SOFA-531'
+	* Was dropped
+Course 'SOFA-532'
+	* Was dropped
+Course 'SOFA-533'
+	* Was dropped
+Course 'SOFA-536'
+	* Was dropped
+Course 'SOFA-541'
+	* Was dropped
+Course 'SOFA-542'
+	* Was dropped
+Course 'SOFA-543'
+	* Was dropped
+Course 'SOFA-558'
+	* Was dropped
+Course 'SOFA-561'
+	* Was dropped
+Course 'SOFA-562'
+	* Was dropped
+Course 'SOFA-563'
+	* Was dropped
+Course 'SOFA-564'
+	* Was dropped
+Course 'SOFA-566'
+	* Was dropped
+Course 'SOFA-568'
+	* Was dropped
+Course 'SOFA-571'
+	* Was dropped
+Course 'SOFA-572'
+	* Was dropped
+Course 'SOFA-573'
+	* Was dropped
+Course 'SOFA-574'
+	* Was dropped
+Course 'SOFA-575'
+	* Was dropped
+Course 'SOFA-576'
+	* Was dropped
+Course 'SOFA-578'
+	* Was dropped
+Course 'SOFA-581'
+	* Was dropped
+Course 'SOFA-582'
+	* Was dropped
+Course 'SOFA-583'
+	* Was dropped
+Course 'SOFA-586'
+	* Was dropped
+Course 'SOFA-587'
+	* Was dropped
+Course 'SOFA-588'
+	* Was dropped
+Course 'SOFA-590'
+	* Was dropped
+Course 'MAAT-106'
+	* Was dropped
+Course 'MAAT-206'
+	* Was dropped
+Course 'MAAT-246'
+	* Was dropped
+Course 'MAAT-256'
+	* Was dropped
+Course 'MAAT-266'
+	* Was dropped
+Course 'MAAT-271'
+	* Was dropped
+Course 'MAAT-272'
+	* Was dropped
+Course 'SOFA-599'
+	* Was dropped
+Course 'MAAT-301'
+	* Was dropped
+Course 'MAAT-302'
+	* Was dropped
+Course 'MAAT-306'
+	* Was dropped
+Course 'MAAT-307'
+	* Was dropped
+Course 'MAAT-336'
+	* Was dropped
+Course 'MAAT-355'
+	* Was dropped
+Course 'MAAT-356'
+	* Was dropped
+Course 'MAAT-357'
+	* Was dropped
+Course 'MAAT-359'
+	* Was dropped
+Course 'MAAT-361'
+	* Was dropped
+Course 'MAAT-363'
+	* Was dropped
+Course 'MAAT-364'
+	* Was dropped
+Course 'MAAT-366'
+	* Was dropped
+Course 'MAAT-367'
+	* Was dropped
+Course 'MAAT-368'
+	* Was dropped
+Course 'MAAT-371'
+	* Was dropped
+Course 'MAAT-376'
+	* Was dropped
+Course 'MAAT-377'
+	* Was dropped
+Course 'MAAT-383'
+	* Was dropped
+Course 'MAAT-401'
+	* Was dropped
+Course 'MAAT-457'
+	* Was dropped
+Course 'PHAR-101'
+	* Was dropped
+Course 'MAAT-499'
+	* Was dropped
+Course 'PHAR-102'
+	* Was dropped
+Course 'MAAT-503'
+	* Was dropped
+Course 'MAAT-558'
+	* Was dropped
+Course 'MAAT-561'
+	* Was dropped
+Course 'MAAT-563'
+	* Was dropped
+Course 'MAAT-566'
+	* Was dropped
+Course 'MAAT-573'
+	* Was dropped
+Course 'MAAT-599'
+	* Was dropped
+Course 'PHAR-201'
+	* Was dropped
+Course 'PHAR-202'
+	* Was dropped
+Course 'PHAR-203'
+	* Was dropped
+Course 'PHAR-204'
+	* Was dropped
+Course 'PHAR-211'
+	* Was dropped
+Course 'PHAR-212'
+	* Was dropped
+Course 'PHAR-360'
+	* Was dropped
+Course 'PHAR-370'
+	* Was dropped
+Course 'PHAR-498'
+	* Was dropped
+Course 'PHAR-499'
+	* Was dropped
+Course 'PHAR-599'
+	* Was dropped
+Course 'PHAP-301'
+	* Was dropped
+Course 'PHAP-302'
+	* Was dropped
+Course 'PHAP-306'
+	* Was dropped
+Course 'PHAP-307'
+	* Was dropped
+Course 'PHAP-308'
+	* Was dropped
+Course 'PHAP-311'
+	* Was dropped
+Course 'PHAP-312'
+	* Was dropped
+Course 'PHAP-313'
+	* Was dropped
+Course 'PHAP-314'
+	* Was dropped
+Course 'PHAP-320'
+	* Was dropped
+Course 'PHAP-326'
+	* Was dropped
+Course 'PHAP-327'
+	* Was dropped
+Course 'PHAP-328'
+	* Was dropped
+Course 'PHAP-336'
+	* Was dropped
+Course 'PHAP-337'
+	* Was dropped
+Course 'PHAP-338'
+	* Was dropped
+Course 'PHAP-368'
+	* Was dropped
+Course 'PHAP-403'
+	* Was dropped
+Course 'PHAP-411'
+	* Was dropped
+Course 'PHAP-416'
+	* Was dropped
+Course 'PHFA-101'
+	* Was dropped
+Course 'PHFA-105'
+	* Was dropped
+Course 'PHFA-301'
+	* Was dropped
+Course 'PHFA-302'
+	* Was dropped
+Course 'PHFA-311'
+	* Was dropped
+Course 'PHFA-359'
+	* Was dropped
+Course 'PHFA-361'
+	* Was dropped
+Course 'PHFA-362'
+	* Was dropped
+Course 'PHFA-363'
+	* Was dropped
+Course 'PHFA-364'
+	* Was dropped
+Course 'PHFA-365'
+	* Was dropped
+Course 'PHFA-366'
+	* Was dropped
+Course 'PHFA-375'
+	* Was dropped
+Course 'PHFA-376'
+	* Was dropped
+Course 'PHFA-381'
+	* Was dropped
+Course 'PHFA-401'
+	* Was dropped
+Course 'PHFA-402'
+	* Was dropped
+Course 'PHFA-403'
+	* Was dropped
+Course 'PHFA-540'
+	* Was dropped
+Course 'PHFA-556'
+	* Was dropped
+Course 'PHFA-557'
+	* Was dropped
+Course 'PHFA-565'
+	* Was dropped
+Course 'PHPJ-301'
+	* Was dropped
+Course 'PHPJ-302'
+	* Was dropped
+Course 'PHPJ-303'
+	* Was dropped
+Course 'PHPJ-306'
+	* Was dropped
+Course 'PHPJ-307'
+	* Was dropped
+Course 'PHPJ-311'
+	* Was dropped
+Course 'PHPJ-315'
+	* Was dropped
+Course 'PHPJ-319'
+	* Was dropped
+Course 'PHPJ-355'
+	* Was dropped
+Course 'PHPJ-356'
+	* Was dropped
+Course 'PHPJ-361'
+	* Was dropped
+Course 'PHPJ-365'
+	* Was dropped
+Course 'PHPJ-366'
+	* Was dropped
+Course 'PHPJ-401'
+	* Was dropped
+Course 'IMPT-307'
+	* Was dropped
+Course 'PHPJ-402'
+	* Was dropped
+Course 'IMPT-311'
+	* Was dropped
+Course 'PHPJ-465'
+	* Was dropped
+Course 'PHPJ-466'
+	* Was dropped
+Course 'PHVM-301'
+	* Was dropped
+Course 'PHVM-401'
+	* Was dropped
+Course 'IMPT-301'
+	* Was dropped
+Course 'IMPT-312'
+	* Was dropped
+Course 'IMPT-321'
+	* Was dropped
+Course 'IMPT-322'
+	* Was dropped
+Course 'IMSM-301'
+	* Was dropped
+Course 'IMSM-302'
+	* Was dropped
+Course 'IMSM-303'
+	* Was dropped
+Course 'PHBM-311'
+	* Was dropped
+Course 'PHBM-312'
+	* Was dropped
+Course 'PHBM-316'
+	* Was dropped
+Course 'PHBM-317'
+	* Was dropped
+Course 'PHBM-321'
+	* Was dropped
+Course 'PHBM-322'
+	* Was dropped
+Course 'PHBM-326'
+	* Was dropped
+Course 'PHBM-327'
+	* Was dropped
+Course 'PHPS-101'
+	* Was dropped
+Course 'PHPS-102'
+	* Was dropped
+Course 'PHPS-106'
+	* Was dropped
+Course 'PHPS-107'
+	* Was dropped
+Course 'PHPS-201'
+	* Was dropped
+Course 'PHPS-202'
+	* Was dropped
+Course 'PHPS-206'
+	* Was dropped
+Course 'PHPS-207'
+	* Was dropped
+Course 'PHPS-211'
+	* Was dropped
+Course 'PHPS-212'
+	* Was dropped
+Course 'PHPS-302'
+	* Was dropped
+Course 'PHPS-303'
+	* Was dropped
+Course 'PHPS-306'
+	* Was dropped
+Course 'PHPS-307'
+	* Was dropped
+Course 'PHPS-311'
+	* Was dropped
+Course 'PHPS-315'
+	* Was dropped
+Course 'PHPS-316'
+	* Was dropped
+Course 'PHPS-321'
+	* Was dropped
+Course 'PHPS-322'
+	* Was dropped
+Course 'PHPS-323'
+	* Was dropped
+Course 'PHPS-402'
+	* Was dropped
+Course 'PHPS-498'
+	* Was dropped
+Course 'PHPS-499'
+	* Was dropped
+Course 'PHPS-599'
+	* Was dropped
+Course 'ANTH-102'
+	* Was dropped
+Course 'ANTH-102H'
+	* Was dropped
+Course 'ANTH-103'
+	* Was dropped
+Course 'ANTH-201'
+	* Was dropped
+Course 'ANTH-210'
+	* Was dropped
+Course 'ANTH-215'
+	* Was dropped
+Course 'ANTH-220'
+	* Was dropped
+Course 'ANTH-225'
+	* Was dropped
+Course 'ANTH-230'
+	* Was dropped
+Course 'ANTH-235'
+	* Was dropped
+Course 'ANTH-240'
+	* Was dropped
+Course 'ANTH-245'
+	* Was dropped
+Course 'ANTH-250'
+	* Was dropped
+Course 'ANTH-255'
+	* Was dropped
+Course 'ANTH-260'
+	* Was dropped
+Course 'ANTH-265'
+	* Was dropped
+Course 'ANTH-270'
+	* Was dropped
+Course 'ANTH-275'
+	* Was dropped
+Course 'ANTH-280'
+	* Was dropped
+Course 'ANTH-315'
+	* Was dropped
+Course 'ANTH-301'
+	* Was dropped
+Course 'ANTH-325'
+	* Was dropped
+Course 'ANTH-302'
+	* Was dropped
+Course 'ANTH-303'
+	* Was dropped
+Course 'ANTH-310'
+	* Was dropped
+Course 'ANTH-330'
+	* Was dropped
+Course 'ANTH-335'
+	* Was dropped
+Course 'ANTH-340'
+	* Was dropped
+Course 'ANTH-345'
+	* Was dropped
+Course 'ANTH-350'
+	* Was dropped
+Course 'ANTH-355'
+	* Was dropped
+Course 'ANTH-360'
+	* Was dropped
+Course 'ANTH-365'
+	* Was dropped
+Course 'ANTH-370'
+	* Was dropped
+Course 'ANTH-375'
+	* Was dropped
+Course 'ANTH-380'
+	* Was dropped
+Course 'ANTH-385'
+	* Was dropped
+Course 'ANTH-390'
+	* Was dropped
+Course 'ANTH-410'
+	* Was dropped
+Course 'ANTH-415'
+	* Was dropped
+Course 'ANTH-420'
+	* Was dropped
+Course 'ANTH-425'
+	* Was dropped
+Course 'ANTH-501'
+	* Was dropped
+Course 'ANTH-502'
+	* Was dropped
+Course 'ANTH-503'
+	* Was dropped
+Course 'ANTH-599'
+	* Was dropped
+Course 'ANTH-430'
+	* Was dropped
+Course 'ANTH-440'
+	* Was dropped
+Course 'COMM-142'
+	* Was dropped
+Course 'ANTH-455'
+	* Was dropped
+Course 'ANTH-489'
+	* Was dropped
+Course 'COMM-101'
+	* Was dropped
+Course 'COMM-201'
+	* Was dropped
+Course 'COMM-202'
+	* Was dropped
+Course 'COMM-203'
+	* Was dropped
+Course 'COMM-211'
+	* Was dropped
+Course 'COMM-212'
+	* Was dropped
+Course 'COMM-221'
+	* Was dropped
+Course 'COMM-223'
+	* Was dropped
+Course 'COMM-261'
+	* Was dropped
+Course 'COMM-263'
+	* Was dropped
+Course 'COMM-271'
+	* Was dropped
+Course 'COMM-272'
+	* Was dropped
+Course 'COMM-273'
+	* Was dropped
+Course 'COMM-274'
+	* Was dropped
+Course 'COMM-301'
+	* Was dropped
+Course 'COMM-302'
+	* Was dropped
+Course 'COMM-303'
+	* Was dropped
+Course 'COMM-304'
+	* Was dropped
+Course 'COMM-306'
+	* Was dropped
+Course 'COMM-321'
+	* Was dropped
+Course 'COMM-322'
+	* Was dropped
+Course 'COMM-341'
+	* Was dropped
+Course 'COMM-342'
+	* Was dropped
+Course 'COMM-343'
+	* Was dropped
+Course 'COMM-344'
+	* Was dropped
+Course 'COMM-345'
+	* Was dropped
+Course 'COMM-356'
+	* Was dropped
+Course 'COMM-357'
+	* Was dropped
+Course 'COMM-361'
+	* Was dropped
+Course 'COMM-362'
+	* Was dropped
+Course 'COMM-401'
+	* Was dropped
+Course 'COMM-402'
+	* Was dropped
+Course 'COMM-421'
+	* Was dropped
+Course 'COMM-440'
+	* Was dropped
+Course 'COMM-441'
+	* Was dropped
+Course 'COMM-442'
+	* Was dropped
+Course 'COMM-461'
+	* Was dropped
+Course 'COMM-489'
+	* Was dropped
+Course 'COMM-497'
+	* Was dropped
+Course 'COMM-499'
+	* Was dropped
+Course 'COMM-501'
+	* Was dropped
+Course 'COMM-503'
+	* Was dropped
+Course 'COMM-561'
+	* Was dropped
+Course 'COMM-599'
+	* Was dropped
+Course 'CRIM-100'
+	* Was dropped
+Course 'CRIM-110'
+	* Was dropped
+Course 'CRIM-120'
+	* Was dropped
+Course 'CRIM-210'
+	* Was dropped
+Course 'CRIM-215'
+	* Was dropped
+Course 'CRIM-225'
+	* Was dropped
+Course 'CRIM-230'
+	* Was dropped
+Course 'CRIM-235'
+	* Was dropped
+Course 'CRIM-240'
+	* Was dropped
+Course 'CRIM-245'
+	* Was dropped
+Course 'CRIM-250'
+	* Was dropped
+Course 'CRIM-310'
+	* Was dropped
+Course 'CRIM-255'
+	* Was dropped
+Course 'CRIM-265'
+	* Was dropped
+Course 'CRIM-270'
+	* Was dropped
+Course 'CRIM-275'
+	* Was dropped
+Course 'CRIM-285'
+	* Was dropped
+Course 'CRIM-290'
+	* Was dropped
+Course 'CRIM-300'
+	* Was dropped
+Course 'CRIM-350'
+	* Was dropped
+Course 'CRIM-400'
+	* Was dropped
+Course 'CRIM-489'
+	* Was dropped
+Course 'CRIM-500'
+	* Was dropped
+Course 'CRIM-550'
+	* Was dropped
+Course 'CRIM-599'
+	* Was dropped
+Course 'ECON-100'
+	* Was dropped
+Course 'ECON-101'
+	* Was dropped
+Course 'ECON-101H'
+	* Was dropped
+Course 'ECON-201'
+	* Was dropped
+Course 'ECON-401'
+	* Was dropped
+Course 'ECON-402'
+	* Was dropped
+Course 'ECON-403'
+	* Was dropped
+Course 'ECON-404'
+	* Was dropped
+Course 'ECON-405'
+	* Was dropped
+Course 'ECON-406'
+	* Was dropped
+Course 'ECON-407'
+	* Was dropped
+Course 'ECON-410'
+	* Was dropped
+Course 'ECON-421'
+	* Was dropped
+Course 'ECON-422'
+	* Was dropped
+Course 'ECON-430'
+	* Was dropped
+Course 'ECON-431'
+	* Was dropped
+Course 'ECON-432'
+	* Was dropped
+Course 'ECON-440'
+	* Was dropped
+Course 'ECON-441'
+	* Was dropped
+Course 'ECON-444'
+	* Was dropped
+Course 'ECON-445'
+	* Was dropped
+Course 'ECON-448'
+	* Was dropped
+Course 'ECON-449'
+	* Was dropped
+Course 'ECON-450'
+	* Was dropped
+Course 'ECON-451'
+	* Was dropped
+Course 'ECON-452'
+	* Was dropped
+Course 'ECON-453'
+	* Was dropped
+Course 'ECON-499				'
+	* Was dropped
+Course 'ECON-501'
+	* Was dropped
+Course 'ECON-502'
+	* Was dropped
+Course 'ECON-503'
+	* Was dropped
+Course 'ECON-510'
+	* Was dropped
+Course 'ECON-520'
+	* Was dropped
+Course 'ENGL-150'
+	* Was dropped
+Course 'ENGL-150H'
+	* Was dropped
+Course 'ENGL-210'
+	* Was dropped
+Course 'ENGL-211'
+	* Was dropped
+Course 'ENGL-215'
+	* Was dropped
+Course 'ENGL-301'
+	* Was dropped
+Course 'ENGL-302'
+	* Was dropped
+Course 'ENGL-304'
+	* Was dropped
+Course 'ENGL-304H'
+	* Was dropped
+Course 'ENGL-305'
+	* Was dropped
+Course 'ENGL-310'
+	* Was dropped
+Course 'ENGL-315'
+	* Was dropped
+Course 'ENGL-325H'
+	* Was dropped
+Course 'ENGL-340'
+	* Was dropped
+Course 'ENGL-343'
+	* Was dropped
+Course 'ENGL-345'
+	* Was dropped
+Course 'ENGL-345H'
+	* Was dropped
+Course 'ENGL-351'
+	* Was dropped
+Course 'ENGL-360'
+	* Was dropped
+Course 'ENGL-361'
+	* Was dropped
+Course 'ENGL-362'
+	* Was dropped
+Course 'ENGL-371'
+	* Was dropped
+Course 'ENGL-374'
+	* Was dropped
+Course 'ENGL-375'
+	* Was dropped
+Course 'ENGL-376'
+	* Was dropped
+Course 'ENGL-381'
+	* Was dropped
+Course 'ENGL-391'
+	* Was dropped
+Course 'ENGL-400'
+	* Was dropped
+Course 'ENGL-403'
+	* Was dropped
+Course 'ENGL-403H'
+	* Was dropped
+Course 'ENGL-406'
+	* Was dropped
+Course 'ENGL-407'
+	* Was dropped
+Course 'ENGL-408'
+	* Was dropped
+Course 'ENGL-409'
+	* Was dropped
+Course 'ENGL-410'
+	* Was dropped
+Course 'ENGL-411'
+	* Was dropped
+Course 'ENGL-412'
+	* Was dropped
+Course 'ENGL-413'
+	* Was dropped
+Course 'ENGL-413H'
+	* Was dropped
+Course 'ENGL-414'
+	* Was dropped
+Course 'ENGL-415'
+	* Was dropped
+Course 'ENGL-416'
+	* Was dropped
+Course 'ENGL-417'
+	* Was dropped
+Course 'ENGL-418'
+	* Was dropped
+Course 'ENGL-419'
+	* Was dropped
+Course 'ENGL-420'
+	* Was dropped
+Course 'ENGL-421'
+	* Was dropped
+Course 'ENGL-422'
+	* Was dropped
+Course 'ENGL-425'
+	* Was dropped
+Course 'ENGL-440'
+	* Was dropped
+Course 'ENGL-441'
+	* Was dropped
+Course 'ENGL-442'
+	* Was dropped
+Course 'ENGL-443'
+	* Was dropped
+Course 'ENGL-450'
+	* Was dropped
+Course 'ENGL-462'
+	* Was dropped
+Course 'ENGL-463'
+	* Was dropped
+Course 'ENGL-466'
+	* Was dropped
+Course 'ENGL-467'
+	* Was dropped
+Course 'ENGL-470'
+	* Was dropped
+Course 'ENGL-472'
+	* Was dropped
+Course 'ENGL-480'
+	* Was dropped
+Course 'ENGL-481'
+	* Was dropped
+Course 'ENGL-482'
+	* Was dropped
+Course 'ENGL-511'
+	* Was dropped
+Course 'ENGL-540'
+	* Was dropped
+Course 'ENGL-541'
+	* Was dropped
+Course 'ENGL-543'
+	* Was dropped
+Course 'ENGL-582'
+	* Was dropped
+Course 'ENGL-599'
+	* Was dropped
+Course 'FNRT-100'
+	* Was dropped
+Course 'FNRT-110'
+	* Was dropped
+Course 'FNRT-120'
+	* Was dropped
+Course 'FNRT-130'
+	* Was dropped
+Course 'FNRT-201'
+	* Was dropped
+Course 'FNRT-202'
+	* Was dropped
+Course 'FNRT-203'
+	* Was dropped
+Course 'FNRT-204'
+	* Was dropped
+Course 'FNRT-205'
+	* Was dropped
+Course 'FNRT-206'
+	* Was dropped
+Course 'FNRT-207 			'
+	* Was dropped
+Course 'FNRT-210'
+	* Was dropped
+Course 'FNRT-211'
+	* Was dropped
+Course 'FNRT-220'
+	* Was dropped
+Course 'FNRT-252'
+	* Was dropped
+Course 'FNRT-223'
+	* Was dropped
+Course 'FNRT-254'
+	* Was dropped
+Course 'FNRT-224'
+	* Was dropped
+Course 'FNRT-230 			'
+	* Was dropped
+Course 'FNRT-231				'
+	* Was dropped
+Course 'FNRT-250'
+	* Was dropped
+Course 'FNRT-253'
+	* Was dropped
+Course 'FNRT-255'
+	* Was dropped
+Course 'FNRT-256'
+	* Was dropped
+Course 'FNRT-301'
+	* Was dropped
+Course 'FNRT-302'
+	* Was dropped
+Course 'FNRT-251'
+	* Was dropped
+Course 'FNRT-303'
+	* Was dropped
+Course 'FNRT-304'
+	* Was dropped
+Course 'FNRT-320'
+	* Was dropped
+Course 'FNRT-321'
+	* Was dropped
+Course 'FNRT-322'
+	* Was dropped
+Course 'FNRT-323'
+	* Was dropped
+Course 'FNRT-324'
+	* Was dropped
+Course 'FNRT-325'
+	* Was dropped
+Course 'FNRT-326'
+	* Was dropped
+Course 'FNRT-327'
+	* Was dropped
+Course 'FNRT-354'
+	* Was dropped
+Course 'FNRT-355'
+	* Was dropped
+Course 'FNRT-356'
+	* Was dropped
+Course 'FNRT-357'
+	* Was dropped
+Course 'FNRT-358'
+	* Was dropped
+Course 'FNRT-370'
+	* Was dropped
+Course 'FNRT-371'
+	* Was dropped
+Course 'FNRT-372'
+	* Was dropped
+Course 'FNRT-373'
+	* Was dropped
+Course 'FNRT-374'
+	* Was dropped
+Course 'FNRT-376'
+	* Was dropped
+Course 'FNRT-377'
+	* Was dropped
+Course 'FNRT-378'
+	* Was dropped
+Course 'FNRT-379'
+	* Was dropped
+Course 'FNRT-380'
+	* Was dropped
+Course 'FNRT-381'
+	* Was dropped
+Course 'FNRT-382'
+	* Was dropped
+Course 'FNRT-383'
+	* Was dropped
+Course 'FNRT-384'
+	* Was dropped
+Course 'FNRT-440'
+	* Was dropped
+Course 'FNRT-485'
+	* Was dropped
+Course 'FNRT-489'
+	* Was dropped
+Course 'FNRT-490'
+	* Was dropped
+Course 'FNRT-599'
+	* Was dropped
+Course 'MLAR-201'
+	* Was dropped
+Course 'MLAR-202'
+	* Was dropped
+Course 'MLAR-301'
+	* Was dropped
+Course 'MLAR-302'
+	* Was dropped
+Course 'MLAR-401'
+	* Was dropped
+Course 'MLAR-402'
+	* Was dropped
+Course 'MLAR-449'
+	* Was dropped
+Course 'MLAS-201'
+	* Was dropped
+Course 'MLAS-202'
+	* Was dropped
+Course 'MLAS-301'
+	* Was dropped
+Course 'MLAS-302'
+	* Was dropped
+Course 'MLAS-351'
+	* Was dropped
+Course 'MLAS-352'
+	* Was dropped
+Course 'MLAS-401'
+	* Was dropped
+Course 'MLAS-402'
+	* Was dropped
+Course 'MLAS-449'
+	* Was dropped
+Course 'MLCH-201'
+	* Was dropped
+Course 'MLCH-202'
+	* Was dropped
+Course 'MLCH-301'
+	* Was dropped
+Course 'MLCH-302'
+	* Was dropped
+Course 'MLCH-401'
+	* Was dropped
+Course 'MLCH-402'
+	* Was dropped
+Course 'MLCH-449'
+	* Was dropped
+Course 'MLFR-201'
+	* Was dropped
+Course 'MLFR-202'
+	* Was dropped
+Course 'MLFR-301'
+	* Was dropped
+Course 'MLFR-302'
+	* Was dropped
+Course 'MLFR-351'
+	* Was dropped
+Course 'MLFR-401'
+	* Was dropped
+Course 'MLFR-402'
+	* Was dropped
+Course 'MLFR-449'
+	* Was dropped
+Course 'MLGR-201'
+	* Was dropped
+Course 'MLGR-202'
+	* Was dropped
+Course 'MLGR-301'
+	* Was dropped
+Course 'MLGR-302'
+	* Was dropped
+Course 'MLGR-401'
+	* Was dropped
+Course 'MLGR-402'
+	* Was dropped
+Course 'MLGR-449'
+	* Was dropped
+Course 'MLIT-201'
+	* Was dropped
+Course 'MLIT-202'
+	* Was dropped
+Course 'MLIT-301'
+	* Was dropped
+Course 'MLIT-302'
+	* Was dropped
+Course 'MLIT-401'
+	* Was dropped
+Course 'MLIT-402'
+	* Was dropped
+Course 'MLIT-449'
+	* Was dropped
+Course 'MLJP-201'
+	* Was dropped
+Course 'MLJP-202'
+	* Was dropped
+Course 'MLJP-301'
+	* Was dropped
+Course 'MLJP-302'
+	* Was dropped
+Course 'MLJP-351'
+	* Was dropped
+Course 'MLJP-401'
+	* Was dropped
+Course 'MLJP-402'
+	* Was dropped
+Course 'MLJP-403'
+	* Was dropped
+Course 'MLJP-404'
+	* Was dropped
+Course 'MLJP-405'
+	* Was dropped
+Course 'MLJP-449'
+	* Was dropped
+Course 'MLJP-451'
+	* Was dropped
+Course 'MLPO-201'
+	* Was dropped
+Course 'MLPO-202'
+	* Was dropped
+Course 'MLPO-301'
+	* Was dropped
+Course 'MLPO-302'
+	* Was dropped
+Course 'MLPO-401'
+	* Was dropped
+Course 'MLPO-402'
+	* Was dropped
+Course 'MLPO-449'
+	* Was dropped
+Course 'MLRU-201'
+	* Was dropped
+Course 'MLRU-202'
+	* Was dropped
+Course 'MLRU-301'
+	* Was dropped
+Course 'MLRU-302'
+	* Was dropped
+Course 'MLRU-401'
+	* Was dropped
+Course 'MLRU-402'
+	* Was dropped
+Course 'MLRU-449'
+	* Was dropped
+Course 'MLSP-201A'
+	* Was dropped
+Course 'MLSP-201B'
+	* Was dropped
+Course 'MLSP-202'
+	* Was dropped
+Course 'MLSP-301'
+	* Was dropped
+Course 'MLSP-302'
+	* Was dropped
+Course 'MLSP-351'
+	* Was dropped
+Course 'MLSP-352'
+	* Was dropped
+Course 'MLSP-353'
+	* Was dropped
+Course 'MLSP-401'
+	* Was dropped
+Course 'MLSP-402'
+	* Was dropped
+Course 'MLSP-449'
+	* Was dropped
+Course 'MLST-449'
+	* Was dropped
+Course 'HIST-101'
+	* Was dropped
+Course 'HIST-102'
+	* Was dropped
+Course 'HIST-103'
+	* Was dropped
+Course 'HIST-125 			'
+	* Was dropped
+Course 'HIST-160'
+	* Was dropped
+Course 'HIST-170'
+	* Was dropped
+Course 'HIST-180'
+	* Was dropped
+Course 'HIST-190'
+	* Was dropped
+Course 'HIST-191'
+	* Was dropped
+Course 'HIST-199'
+	* Was dropped
+Course 'HIST-201'
+	* Was dropped
+Course 'HIST-210'
+	* Was dropped
+Course 'HIST-221'
+	* Was dropped
+Course 'HIST-230'
+	* Was dropped
+Course 'HIST-231'
+	* Was dropped
+Course 'HIST-238'
+	* Was dropped
+Course 'HIST-240'
+	* Was dropped
+Course 'HIST-245'
+	* Was dropped
+Course 'HIST-250'
+	* Was dropped
+Course 'HIST-251'
+	* Was dropped
+Course 'HIST-252'
+	* Was dropped
+Course 'HIST-260'
+	* Was dropped
+Course 'HIST-261'
+	* Was dropped
+Course 'HIST-290'
+	* Was dropped
+Course 'HIST-265'
+	* Was dropped
+Course 'HIST-301'
+	* Was dropped
+Course 'HIST-266'
+	* Was dropped
+Course 'HIST-270'
+	* Was dropped
+Course 'HIST-275'
+	* Was dropped
+Course 'HIST-280'
+	* Was dropped
+Course 'HIST-302'
+	* Was dropped
+Course 'HIST-310'
+	* Was dropped
+Course 'HIST-321'
+	* Was dropped
+Course 'HIST-322'
+	* Was dropped
+Course 'HIST-323'
+	* Was dropped
+Course 'HIST-324'
+	* Was dropped
+Course 'HIST-325'
+	* Was dropped
+Course 'HIST-326'
+	* Was dropped
+Course 'HIST-330'
+	* Was dropped
+Course 'HIST-333'
+	* Was dropped
+Course 'HIST-334'
+	* Was dropped
+Course 'HIST-335'
+	* Was dropped
+Course 'HIST-345'
+	* Was dropped
+Course 'HIST-350'
+	* Was dropped
+Course 'HIST-365'
+	* Was dropped
+Course 'HIST-369'
+	* Was dropped
+Course 'HIST-380'
+	* Was dropped
+Course 'HIST-381'
+	* Was dropped
+Course 'HIST-390'
+	* Was dropped
+Course 'HIST-402'
+	* Was dropped
+Course 'HIST-421'
+	* Was dropped
+Course 'HIST-439'
+	* Was dropped
+Course 'HIST-450'
+	* Was dropped
+Course 'HIST-462'
+	* Was dropped
+Course 'HIST-465'
+	* Was dropped
+Course 'HIST-470'
+	* Was dropped
+Course 'HIST-480'
+	* Was dropped
+Course 'HIST-499'
+	* Was dropped
+Course 'ITDL-101'
+	* Was dropped
+Course 'ITDL-151H'
+	* Was dropped
+Course 'INGS-101'
+	* Was dropped
+Course 'INGS-201'
+	* Was dropped
+Course 'INGS-210'
+	* Was dropped
+Course 'INGS-270'
+	* Was dropped
+Course 'INGS-310'
+	* Was dropped
+Course 'INGS-455'
+	* Was dropped
+Course 'INGS-489'
+	* Was dropped
+Course 'INGS-501'
+	* Was dropped
+Course 'INGS-502'
+	* Was dropped
+Course 'INGS-597'
+	* Was dropped
+Course 'MUSE-220'
+	* Was dropped
+Course 'MUSE-221'
+	* Was dropped
+Course 'MUSE-223'
+	* Was dropped
+Course 'MUSE-224'
+	* Was dropped
+Course 'MUSE-354'
+	* Was dropped
+Course 'MUSE-355'
+	* Was dropped
+Course 'MUSE-357'
+	* Was dropped
+Course 'MUSE-358'
+	* Was dropped
+Course 'MUSE-449'
+	* Was dropped
+Course 'MUSE-489'
+	* Was dropped
+Course 'MUSE-490'
+	* Was dropped
+Course 'MUSE-599'
+	* Was dropped
+Course 'PHIL-101'
+	* Was dropped
+Course 'PHIL-102'
+	* Was dropped
+Course 'PHIL-103'
+	* Was dropped
+Course 'PHIL-201'
+	* Was dropped
+Course 'PHIL-202'
+	* Was dropped
+Course 'PHIL-203'
+	* Was dropped
+Course 'PHIL-204'
+	* Was dropped
+Course 'PHIL-301'
+	* Was dropped
+Course 'PHIL-302'
+	* Was dropped
+Course 'PHIL-303'
+	* Was dropped
+Course 'PHIL-304'
+	* Was dropped
+Course 'PHIL-305'
+	* Was dropped
+Course 'PHIL-306'
+	* Was dropped
+Course 'PHIL-307'
+	* Was dropped
+Course 'PHIL-308'
+	* Was dropped
+Course 'PHIL-309'
+	* Was dropped
+Course 'PHIL-310'
+	* Was dropped
+Course 'PHIL-311'
+	* Was dropped
+Course 'PHIL-312'
+	* Was dropped
+Course 'PHIL-313'
+	* Was dropped
+Course 'PHIL-314'
+	* Was dropped
+Course 'PHIL-401'
+	* Was dropped
+Course 'PHIL-402'
+	* Was dropped
+Course 'PHIL-403'
+	* Was dropped
+Course 'PHIL-404'
+	* Was dropped
+Course 'PHIL-405'
+	* Was dropped
+Course 'PHIL-406'
+	* Was dropped
+Course 'PHIL-407'
+	* Was dropped
+Course 'PHIL-408'
+	* Was dropped
+Course 'PHIL-410'
+	* Was dropped
+Course 'PHIL-416'
+	* Was dropped
+Course 'PHIL-449'
+	* Was dropped
+Course 'PHIL-499'
+	* Was dropped
+Course 'PHIL-571'
+	* Was dropped
+Course 'PHIL-595'
+	* Was dropped
+Course 'PHIL-599'
+	* Was dropped
+Course 'PHIL-412'
+	* Was dropped
+Course 'PHIL-413'
+	* Was dropped
+Course 'PHIL-414'
+	* Was dropped
+Course 'PHIL-415'
+	* Was dropped
+Course 'POLS-110'
+	* Was dropped
+Course 'POLS-110H'
+	* Was dropped
+Course 'POLS-115'
+	* Was dropped
+Course 'POLS-120'
+	* Was dropped
+Course 'POLS-200'
+	* Was dropped
+Course 'POLS-205'
+	* Was dropped
+Course 'POLS-210'
+	* Was dropped
+Course 'POLS-220'
+	* Was dropped
+Course 'POLS-250'
+	* Was dropped
+Course 'POLS-290'
+	* Was dropped
+Course 'POLS-305'
+	* Was dropped
+Course 'POLS-310'
+	* Was dropped
+Course 'POLS-315'
+	* Was dropped
+Course 'POLS-320'
+	* Was dropped
+Course 'POLS-325'
+	* Was dropped
+Course 'POLS-330'
+	* Was dropped
+Course 'POLS-335'
+	* Was dropped
+Course 'POLS-345'
+	* Was dropped
+Course 'POLS-350'
+	* Was dropped
+Course 'POLS-355'
+	* Was dropped
+Course 'POLS-360'
+	* Was dropped
+Course 'POLS-410'
+	* Was dropped
+Course 'POLS-415'
+	* Was dropped
+Course 'POLS-420'
+	* Was dropped
+Course 'POLS-425'
+	* Was dropped
+Course 'POLS-430'
+	* Was dropped
+Course 'POLS-435'
+	* Was dropped
+Course 'POLS-440'
+	* Was dropped
+Course 'POLS-445'
+	* Was dropped
+Course 'POLS-455'
+	* Was dropped
+Course 'POLS-460'
+	* Was dropped
+Course 'POLS-465'
+	* Was dropped
+Course 'POLS-481'
+	* Was dropped
+Course 'POLS-485'
+	* Was dropped
+Course 'POLS-490'
+	* Was dropped
+Course 'POLS-515'
+	* Was dropped
+Course 'POLS-525'
+	* Was dropped
+Course 'POLS-530'
+	* Was dropped
+Course 'POLS-599'
+	* Was dropped
+Course 'PSYC-101'
+	* Was dropped
+Course 'PSYC-101H'
+	* Was dropped
+Course 'PSYC-221'
+	* Was dropped
+Course 'PSYC-223'
+	* Was dropped
+Course 'PSYC-225'
+	* Was dropped
+Course 'PSYC-231'
+	* Was dropped
+Course 'PSYC-232'
+	* Was dropped
+Course 'PSYC-233'
+	* Was dropped
+Course 'PSYC-233H'
+	* Was dropped
+Course 'PSYC-234'
+	* Was dropped
+Course 'PSYC-235'
+	* Was dropped
+Course 'PSYC-237'
+	* Was dropped
+Course 'PSYC-238'
+	* Was dropped
+Course 'PSYC-239'
+	* Was dropped
+Course 'PSYC-250'
+	* Was dropped
+Course 'PSYC-251'
+	* Was dropped
+Course 'PSYC-312'
+	* Was dropped
+Course 'PSYC-320'
+	* Was dropped
+Course 'PSYC-321'
+	* Was dropped
+Course 'PSYC-330'
+	* Was dropped
+Course 'PSYC-331'
+	* Was dropped
+Course 'PSYC-332'
+	* Was dropped
+Course 'PSYC-340'
+	* Was dropped
+Course 'PSYC-341'
+	* Was dropped
+Course 'PSYC-342'
+	* Was dropped
+Course 'PSYC-350'
+	* Was dropped
+Course 'PSYC-351'
+	* Was dropped
+Course 'PSYC-352'
+	* Was dropped
+Course 'PSYC-401'
+	* Was dropped
+Course 'PSYC-444'
+	* Was dropped
+Course 'PSYC-499'
+	* Was dropped
+Course 'PSYC-502'
+	* Was dropped
+Course 'PSYC-510'
+	* Was dropped
+Course 'PSYC-550'
+	* Was dropped
+Course 'PSYC-599'
+	* Was dropped
+Course 'PUBL-101'
+	* Was dropped
+Course 'PUBL-120'
+	* Was dropped
+Course 'PUBL-201'
+	* Was dropped
+Course 'PUBL-210'
+	* Was dropped
+Course 'PUBL-301'
+	* Was dropped
+Course 'PUBL-302'
+	* Was dropped
+Course 'PUBL-489'
+	* Was dropped
+Course 'PUBL-499'
+	* Was dropped
+Course 'PUBL-500'
+	* Was dropped
+Course 'PUBL-510'
+	* Was dropped
+Course 'PUBL-520'
+	* Was dropped
+Course 'PUBL-530'
+	* Was dropped
+Course 'PUBL-599'
+	* Was dropped
+Course 'STSO-120'
+	* Was dropped
+Course 'STSO-140'
+	* Was dropped
+Course 'STSO-201'
+	* Was dropped
+Course 'STSO-220'
+	* Was dropped
+Course 'STSO-240'
+	* Was dropped
+Course 'STSO-246'
+	* Was dropped
+Course 'STSO-321'
+	* Was dropped
+Course 'STSO-325'
+	* Was dropped
+Course 'STSO-326'
+	* Was dropped
+Course 'STSO-330'
+	* Was dropped
+Course 'STSO-341'
+	* Was dropped
+Course 'STSO-342'
+	* Was dropped
+Course 'STSO-345'
+	* Was dropped
+Course 'STSO-346'
+	* Was dropped
+Course 'STSO-421'
+	* Was dropped
+Course 'STSO-422'
+	* Was dropped
+Course 'STSO-441'
+	* Was dropped
+Course 'STSO-442'
+	* Was dropped
+Course 'STSO-445'
+	* Was dropped
+Course 'STSO-446'
+	* Was dropped
+Course 'STSO-489'
+	* Was dropped
+Course 'STSO-510'
+	* Was dropped
+Course 'STSO-521'
+	* Was dropped
+Course 'STSO-550'
+	* Was dropped
+Course 'STSO-599'
+	* Was dropped
+Course 'SOCI-102'
+	* Was dropped
+Course 'SOCI-102H'
+	* Was dropped
+Course 'SOCI-103'
+	* Was dropped
+Course 'SOCI-201'
+	* Was dropped
+Course 'SOCI-210'
+	* Was dropped
+Course 'SOCI-215'
+	* Was dropped
+Course 'SOCI-220'
+	* Was dropped
+Course 'SOCI-225'
+	* Was dropped
+Course 'SOCI-230'
+	* Was dropped
+Course 'SOCI-235'
+	* Was dropped
+Course 'SOCI-240'
+	* Was dropped
+Course 'SOCI-245'
+	* Was dropped
+Course 'SOCI-250'
+	* Was dropped
+Course 'SOCI-301'
+	* Was dropped
+Course 'SOCI-302'
+	* Was dropped
+Course 'SOCI-303'
+	* Was dropped
+Course 'SOCI-310'
+	* Was dropped
+Course 'SOCI-315'
+	* Was dropped
+Course 'SOCI-320'
+	* Was dropped
+Course 'SOCI-325'
+	* Was dropped
+Course 'SOCI-330'
+	* Was dropped
+Course 'SOCI-335'
+	* Was dropped
+Course 'SOCI-340'
+	* Was dropped
+Course 'SOCI-345'
+	* Was dropped
+Course 'SOCI-350'
+	* Was dropped
+Course 'SOCI-390'
+	* Was dropped
+Course 'SOCI-410'
+	* Was dropped
+Course 'SOCI-489'
+	* Was dropped
+Course 'SOCI-501'
+	* Was dropped
+Course 'SOCI-502'
+	* Was dropped
+Course 'SOCI-503'
+	* Was dropped
+Course 'SOCI-599'
+	* Was dropped
+Course 'BUSI-205'
+	* Was dropped
+Course 'BUSI-221'
+	* Was dropped
+Course 'BUSI-261'
+	* Was dropped
+Course 'BUSI-263'
+	* Was dropped
+Course 'BUSI-320'
+	* Was dropped
+Course 'BUSI-324'
+	* Was dropped
+Course 'BUSI-409'
+	* Was dropped
+Course 'BUSI-510'
+	* Was dropped
+Course 'CMDS-205'
+	* Was dropped
+Course 'CMDS-211'
+	* Was dropped
+Course 'CMDS-233'
+	* Was dropped
+Course 'CMDS-298'
+	* Was dropped
+Course 'CMDS-299'
+	* Was dropped
+Course 'CMDS-333'
+	* Was dropped
+Course 'CMDS-335'
+	* Was dropped
+Course 'CMDS-362'
+	* Was dropped
+Course 'CMDS-411'
+	* Was dropped
+Course 'CMDS-431'
+	* Was dropped
+Course 'CMDS-432'
+	* Was dropped
+Course 'CMDS-441'
+	* Was dropped
+Course 'CMDS-442'
+	* Was dropped
+Course 'CMDS-461'
+	* Was dropped
+Course 'CMDS-497'
+	* Was dropped
+Course 'CMDS-498'
+	* Was dropped
+Course 'CMDS-499'
+	* Was dropped
+Course 'CMDS-500'
+	* Was dropped
+Course 'CMDS-510'
+	* Was dropped
+Course 'CMDS-511'
+	* Was dropped
+Course 'CMDS-520'
+	* Was dropped
+Course 'MTSC-111'
+	* Was dropped
+Course 'QLTM-310'
+	* Was dropped
+Course 'MTSC-112'
+	* Was dropped
+Course 'QLTM-340'
+	* Was dropped
+Course 'MTSC-211'
+	* Was dropped
+Course 'MTSC-212'
+	* Was dropped
+Course 'MTSC-231'
+	* Was dropped
+Course 'MTSC-232'
+	* Was dropped
+Course 'MTSC-233'
+	* Was dropped
+Course 'MTSC-234'
+	* Was dropped
+Course 'MTSC-240'
+	* Was dropped
+Course 'QLTM-410'
+	* Was dropped
+Course 'QLTM-420'
+	* Was dropped
+Course 'QLTM-430'
+	* Was dropped
+Course 'QLTM-480'
+	* Was dropped
+Course 'TCOM-270'
+	* Was dropped
+Course 'TCOM-271'
+	* Was dropped
+Course 'TCOM-320'
+	* Was dropped
+Course 'TCOM-325'
+	* Was dropped
+Course 'TCOM-327'
+	* Was dropped
+Course 'TCOM-333'
+	* Was dropped
+Course 'TCOM-356'
+	* Was dropped
+Course 'TCOM-361'
+	* Was dropped
+Course 'TCOM-365'
+	* Was dropped
+Course 'TCOM-380'
+	* Was dropped
+Course 'TCOM-381'
+	* Was dropped
+Course 'TCOM-382'
+	* Was dropped
+Course 'TCOM-383'
+	* Was dropped
+Course 'TCOM-410'
+	* Was dropped
+Course 'TCOM-414'
+	* Was dropped
+Course 'TCOM-435'
+	* Was dropped
+Course 'TCOM-444'
+	* Was dropped
+Course 'TCOM-476'
+	* Was dropped
+Course 'ASLC-211'
+	* Was dropped
+Course 'ASLC-212'
+	* Was dropped
+Course 'ASLC-289'
+	* Was dropped
+Course 'INTP-120'
+	* Was dropped
+Course 'INTP-125'
+	* Was dropped
+Course 'INTP-126'
+	* Was dropped
+Course 'INTP-200'
+	* Was dropped
+Course 'INTP-210'
+	* Was dropped
+Course 'INTP-215'
+	* Was dropped
+Course 'INTP-220'
+	* Was dropped
+Course 'INTP-225'
+	* Was dropped
+Course 'INTP-226'
+	* Was dropped
+Course 'INTP-310'
+	* Was dropped
+Course 'INTP-315'
+	* Was dropped
+Course 'INTP-325'
+	* Was dropped
+Course 'INTP-326'
+	* Was dropped
+Course 'INTP-335'
+	* Was dropped
+Course 'INTP-336'
+	* Was dropped
+Course 'INTP-340'
+	* Was dropped
+Course 'INTP-350'
+	* Was dropped
+Course 'INTP-360'
+	* Was dropped
+Course 'INTP-361'
+	* Was dropped
+Course 'INTP-362'
+	* Was dropped
+Course 'INTP-363'
+	* Was dropped
+Course 'INTP-399'
+	* Was dropped
+Course 'INTP-435'
+	* Was dropped
+Course 'INTP-436'
+	* Was dropped
+Course 'INTP-471'
+	* Was dropped
+Course 'INTP-489'
+	* Was dropped
+Course 'INTP-441'
+	* Was dropped
+Course 'INTP-450'
+	* Was dropped
+Course 'INTP-451'
+	* Was dropped
+Course 'INTP-460'
+	* Was dropped
+Course 'INTP-461'
+	* Was dropped
+Course 'NASL-190'
+	* Was dropped
+Course 'NASL-199'
+	* Was dropped
+Course 'NASL-200'
+	* Was dropped
+Course 'NASL-275'
+	* Was dropped
+Course 'NASL-280'
+	* Was dropped
+Course 'NASL-289'
+	* Was dropped
+Course 'NAIS-120'
+	* Was dropped
+Course 'NAIS-130'
+	* Was dropped
+Course 'NAIS-140'
+	* Was dropped
+Course 'NAIS-150'
+	* Was dropped
+Course 'NAIS-160'
+	* Was dropped
+Course 'NAIS-199'
+	* Was dropped
+Course 'NAIS-201'
+	* Was dropped
+Course 'NAIS-289'
+	* Was dropped
+Course 'NAIS-291'
+	* Was dropped
+Course 'NAIS-292'
+	* Was dropped
+Course 'NAIS-299'
+	* Was dropped
+Course 'NGRD-111'
+	* Was dropped
+Course 'NGRD-115'
+	* Was dropped
+Course 'NGRD-211'
+	* Was dropped
+Course 'NGRD-221'
+	* Was dropped
+Course 'NGRD-222'
+	* Was dropped
+Course 'NGRD-230'
+	* Was dropped
+Course 'NGRD-240'
+	* Was dropped
+Course 'NGRD-255'
+	* Was dropped
+Course 'NGRD-256'
+	* Was dropped
+Course 'NGRP-232'
+	* Was dropped
+Course 'NGRP-245'
+	* Was dropped
+Course 'NGRP-250'
+	* Was dropped
+Course 'NGRP-110'
+	* Was dropped
+Course 'NGRP-210'
+	* Was dropped
+Course 'NGRP-231'
+	* Was dropped
+Course 'NGRP-251'
+	* Was dropped
+Course 'NGRP-252'
+	* Was dropped
+Course 'NGRP-260'
+	* Was dropped
+Course 'NGRP-261'
+	* Was dropped
+Course 'NGRP-270'
+	* Was dropped
+Course 'NGRP-275'
+	* Was dropped
+Course 'NACC-206'
+	* Was dropped
+Course 'NACC-289'
+	* Was dropped
+Course 'NACC-299'
+	* Was dropped
+Course 'NAST-140'
+	* Was dropped
+Course 'NACC-130'
+	* Was dropped
+Course 'NACC-199'
+	* Was dropped
+Course 'NACC-201'
+	* Was dropped
+Course 'NACC-202'
+	* Was dropped
+Course 'NACC-203'
+	* Was dropped
+Course 'NACC-204'
+	* Was dropped
+Course 'NACC-205'
+	* Was dropped
+Course 'NAST-150'
+	* Was dropped
+Course 'NAST-160'
+	* Was dropped
+Course 'NAST-19'
+	* Was dropped
+Course 'NAST-210'
+	* Was dropped
+Course 'NAST-215'
+	* Was dropped
+Course 'NAST-220'
+	* Was dropped
+Course 'NAST-225'
+	* Was dropped
+Course 'NAST-230'
+	* Was dropped
+Course 'NAST-240'
+	* Was dropped
+Course 'NAST-241'
+	* Was dropped
+Course 'NAST-242'
+	* Was dropped
+Course 'NAST-243'
+	* Was dropped
+Course 'NAST-244'
+	* Was dropped
+Course 'NAST-299'
+	* Was dropped
+Course 'NBUS-200'
+	* Was dropped
+Course 'NBUS-211'
+	* Was dropped
+Course 'NBUS-213'
+	* Was dropped
+Course 'NBUS-217'
+	* Was dropped
+Course 'NBUS-221'
+	* Was dropped
+Course 'NBUS-223'
+	* Was dropped
+Course 'NBUS-225'
+	* Was dropped
+Course 'NBUS-227'
+	* Was dropped
+Course 'NCAR-100'
+	* Was dropped
+Course 'NCAR-110'
+	* Was dropped
+Course 'NCAR-115'
+	* Was dropped
+Course 'NCOM-101'
+	* Was dropped
+Course 'NCOM-199'
+	* Was dropped
+Course 'NCOM-201'
+	* Was dropped
+Course 'NCOM-202'
+	* Was dropped
+Course 'NCOM-204'
+	* Was dropped
+Course 'NCOM-206'
+	* Was dropped
+Course 'NCOM-207'
+	* Was dropped
+Course 'NCOM-208'
+	* Was dropped
+Course 'NCOM-289'
+	* Was dropped
+Course 'NETS-101'
+	* Was dropped
+Course 'NETS-110'
+	* Was dropped
+Course 'NETS-111'
+	* Was dropped
+Course 'NETS-120'
+	* Was dropped
+Course 'NETS-150'
+	* Was dropped
+Course 'NETS-151'
+	* Was dropped
+Course 'NCAD-108'
+	* Was dropped
+Course 'NCAD-112'
+	* Was dropped
+Course 'NCAD-150'
+	* Was dropped
+Course 'NCAD-170'
+	* Was dropped
+Course 'NCAD-180'
+	* Was dropped
+Course 'NCAD-199'
+	* Was dropped
+Course 'NCAD-201'
+	* Was dropped
+Course 'NCAD-220'
+	* Was dropped
+Course 'NCAD-230'
+	* Was dropped
+Course 'NCAD-240'
+	* Was dropped
+Course 'NCAD-250'
+	* Was dropped
+Course 'NCAD-255'
+	* Was dropped
+Course 'NCAD-265'
+	* Was dropped
+Course 'NCAD-275'
+	* Was dropped
+Course 'NCAD-280'
+	* Was dropped
+Course 'NCAD-285'
+	* Was dropped
+Course 'NCAD-289'
+	* Was dropped
+Course 'NCAD-299'
+	* Was dropped
+Course 'NCIM-101'
+	* Was dropped
+Course 'NCIM-102'
+	* Was dropped
+Course 'NCIM-121'
+	* Was dropped
+Course 'NCIM-131'
+	* Was dropped
+Course 'NCIM-132'
+	* Was dropped
+Course 'NCIM-241'
+	* Was dropped
+Course 'NCIM-199'
+	* Was dropped
+Course 'NCIM-242'
+	* Was dropped
+Course 'NCIM-201'
+	* Was dropped
+Course 'NCIM-207'
+	* Was dropped
+Course 'NCIM-222'
+	* Was dropped
+Course 'NCIM-233'
+	* Was dropped
+Course 'NCIM-234'
+	* Was dropped
+Course 'NCIM-235'
+	* Was dropped
+Course 'NCIM-236'
+	* Was dropped
+Course 'NCIM-237'
+	* Was dropped
+Course 'NCIM-243'
+	* Was dropped
+Course 'NCIM-251'
+	* Was dropped
+Course 'NCIM-252'
+	* Was dropped
+Course 'NCIM-289'
+	* Was dropped
+Course 'NCIM-299'
+	* Was dropped
+Course 'NENG-102'
+	* Was dropped
+Course 'NENG-103'
+	* Was dropped
+Course 'NENG-112'
+	* Was dropped
+Course 'NENG-113'
+	* Was dropped
+Course 'NENG-199'
+	* Was dropped
+Course 'NENG-212'
+	* Was dropped
+Course 'NENG-213'
+	* Was dropped
+Course 'NENG-221'
+	* Was dropped
+Course 'NENG-222'
+	* Was dropped
+Course 'NENG-231'
+	* Was dropped
+Course 'NENG-232'
+	* Was dropped
+Course 'NENG-241'
+	* Was dropped
+Course 'NENG-289'
+	* Was dropped
+Course 'NHSS-110'
+	* Was dropped
+Course 'NHSS-111'
+	* Was dropped
+Course 'NHSS-120'
+	* Was dropped
+Course 'NHSS-122'
+	* Was dropped
+Course 'NHSS-130'
+	* Was dropped
+Course 'NHSS-132'
+	* Was dropped
+Course 'NHSS-134'
+	* Was dropped
+Course 'NHSS-150'
+	* Was dropped
+Course 'NHSS-159'
+	* Was dropped
+Course 'NHSS-180'
+	* Was dropped
+Course 'NHSS-199'
+	* Was dropped
+Course 'NHSS-219'
+	* Was dropped
+Course 'NHSS-223'
+	* Was dropped
+Course 'NHSS-224'
+	* Was dropped
+Course 'NHSS-225'
+	* Was dropped
+Course 'NHSS-231'
+	* Was dropped
+Course 'NHSS-235'
+	* Was dropped
+Course 'NHSS-240'
+	* Was dropped
+Course 'NHSS-248'
+	* Was dropped
+Course 'NHSS-249'
+	* Was dropped
+Course 'NHSS-260'
+	* Was dropped
+Course 'NHSS-269'
+	* Was dropped
+Course 'NHSS-270'
+	* Was dropped
+Course 'NHSS-279'
+	* Was dropped
+Course 'NHSS-281'
+	* Was dropped
+Course 'NHSS-289'
+	* Was dropped
+Course 'NACA-150'
+	* Was dropped
+Course 'NACA-160'
+	* Was dropped
+Course 'NACA-161'
+	* Was dropped
+Course 'NACA-172'
+	* Was dropped
+Course 'NACA-174'
+	* Was dropped
+Course 'NACA-199'
+	* Was dropped
+Course 'NACA-289'
+	* Was dropped
+Course 'NACT-120'
+	* Was dropped
+Course 'NACT-150'
+	* Was dropped
+Course 'NACT-151'
+	* Was dropped
+Course 'NACT-155'
+	* Was dropped
+Course 'NACT-160'
+	* Was dropped
+Course 'NACT-161'
+	* Was dropped
+Course 'NACT-170'
+	* Was dropped
+Course 'NACT-199'
+	* Was dropped
+Course 'NACT-200'
+	* Was dropped
+Course 'NACT-230'
+	* Was dropped
+Course 'NACT-252'
+	* Was dropped
+Course 'NACT-255'
+	* Was dropped
+Course 'NACT-260'
+	* Was dropped
+Course 'NACT-261'
+	* Was dropped
+Course 'NACT-262'
+	* Was dropped
+Course 'NACT-235'
+	* Was dropped
+Course 'NACT-265'
+	* Was dropped
+Course 'NACT-240'
+	* Was dropped
+Course 'NACT-266'
+	* Was dropped
+Course 'NACT-250'
+	* Was dropped
+Course 'NACT-270'
+	* Was dropped
+Course 'NACT-251'
+	* Was dropped
+Course 'NACT-271'
+	* Was dropped
+Course 'NACT-289'
+	* Was dropped
+Course 'NACT-295'
+	* Was dropped
+Course 'NACT-299'
+	* Was dropped
+Course 'NLST-120'
+	* Was dropped
+Course 'NLST-171'
+	* Was dropped
+Course 'NLST-172'
+	* Was dropped
+Course 'NLST-199'
+	* Was dropped
+Course 'NLST-220'
+	* Was dropped
+Course 'NLST-225'
+	* Was dropped
+Course 'NLST-230'
+	* Was dropped
+Course 'NLST-232'
+	* Was dropped
+Course 'NLST-235'
+	* Was dropped
+Course 'NLST-240'
+	* Was dropped
+Course 'NLST-245'
+	* Was dropped
+Course 'NLST-250'
+	* Was dropped
+Course 'NLST-255'
+	* Was dropped
+Course 'NLST-260'
+	* Was dropped
+Course 'NLST-270'
+	* Was dropped
+Course 'NLST-289'
+	* Was dropped
+Course 'NLST-299'
+	* Was dropped
+Course 'NDLS-256'
+	* Was dropped
+Course 'NDLS-280'
+	* Was dropped
+Course 'NMTH-140'
+	* Was dropped
+Course 'NMTH-180'
+	* Was dropped
+Course 'NMTH-199'
+	* Was dropped
+Course 'NMTH-206'
+	* Was dropped
+Course 'NMTH-210'
+	* Was dropped
+Course 'NMTH-212'
+	* Was dropped
+Course 'NMTH-245'
+	* Was dropped
+Course 'NMTH-250'
+	* Was dropped
+Course 'NMTH-260'
+	* Was dropped
+Course 'NMTH-265'
+	* Was dropped
+Course 'NMTH-270'
+	* Was dropped
+Course 'NMTH-272'
+	* Was dropped
+Course 'NMTH-275'
+	* Was dropped
+Course 'NMTH-289'
+	* Was dropped
+Course 'NSCI-153'
+	* Was dropped
+Course 'NSCI-154'
+	* Was dropped
+Course 'NSCI-155'
+	* Was dropped
+Course 'NSCI-156'
+	* Was dropped
+Course 'NSCI-157'
+	* Was dropped
+Course 'NSCI-161'
+	* Was dropped
+Course 'NSCI-162'
+	* Was dropped
+Course 'NSCI-199'
+	* Was dropped
+Course 'NSCI-200'
+	* Was dropped
+Course 'NSCI-201'
+	* Was dropped
+Course 'NSCI-270'
+	* Was dropped
+Course 'NSCI-281'
+	* Was dropped
+Course 'NSCI-282'
+	* Was dropped
+Course 'NSCI-283'
+	* Was dropped
+Course 'NSCI-284'
+	* Was dropped
+Course 'NSCI-289'
+	* Was dropped
+Course 'BIOG-142'
+	* Was dropped
+Course 'BIOL-101'
+	* Was dropped
+Course 'BIOL-102'
+	* Was dropped
+Course 'BIOL-103'
+	* Was dropped
+Course 'BIOL-104'
+	* Was dropped
+Course 'BIOG-110'
+	* Was dropped
+Course 'BIOG-140'
+	* Was dropped
+Course 'BIOG-141'
+	* Was dropped
+Course 'BIOL-111'
+	* Was dropped
+Course 'BIOL-121'
+	* Was dropped
+Course 'BIOL-122'
+	* Was dropped
+Course 'BIOL-130'
+	* Was dropped
+Course 'BIOL-189'
+	* Was dropped
+Course 'BIOL-289'
+	* Was dropped
+Course 'BIOL-201'
+	* Was dropped
+Course 'BIOL-290'
+	* Was dropped
+Course 'BIOL-204'
+	* Was dropped
+Course 'BIOL-205'
+	* Was dropped
+Course 'BIOL-211'
+	* Was dropped
+Course 'BIOL-212'
+	* Was dropped
+Course 'BIOL-218'
+	* Was dropped
+Course 'BIOL-230'
+	* Was dropped
+Course 'BIOL-240'
+	* Was dropped
+Course 'BIOL-265'
+	* Was dropped
+Course 'BIOL-293'
+	* Was dropped
+Course 'BIOL-295'
+	* Was dropped
+Course 'BIOL-296'
+	* Was dropped
+Course 'BIOL-298'
+	* Was dropped
+Course 'BIOL-301'
+	* Was dropped
+Course 'BIOL-303'
+	* Was dropped
+Course 'BIOL-305'
+	* Was dropped
+Course 'BIOL-306'
+	* Was dropped
+Course 'BIOL-307'
+	* Was dropped
+Course 'BIOL-308'
+	* Was dropped
+Course 'BIOL-309'
+	* Was dropped
+Course 'BIOL-310'
+	* Was dropped
+Course 'BIOL-312'
+	* Was dropped
+Course 'BIOL-313'
+	* Was dropped
+Course 'BIOL-314'
+	* Was dropped
+Course 'BIOL-322'
+	* Was dropped
+Course 'BIOL-325'
+	* Was dropped
+Course 'BIOL-341'
+	* Was dropped
+Course 'BIOL-343'
+	* Was dropped
+Course 'BIOL-345'
+	* Was dropped
+Course 'BIOL-350'
+	* Was dropped
+Course 'BIOL-365'
+	* Was dropped
+Course 'BIOL-370'
+	* Was dropped
+Course 'BIOL-371'
+	* Was dropped
+Course 'BIOL-375'
+	* Was dropped
+Course 'BIOL-385'
+	* Was dropped
+Course 'BIOL-389'
+	* Was dropped
+Course 'BIOL-401'
+	* Was dropped
+Course 'BIOL-403'
+	* Was dropped
+Course 'BIOL-416'
+	* Was dropped
+Course 'BIOL-418'
+	* Was dropped
+Course 'BIOL-420'
+	* Was dropped
+Course 'BIOL-425'
+	* Was dropped
+Course 'BIOL-427'
+	* Was dropped
+Course 'BIOL-428'
+	* Was dropped
+Course 'BIOL-430'
+	* Was dropped
+Course 'BIOL-440'
+	* Was dropped
+Course 'BIOL-450'
+	* Was dropped
+Course 'BIOL-473'
+	* Was dropped
+Course 'BIOL-475'
+	* Was dropped
+Course 'BIOL-489'
+	* Was dropped
+Course 'BIOL-490H'
+	* Was dropped
+Course 'BIOL-494'
+	* Was dropped
+Course 'BIOL-495'
+	* Was dropped
+Course 'BIOL-498'
+	* Was dropped
+Course 'BIOL-499'
+	* Was dropped
+Course 'BIOL-550'
+	* Was dropped
+Course 'BIOL-570'
+	* Was dropped
+Course 'BIOL-571'
+	* Was dropped
+Course 'BIOL-572'
+	* Was dropped
+Course 'BIOL-599'
+	* Was dropped
+Course 'CHEM-130'
+	* Was dropped
+Course 'CHEM-151'
+	* Was dropped
+Course 'CHEM-189'
+	* Was dropped
+Course 'CHEM-201'
+	* Was dropped
+Course 'CHEM-203'
+	* Was dropped
+Course 'CHEM-289'
+	* Was dropped
+Course 'CHEM-298'
+	* Was dropped
+Course 'CHEM-301'
+	* Was dropped
+Course 'CHEM-489'
+	* Was dropped
+Course 'CHEM-493'
+	* Was dropped
+Course 'CHEM-495'
+	* Was dropped
+Course 'CHEM-499'
+	* Was dropped
+Course 'CHMA-161'
+	* Was dropped
+Course 'CHMA-165'
+	* Was dropped
+Course 'CHMA-221'
+	* Was dropped
+Course 'CHMA-222'
+	* Was dropped
+Course 'CHMB-189'
+	* Was dropped
+Course 'CHMB-240'
+	* Was dropped
+Course 'CHMB-289'
+	* Was dropped
+Course 'CHMB-402'
+	* Was dropped
+Course 'CHMB-403'
+	* Was dropped
+Course 'CHMB-405'
+	* Was dropped
+Course 'CHMB-450'
+	* Was dropped
+Course 'CHMG-123'
+	* Was dropped
+Course 'CHMB-489'
+	* Was dropped
+Course 'CHMG-131'
+	* Was dropped
+Course 'CHMB-493'
+	* Was dropped
+Course 'CHMB-495'
+	* Was dropped
+Course 'CHMB-498'
+	* Was dropped
+Course 'CHMB-499'
+	* Was dropped
+Course 'CHMG-111'
+	* Was dropped
+Course 'CHMG-112'
+	* Was dropped
+Course 'CHMG-121'
+	* Was dropped
+Course 'CHMG-122'
+	* Was dropped
+Course 'CHMG-141'
+	* Was dropped
+Course 'CHMG-142'
+	* Was dropped
+Course 'CHMG-145'
+	* Was dropped
+Course 'CHMG-146'
+	* Was dropped
+Course 'CHMG-201'
+	* Was dropped
+Course 'CHMI-351'
+	* Was dropped
+Course 'CHMI-352'
+	* Was dropped
+Course 'CHMI-565'
+	* Was dropped
+Course 'CHMO-231'
+	* Was dropped
+Course 'CHMP-441'
+	* Was dropped
+Course 'CHMO-235'
+	* Was dropped
+Course 'CHMP-442'
+	* Was dropped
+Course 'CHMO-236'
+	* Was dropped
+Course 'CHMP-445'
+	* Was dropped
+Course 'CHMO-232'
+	* Was dropped
+Course 'CHMO-331'
+	* Was dropped
+Course 'CHMO-332'
+	* Was dropped
+Course 'ENVS-101'
+	* Was dropped
+Course 'CHMO-335'
+	* Was dropped
+Course 'ENVS-111'
+	* Was dropped
+Course 'CHMO-336'
+	* Was dropped
+Course 'ENVS-150'
+	* Was dropped
+Course 'CHMO-535'
+	* Was dropped
+Course 'ENVS-151'
+	* Was dropped
+Course 'ENVS-189'
+	* Was dropped
+Course 'ENVS-289'
+	* Was dropped
+Course 'ENVS-201'
+	* Was dropped
+Course 'ENVS-295'
+	* Was dropped
+Course 'ENVS-205'
+	* Was dropped
+Course 'ENVS-301'
+	* Was dropped
+Course 'ENVS-241'
+	* Was dropped
+Course 'ENVS-242H'
+	* Was dropped
+Course 'ENVS-250'
+	* Was dropped
+Course 'ENVS-275'
+	* Was dropped
+Course 'ENVS-298'
+	* Was dropped
+Course 'ENVS-450'
+	* Was dropped
+Course 'ENVS-489'
+	* Was dropped
+Course 'ENVS-495'
+	* Was dropped
+Course 'ENVS-498'
+	* Was dropped
+Course 'ENVS-499'
+	* Was dropped
+Course 'ENVS-551'
+	* Was dropped
+Course 'ENVS-552'
+	* Was dropped
+Course 'GSCI-101'
+	* Was dropped
+Course 'GSCI-102'
+	* Was dropped
+Course 'IMGS-111'
+	* Was dropped
+Course 'IMGS-112'
+	* Was dropped
+Course 'IMGS-180'
+	* Was dropped
+Course 'IMGS-181'
+	* Was dropped
+Course 'IMGS-182'
+	* Was dropped
+Course 'IMGS-189'
+	* Was dropped
+Course 'IMGS-211'
+	* Was dropped
+Course 'IMGS-221'
+	* Was dropped
+Course 'IMGS-230H'
+	* Was dropped
+Course 'IMGS-241'
+	* Was dropped
+Course 'IMGS-242H'
+	* Was dropped
+Course 'IMGS-261'
+	* Was dropped
+Course 'IMGS-290'
+	* Was dropped
+Course 'IMGS-321'
+	* Was dropped
+Course 'IMGS-322'
+	* Was dropped
+Course 'IMGS-341'
+	* Was dropped
+Course 'IMGS-351'
+	* Was dropped
+Course 'IMGS-361'
+	* Was dropped
+Course 'IMGS-362'
+	* Was dropped
+Course 'IMGS-365'
+	* Was dropped
+Course 'IMGS-401'
+	* Was dropped
+Course 'IMGS-431'
+	* Was dropped
+Course 'IMGS-433'
+	* Was dropped
+Course 'IMGS-441'
+	* Was dropped
+Course 'IMGS-451'
+	* Was dropped
+Course 'IMGS-461'
+	* Was dropped
+Course 'IMGS-462'
+	* Was dropped
+Course 'IMGS-475'
+	* Was dropped
+Course 'IMGS-476'
+	* Was dropped
+Course 'IMGS-495'
+	* Was dropped
+Course 'IMGS-499'
+	* Was dropped
+Course 'IMGS-502'
+	* Was dropped
+Course 'IMGS-503'
+	* Was dropped
+Course 'IMGS-528'
+	* Was dropped
+Course 'IMGS-532'
+	* Was dropped
+Course 'IMGS-539'
+	* Was dropped
+Course 'IMGS-542'
+	* Was dropped
+Course 'IMGS-599'
+	* Was dropped
+Course 'ITDS-150'
+	* Was dropped
+Course 'ITDS-160'
+	* Was dropped
+Course 'ITDS-161'
+	* Was dropped
+Course 'ITDS-189'
+	* Was dropped
+Course 'ITDS-280'
+	* Was dropped
+Course 'ITDS-359'
+	* Was dropped
+Course 'ITDS-389'
+	* Was dropped
+Course 'MATH-101'
+	* Was dropped
+Course 'MATH-104'
+	* Was dropped
+Course 'MATH-131'
+	* Was dropped
+Course 'MATH-161'
+	* Was dropped
+Course 'MATH-171'
+	* Was dropped
+Course 'MATH-172'
+	* Was dropped
+Course 'MATH-173'
+	* Was dropped
+Course 'MATH-180'
+	* Was dropped
+Course 'MATH-181'
+	* Was dropped
+Course 'MATH-181A'
+	* Was dropped
+Course 'MATH-182'
+	* Was dropped
+Course 'MATH-182A'
+	* Was dropped
+Course 'MATH-185'
+	* Was dropped
+Course 'MATH-186'
+	* Was dropped
+Course 'MATH-190'
+	* Was dropped
+Course 'MATH-241'
+	* Was dropped
+Course 'MATH-199'
+	* Was dropped
+Course 'MATH-251'
+	* Was dropped
+Course 'MATH-200'
+	* Was dropped
+Course 'MATH-211'
+	* Was dropped
+Course 'MATH-219'
+	* Was dropped
+Course 'MATH-220'
+	* Was dropped
+Course 'MATH-221'
+	* Was dropped
+Course 'MATH-252'
+	* Was dropped
+Course 'MATH-255'
+	* Was dropped
+Course 'MATH-261'
+	* Was dropped
+Course 'MATH-289'
+	* Was dropped
+Course 'MATH-291'
+	* Was dropped
+Course 'MATH-221H'
+	* Was dropped
+Course 'MATH-295'
+	* Was dropped
+Course 'MATH-231'
+	* Was dropped
+Course 'MATH-305'
+	* Was dropped
+Course 'MATH-233'
+	* Was dropped
+Course 'MATH-301'
+	* Was dropped
+Course 'MATH-311'
+	* Was dropped
+Course 'MATH-312'
+	* Was dropped
+Course 'MATH-401'
+	* Was dropped
+Course 'MATH-321'
+	* Was dropped
+Course 'MATH-411'
+	* Was dropped
+Course 'MATH-326'
+	* Was dropped
+Course 'MATH-412'
+	* Was dropped
+Course 'MATH-331'
+	* Was dropped
+Course 'MATH-421'
+	* Was dropped
+Course 'MATH-341'
+	* Was dropped
+Course 'MATH-351'
+	* Was dropped
+Course 'MATH-367'
+	* Was dropped
+Course 'MATH-371'
+	* Was dropped
+Course 'MATH-381'
+	* Was dropped
+Course 'MATH-399'
+	* Was dropped
+Course 'MATH-431'
+	* Was dropped
+Course 'MATH-432'
+	* Was dropped
+Course 'MATH-441'
+	* Was dropped
+Course 'MATH-442'
+	* Was dropped
+Course 'MATH-489'
+	* Was dropped
+Course 'MATH-495'
+	* Was dropped
+Course 'MATH-498'
+	* Was dropped
+Course 'MATH-499'
+	* Was dropped
+Course 'PHYS-189'
+	* Was dropped
+Course 'PHYS-205'
+	* Was dropped
+Course 'PHYS-103'
+	* Was dropped
+Course 'PHYS-104'
+	* Was dropped
+Course 'PHYS-105'
+	* Was dropped
+Course 'PHYS-106'
+	* Was dropped
+Course 'PHYS-107'
+	* Was dropped
+Course 'PHYS-111'
+	* Was dropped
+Course 'PHYS-112'
+	* Was dropped
+Course 'PHYS-206'
+	* Was dropped
+Course 'PHYS-207'
+	* Was dropped
+Course 'PHYS-208'
+	* Was dropped
+Course 'PHYS-209'
+	* Was dropped
+Course 'PHYS-211'
+	* Was dropped
+Course 'PHYS-211A'
+	* Was dropped
+Course 'PHYS-150'
+	* Was dropped
+Course 'PHYS-211B'
+	* Was dropped
+Course 'PHYS-212'
+	* Was dropped
+Course 'PHYS-213'
+	* Was dropped
+Course 'PHYS-214'
+	* Was dropped
+Course 'PHYS-216'
+	* Was dropped
+Course 'PHYS-217'
+	* Was dropped
+Course 'PHYS-220'
+	* Was dropped
+Course 'PHYS-222'
+	* Was dropped
+Course 'PHYS-225'
+	* Was dropped
+Course 'PHYS-275'
+	* Was dropped
+Course 'PHYS-283'
+	* Was dropped
+Course 'PHYS-289'
+	* Was dropped
+Course 'PHYS-295'
+	* Was dropped
+Course 'PHYS-298'
+	* Was dropped
+Course 'PHYS-315'
+	* Was dropped
+Course 'PHYS-316'
+	* Was dropped
+Course 'PHYS-320'
+	* Was dropped
+Course 'PHYS-321'
+	* Was dropped
+Course 'PHYS-330'
+	* Was dropped
+Course 'PHYS-360'
+	* Was dropped
+Course 'PHYS-365'
+	* Was dropped
+Course 'PHYS-370'
+	* Was dropped
+Course 'PHYS-371'
+	* Was dropped
+Course 'PHYS-372'
+	* Was dropped
+Course 'PHYS-373'
+	* Was dropped
+Course 'PHYS-377'
+	* Was dropped
+Course 'PHYS-408'
+	* Was dropped
+Course 'PHYS-411'
+	* Was dropped
+Course 'PHYS-412'
+	* Was dropped
+Course 'PHYS-414'
+	* Was dropped
+Course 'PHYS-415'
+	* Was dropped
+Course 'PHYS-424'
+	* Was dropped
+Course 'PHYS-432'
+	* Was dropped
+Course 'PHYS-440'
+	* Was dropped
+Course 'PHYS-441'
+	* Was dropped
+Course 'PHYS-450'
+	* Was dropped
+Course 'PHYS-451'
+	* Was dropped
+Course 'PHYS-452'
+	* Was dropped
+Course 'PHYS-489'
+	* Was dropped
+Course 'PHYS-493'
+	* Was dropped
+Course 'PHYS-495'
+	* Was dropped
+Course 'PHYS-498'
+	* Was dropped
+Course 'PHYS-499'
+	* Was dropped
+Course 'STAT-145'
+	* Was dropped
+Course 'STAT-145H'
+	* Was dropped
+Course 'STAT-146'
+	* Was dropped
+Course 'STAT-155'
+	* Was dropped
+Course 'STAT-205'
+	* Was dropped
+Course 'STAT-295'
+	* Was dropped
+Course 'STAT-305'
+	* Was dropped
+Course 'STAT-315'
+	* Was dropped
+Course 'STAT-325'
+	* Was dropped
+Course 'STAT-335'
+	* Was dropped
+Course 'STAT-345'
+	* Was dropped
+Course 'STAT-405'
+	* Was dropped
+Course 'STAT-406'
+	* Was dropped
+Course 'STAT-415'
+	* Was dropped
+Course 'STAT-425'
+	* Was dropped
+Course 'STAT-435'
+	* Was dropped
+Course 'STAT-445'
+	* Was dropped
+Course 'ITDL-101'
+	* Was dropped
+Course 'ITDL-151H'
+	* Was dropped
+Course 'UWRT-100'
+	* Was dropped
+Course 'UWRT-150'
+	* Was dropped
+Course 'UWRT-325'
+	* Was dropped
+Course 'WDAN-012'
+	* Was dropped
+Course 'WDAN-015'
+	* Was dropped
+Course 'WDAN-031'
+	* Was dropped
+Course 'WDAN-033'
+	* Was dropped
+Course 'WDAN-035'
+	* Was dropped
+Course 'WDAN-037'
+	* Was dropped
+Course 'WDAN-045'
+	* Was dropped
+Course 'WDAN-048'
+	* Was dropped
+Course 'WDAN-006'
+	* Was dropped
+Course 'WFIT-001'
+	* Was dropped
+Course 'WFIT-023'
+	* Was dropped
+Course 'WFIT-028'
+	* Was dropped
+Course 'WFIT-034'
+	* Was dropped
+Course 'WFIT-035'
+	* Was dropped
+Course 'WFIT-037'
+	* Was dropped
+Course 'WFIT-046'
+	* Was dropped
+Course 'WFIT-064'
+	* Was dropped
+Course 'WFIT-069'
+	* Was dropped
+Course 'WFIT-070'
+	* Was dropped
+Course 'WFIT-075'
+	* Was dropped
+Course 'WFIT-076'
+	* Was dropped
+Course 'WFIT-082 PiY'
+	* Was dropped
+Course 'WFIT-086'
+	* Was dropped
+Course 'WFIT-088'
+	* Was dropped
+Course 'WFIT-090'
+	* Was dropped
+Course 'WFIT-094 Yog'
+	* Was dropped
+Course 'WFIT-095'
+	* Was dropped
+Course 'WFIT-097'
+	* Was dropped
+Course 'WHLS-010'
+	* Was dropped
+Course 'WHLS-030'
+	* Was dropped
+Course 'WHWS-001'
+	* Was dropped
+Course 'WHWS-010'
+	* Was dropped
+Course 'WHWS-015'
+	* Was dropped
+Course 'WHWS-018'
+	* Was dropped
+Course 'WHWS-002'
+	* Was dropped
+Course 'WHWS-020'
+	* Was dropped
+Course 'WHWS-021'
+	* Was dropped
+Course 'WHWS-022'
+	* Was dropped
+Course 'WHWS-004'
+	* Was dropped
+Course 'WHWS-006'
+	* Was dropped
+Course 'WHWS-008'
+	* Was dropped
+Course 'WHWS-009'
+	* Was dropped
+Course 'WINT-001'
+	* Was dropped
+Course 'WINT-010'
+	* Was dropped
+Course 'WINT-011'
+	* Was dropped
+Course 'WINT-013'
+	* Was dropped
+Course 'WINT-017'
+	* Was dropped
+Course 'WINT-019'
+	* Was dropped
+Course 'WINT-025'
+	* Was dropped
+Course 'WINT-028'
+	* Was dropped
+Course 'WINT-039'
+	* Was dropped
+Course 'WINT-004'
+	* Was dropped
+Course 'WINT-042'
+	* Was dropped
+Course 'WINT-043'
+	* Was dropped
+Course 'WINT-005'
+	* Was dropped
+Course 'WINT-053'
+	* Was dropped
+Course 'WINT-055'
+	* Was dropped
+Course 'WINT-056'
+	* Was dropped
+Course 'WINT-058'
+	* Was dropped
+Course 'WINT-059'
+	* Was dropped
+Course 'WINT-006'
+	* Was dropped
+Course 'WINT-062'
+	* Was dropped
+Course 'WINT-063'
+	* Was dropped
+Course 'WINT-065'
+	* Was dropped
+Course 'WINT-068'
+	* Was dropped
+Course 'WINT-070'
+	* Was dropped
+Course 'WINT-075'
+	* Was dropped
+Course 'WINT-076'
+	* Was dropped
+Course 'WINT-085'
+	* Was dropped
+Course 'WREC-031'
+	* Was dropped
+Course 'WREC-016'
+	* Was dropped
+Course 'WREC-040'
+	* Was dropped
+Course 'WREC-047 Gol'
+	* Was dropped
+Course 'WREC-059'
+	* Was dropped
+Course 'WREC-071'
+	* Was dropped
+Course 'WREC-072'
+	* Was dropped
+Course 'WREC-062'
+	* Was dropped
+Course 'WREC-076'
+	* Was dropped
+Course 'WREC-079'
+	* Was dropped
+Course 'WMAR-016'
+	* Was dropped
+Course 'WMAR-021'
+	* Was dropped
+Course 'WREC-091'
+	* Was dropped
+Course 'WMAR-026'
+	* Was dropped
+Course 'WREC-098'
+	* Was dropped
+Course 'WMAR-011'
+	* Was dropped
+Course 'WMAR-031'
+	* Was dropped
+Course 'WMAR-036'
+	* Was dropped
+Course 'WMAR-006'
+	* Was dropped
+Course 'WMIL-006'
+	* Was dropped
+Course 'WMAR-071'
+	* Was dropped
+Course 'WMIL-001'
+	* Was dropped
+Course 'WMIL-018'
+	* Was dropped
+Course 'WMIL-021'
+	* Was dropped
+Course 'WMIL-024'
+	* Was dropped
+Course 'CVET-140'
+	* Is new
+Course 'CVET-141'
+	* Is new
+Course 'CVET-150'
+	* Is new
+Course 'CVET-161'
+	* Is new
+Course 'CVET-170'
+	* Is new
+Course 'CVET-180'
+	* Is new
+Course 'CVET-181'
+	* Is new
+Course 'CVET-230'
+	* Is new
+Course 'CVET-240'
+	* Is new
+Course 'CVET-241'
+	* Is new
+Course 'CVET-251'
+	* Is new
+Course 'CVET-300'
+	* Is new
+Course 'CVET-332'
+	* Is new
+Course 'CVET-400'
+	* Is new
+Course 'CVET-401'
+	* Is new
+Course 'CVET-412'
+	* Is new
+Course 'CVET-414'
+	* Is new
+Course 'CVET-421'
+	* Is new
+Course 'CVET-422'
+	* Is new
+Course 'CVET-423'
+	* Is new
+Course 'CVET-424'
+	* Is new
+Course 'CVET-431'
+	* Is new
+Course 'CVET-432'
+	* Is new
+Course 'CVET-433'
+	* Is new
+Course 'CVET-434'
+	* Is new
+Course 'CVET-435'
+	* Is new
+Course 'CVET-436'
+	* Is new
+Course 'CVET-437'
+	* Is new
+Course 'CVET-440'
+	* Is new
+Course 'CVET-441'
+	* Is new
+Course 'CVET-450'
+	* Is new
+Course 'CVET-451'
+	* Is new
+Course 'CVET-453'
+	* Is new
+Course 'CVET-461'
+	* Is new
+Course 'CVET-462'
+	* Is new
+Course 'CVET-464'
+	* Is new
+Course 'CVET-465'
+	* Is new
+Course 'CVET-489'
+	* Is new
+Course 'CVET-499'
+	* Is new
+Course 'CVET-500'
+	* Is new
+Course 'CVET-599'
+	* Is new
+Course 'CPET-121'
+	* Is new
+Course 'CPET-141'
+	* Is new
+Course 'CPET-142'
+	* Is new
+Course 'CPET-201'
+	* Is new
+Course 'CPET-202'
+	* Is new
+Course 'CPET-241'
+	* Is new
+Course 'CPET-242'
+	* Is new
+Course 'CPET-321'
+	* Is new
+Course 'CPET-341'
+	* Is new
+Course 'CPET-561'
+	* Is new
+Course 'CPET-563'
+	* Is new
+Course 'CPET-342'
+	* Is new
+Course 'CPET-461'
+	* Is new
+Course 'EEET-122'
+	* Is new
+Course 'CPET-481'
+	* Is new
+Course 'CPET-499'
+	* Is new
+Course 'EEET-121'
+	* Is new
+Course 'EEET-211'
+	* Is new
+Course 'EEET-212'
+	* Is new
+Course 'EEET-216'
+	* Is new
+Course 'EEET-221'
+	* Is new
+Course 'EEET-222'
+	* Is new
+Course 'EEET-225'
+	* Is new
+Course 'EEET-226'
+	* Is new
+Course 'EEET-241'
+	* Is new
+Course 'EEET-242'
+	* Is new
+Course 'EEET-247'
+	* Is new
+Course 'EEET-248'
+	* Is new
+Course 'EEET-251'
+	* Is new
+Course 'EEET-252'
+	* Is new
+Course 'EEET-261'
+	* Is new
+Course 'EEET-299'
+	* Is new
+Course 'EEET-311'
+	* Is new
+Course 'EEET-312'
+	* Is new
+Course 'EEET-321'
+	* Is new
+Course 'EEET-351'
+	* Is new
+Course 'EEET-352'
+	* Is new
+Course 'EEET-353'
+	* Is new
+Course 'EEET-354'
+	* Is new
+Course 'EEET-361'
+	* Is new
+Course 'EEET-421'
+	* Is new
+Course 'EEET-422'
+	* Is new
+Course 'EEET-425'
+	* Is new
+Course 'EEET-427'
+	* Is new
+Course 'EEET-431'
+	* Is new
+Course 'EEET-432'
+	* Is new
+Course 'EEET-461'
+	* Is new
+Course 'EEET-499'
+	* Is new
+Course 'EEET-525'
+	* Is new
+Course 'EEET-531'
+	* Is new
+Course 'EEET-541'
+	* Is new
+Course 'EEET-561'
+	* Is new
+Course 'EEET-598'
+	* Is new
+Course 'EMET-419'
+	* Is new
+Course 'EMET-499'
+	* Is new
+Course 'EEET-441'
+	* Is new
+Course 'ENGT-110'
+	* Is new
+Course 'ENGT-299'
+	* Is new
+Course 'ESHS-100'
+	* Is new
+Course 'ESHS-150'
+	* Is new
+Course 'ESHS-200'
+	* Is new
+Course 'ESHS-201'
+	* Is new
+Course 'ESHS-225'
+	* Is new
+Course 'ESHS-250'
+	* Is new
+Course 'ESHS-251'
+	* Is new
+Course 'ESHS-310'
+	* Is new
+Course 'ESHS-330'
+	* Is new
+Course 'ESHS-460'
+	* Is new
+Course 'ESHS-480'
+	* Is new
+Course 'ESHS-489'
+	* Is new
+Course 'ESHS-499'
+	* Is new
+Course 'ESHS-500'
+	* Is new
+Course 'ESHS-501'
+	* Is new
+Course 'ESHS-511'
+	* Is new
+Course 'ESHS-512'
+	* Is new
+Course 'ESHS-515'
+	* Is new
+Course 'ESHS-525'
+	* Is new
+Course 'ESHS-526'
+	* Is new
+Course 'ESHS-530'
+	* Is new
+Course 'ESHS-544'
+	* Is new
+Course 'ESHS-550'
+	* Is new
+Course 'ESHS-590'
+	* Is new
+Course 'FOOD-121'
+	* Is new
+Course 'FOOD-123'
+	* Is new
+Course 'FOOD-151'
+	* Is new
+Course 'FOOD-153'
+	* Is new
+Course 'FOOD-160'
+	* Is new
+Course 'FOOD-161'
+	* Is new
+Course 'FOOD-162'
+	* Is new
+Course 'FOOD-163'
+	* Is new
+Course 'FOOD-165'
+	* Is new
+Course 'FOOD-171'
+	* Is new
+Course 'FOOD-173'
+	* Is new
+Course 'FOOD-175'
+	* Is new
+Course 'FOOD-223'
+	* Is new
+Course 'FOOD-251'
+	* Is new
+Course 'FOOD-325'
+	* Is new
+Course 'FOOD-413'
+	* Is new
+Course 'FOOD-454'
+	* Is new
+Course 'FOOD-489'
+	* Is new
+Course 'FOOD-599'
+	* Is new
+Course 'HSPT-131'
+	* Is new
+Course 'HSPT-181'
+	* Is new
+Course 'HSPT-212'
+	* Is new
+Course 'HSPT-232'
+	* Is new
+Course 'HSPT-235'
+	* Is new
+Course 'HSPT-244'
+	* Is new
+Course 'HSPT-246'
+	* Is new
+Course 'HSPT-281'
+	* Is new
+Course 'HSPT-284'
+	* Is new
+Course 'HSPT-336'
+	* Is new
+Course 'HSPT-345'
+	* Is new
+Course 'HSPT-372'
+	* Is new
+Course 'HSPT-374'
+	* Is new
+Course 'HSPT-381'
+	* Is new
+Course 'HSPT-383'
+	* Is new
+Course 'HSPT-384'
+	* Is new
+Course 'HSPT-475'
+	* Is new
+Course 'HSPT-477'
+	* Is new
+Course 'HSPT-481'
+	* Is new
+Course 'HSPT-489'
+	* Is new
+Course 'HSPT-490'
+	* Is new
+Course 'HSPT-499'
+	* Is new
+Course 'HSPT-518'
+	* Is new
+Course 'HSPT-599'
+	* Is new
+Course 'MFET-105'
+	* Is new
+Course 'MFET-120'
+	* Is new
+Course 'MFET-340'
+	* Is new
+Course 'MFET-341'
+	* Is new
+Course 'MFET-345'
+	* Is new
+Course 'MFET-346'
+	* Is new
+Course 'MFET-420'
+	* Is new
+Course 'MFET-436'
+	* Is new
+Course 'MFET-445'
+	* Is new
+Course 'MFET-446'
+	* Is new
+Course 'MFET-450'
+	* Is new
+Course 'MFET-456'
+	* Is new
+Course 'MFET-460'
+	* Is new
+Course 'MFET-580'
+	* Is new
+Course 'MFET-590'
+	* Is new
+Course 'MCET-101'
+	* Is new
+Course 'MCET-110'
+	* Is new
+Course 'MCET-111'
+	* Is new
+Course 'MCET-150'
+	* Is new
+Course 'MCET-210'
+	* Is new
+Course 'MCET-211'
+	* Is new
+Course 'MCET-220'
+	* Is new
+Course 'MCET-320'
+	* Is new
+Course 'MCET-330'
+	* Is new
+Course 'MCET-400'
+	* Is new
+Course 'MCET-430'
+	* Is new
+Course 'MCET-450'
+	* Is new
+Course 'MCET-488'
+	* Is new
+Course 'MCET-489'
+	* Is new
+Course 'MCET-499'
+	* Is new
+Course 'MCET-530'
+	* Is new
+Course 'MCET-535'
+	* Is new
+Course 'MCET-550'
+	* Is new
+Course 'MCET-551'
+	* Is new
+Course 'MCET-560'
+	* Is new
+Course 'MCET-563'
+	* Is new
+Course 'MCET-567'
+	* Is new
+Course 'MCET-568'
+	* Is new
+Course 'MCET-569'
+	* Is new
+Course 'MCET-570'
+	* Is new
+Course 'MCET-574'
+	* Is new
+Course 'MCET-575'
+	* Is new
+Course 'MCET-578'
+	* Is new
+Course 'MCET-580'
+	* Is new
+Course 'MCET-582'
+	* Is new
+Course 'MCET-583'
+	* Is new
+Course 'MCET-585'
+	* Is new
+Course 'MCET-586'
+	* Is new
+Course 'MCET-590'
+	* Is new
+Course 'PACK-101'
+	* Is new
+Course 'PACK-151'
+	* Is new
+Course 'PACK-152'
+	* Is new
+Course 'PACK-211'
+	* Is new
+Course 'PACK-212'
+	* Is new
+Course 'PACK-301'
+	* Is new
+Course 'PACK-302'
+	* Is new
+Course 'PACK-311'
+	* Is new
+Course 'PACK-312'
+	* Is new
+Course 'PACK-420'
+	* Is new
+Course 'PACK-421'
+	* Is new
+Course 'PACK-422'
+	* Is new
+Course 'PACK-430'
+	* Is new
+Course 'PACK-451'
+	* Is new
+Course 'PACK-470'
+	* Is new
+Course 'PACK-471'
+	* Is new
+Course 'PACK-481'
+	* Is new
+Course 'PACK-499'
+	* Is new
+Course 'PACK-530'
+	* Is new
+Course 'PACK-531'
+	* Is new
+Course 'PACK-535'
+	* Is new
+Course 'PACK-546'
+	* Is new
+Course 'PACK-547'
+	* Is new
+Course 'PACK-550'
+	* Is new
+Course 'PACK-555'
+	* Is new
+Course 'PACK-560'
+	* Is new
+Course 'PACK-599'
+	* Is new
+Course 'AERO-101'
+	* Is new
+Course 'AERO-102'
+	* Is new
+Course 'AERO-201'
+	* Is new
+Course 'AERO-202'
+	* Is new
+Course 'AERO-401'
+	* Is new
+Course 'AERO-402'
+	* Is new
+Course 'ARMY-101'
+	* Is new
+Course 'ARMY-102'
+	* Is new
+Course 'ARMY-202'
+	* Is new
+Course 'ARMY-301'
+	* Is new
+Course 'ARMY-302'
+	* Is new
+Course 'ARMY-402'
+	* Is new
+Course 'ARMY-501'
+	* Is new
+Course 'ACCT-110'
+	* Is new
+Course 'ACCT-210'
+	* Is new
+Course 'ACCT-305'
+	* Is new
+Course 'ACCT-360'
+	* Is new
+Course 'ACCT-365'
+	* Is new
+Course 'ACCT-399'
+	* Is new
+Course 'ACCT-420'
+	* Is new
+Course 'ACCT-430'
+	* Is new
+Course 'ACCT-440'
+	* Is new
+Course 'ACCT-445'
+	* Is new
+Course 'ACCT-450'
+	* Is new
+Course 'ACCT-460'
+	* Is new
+Course 'ACCT-488'
+	* Is new
+Course 'ACCT-489'
+	* Is new
+Course 'ACCT-499'
+	* Is new
+Course 'ACCT-500'
+	* Is new
+Course 'ACCT-510'
+	* Is new
+Course 'DECS-445'
+	* Is new
+Course 'ACCT-540'
+	* Is new
+Course 'DECS-489'
+	* Is new
+Course 'ACCT-599'
+	* Is new
+Course 'BLEG-200'
+	* Is new
+Course 'BLEG-489'
+	* Is new
+Course 'DECS-225'
+	* Is new
+Course 'DECS-310'
+	* Is new
+Course 'DECS-350'
+	* Is new
+Course 'DECS-435'
+	* Is new
+Course 'DECS-499'
+	* Is new
+Course 'DECS-599'
+	* Is new
+Course 'FINC-120'
+	* Is new
+Course 'FINC-220'
+	* Is new
+Course 'FINC-352'
+	* Is new
+Course 'FINC-359'
+	* Is new
+Course 'FINC-361'
+	* Is new
+Course 'FINC-362'
+	* Is new
+Course 'FINC-399'
+	* Is new
+Course 'FINC-420'
+	* Is new
+Course 'FINC-430'
+	* Is new
+Course 'FINC-460'
+	* Is new
+Course 'FINC-470'
+	* Is new
+Course 'FINC-488'
+	* Is new
+Course 'FINC-489'
+	* Is new
+Course 'FINC-499'
+	* Is new
+Course 'FINC-599'
+	* Is new
+Course 'INTB-225'
+	* Is new
+Course 'INTB-300'
+	* Is new
+Course 'INTB-310'
+	* Is new
+Course 'INTB-320'
+	* Is new
+Course 'INTB-399'
+	* Is new
+Course 'INTB-480'
+	* Is new
+Course 'INTB-488'
+	* Is new
+Course 'INTB-499'
+	* Is new
+Course 'INTB-550'
+	* Is new
+Course 'MGMT-035'
+	* Is new
+Course 'MGMT-070'
+	* Is new
+Course 'MGMT-101'
+	* Is new
+Course 'MGMT-150'
+	* Is new
+Course 'MGMT-215'
+	* Is new
+Course 'MGMT-300'
+	* Is new
+Course 'MGMT-301'
+	* Is new
+Course 'MGMT-310'
+	* Is new
+Course 'MGMT-330'
+	* Is new
+Course 'MGMT-360'
+	* Is new
+Course 'MGMT-380'
+	* Is new
+Course 'MGMT-399'
+	* Is new
+Course 'MGMT-420'
+	* Is new
+Course 'MGMT-470'
+	* Is new
+Course 'MGMT-488'
+	* Is new
+Course 'MGMT-489'
+	* Is new
+Course 'MGMT-499'
+	* Is new
+Course 'MGMT-550'
+	* Is new
+Course 'MGMT-560'
+	* Is new
+Course 'MGMT-599'
+	* Is new
+Course 'MGIS-102'
+	* Is new
+Course 'MGIS-103'
+	* Is new
+Course 'MGIS-120'
+	* Is new
+Course 'MGIS-130'
+	* Is new
+Course 'MGIS-201'
+	* Is new
+Course 'MGIS-320'
+	* Is new
+Course 'MGIS-330'
+	* Is new
+Course 'MGIS-350'
+	* Is new
+Course 'MGIS-360'
+	* Is new
+Course 'MGIS-399'
+	* Is new
+Course 'MGIS-415'
+	* Is new
+Course 'MGIS-425'
+	* Is new
+Course 'MGIS-435'
+	* Is new
+Course 'MGIS-445'
+	* Is new
+Course 'MGIS-450'
+	* Is new
+Course 'MGIS-488'
+	* Is new
+Course 'MGIS-489'
+	* Is new
+Course 'MGIS-499'
+	* Is new
+Course 'MGIS-550'
+	* Is new
+Course 'MGIS-599'
+	* Is new
+Course 'MKTG-230'
+	* Is new
+Course 'MKTG-310'
+	* Is new
+Course 'MKTG-550'
+	* Is new
+Course 'MKTG-599'
+	* Is new
+Course 'MKTG-340'
+	* Is new
+Course 'MKTG-350'
+	* Is new
+Course 'MKTG-360'
+	* Is new
+Course 'MKTG-370'
+	* Is new
+Course 'MKTG-399'
+	* Is new
+Course 'MKTG-410'
+	* Is new
+Course 'MKTG-420'
+	* Is new
+Course 'MKTG-488'
+	* Is new
+Course 'MKTG-489'
+	* Is new
+Course 'MKTG-499'
+	* Is new
+Course 'CINT-101'
+	* Is new
+Course 'CINT-151H'
+	* Is new
+Course 'CSCI-101'
+	* Is new
+Course 'CSCI-140'
+	* Is new
+Course 'CSCI-141'
+	* Is new
+Course 'CSCI-142'
+	* Is new
+Course 'CSCI-243'
+	* Is new
+Course 'CSCI-250'
+	* Is new
+Course 'CSCI-251'
+	* Is new
+Course 'CSCI-261'
+	* Is new
+Course 'CSCI-262'
+	* Is new
+Course 'CSCI-263'
+	* Is new
+Course 'CSCI-264'
+	* Is new
+Course 'CSCI-320'
+	* Is new
+Course 'CSCI-331'
+	* Is new
+Course 'CSCI-344'
+	* Is new
+Course 'CSCI-351'
+	* Is new
+Course 'CSCI-352'
+	* Is new
+Course 'CSCI-420'
+	* Is new
+Course 'CSCI-431'
+	* Is new
+Course 'CSCI-452'
+	* Is new
+Course 'CSCI-453'
+	* Is new
+Course 'CSCI-455'
+	* Is new
+Course 'CSCI-462'
+	* Is new
+Course 'CSCI-464'
+	* Is new
+Course 'CSCI-471'
+	* Is new
+Course 'CSCI-488'
+	* Is new
+Course 'CSCI-499'
+	* Is new
+Course 'CSCI-509'
+	* Is new
+Course 'CSCI-559'
+	* Is new
+Course 'CSCI-510'
+	* Is new
+Course 'CSCI-569'
+	* Is new
+Course 'CSCI-519'
+	* Is new
+Course 'CSEC-099'
+	* Is new
+Course 'CSCI-529'
+	* Is new
+Course 'CSCI-532'
+	* Is new
+Course 'CSCI-539'
+	* Is new
+Course 'CSCI-541'
+	* Is new
+Course 'CSCI-549'
+	* Is new
+Course 'CSEC-101'
+	* Is new
+Course 'CSEC-362'
+	* Is new
+Course 'CSEC-363'
+	* Is new
+Course 'CSEC-461'
+	* Is new
+Course 'CSEC-462'
+	* Is new
+Course 'CSEC-466'
+	* Is new
+Course 'CSEC-467'
+	* Is new
+Course 'CSEC-468'
+	* Is new
+Course 'CSEC-469'
+	* Is new
+Course 'CSEC-470'
+	* Is new
+Course 'CSEC-471'
+	* Is new
+Course 'CSEC-472'
+	* Is new
+Course 'CSEC-473'
+	* Is new
+Course 'CSEC-474'
+	* Is new
+Course 'CSEC-475'
+	* Is new
+Course 'CSEC-476'
+	* Is new
+Course 'CSEC-477'
+	* Is new
+Course 'CSEC-478'
+	* Is new
+Course 'CSEC-479'
+	* Is new
+Course 'CSEC-490'
+	* Is new
+Course 'CSEC-499'
+	* Is new
+Course 'CSEC-559'
+	* Is new
+Course 'CSEC-599'
+	* Is new
+Course 'ISTE-140'
+	* Is new
+Course 'ISTE-151H'
+	* Is new
+Course 'ISTE-099'
+	* Is new
+Course 'ISTE-100'
+	* Is new
+Course 'ISTE-101'
+	* Is new
+Course 'ISTE-105'
+	* Is new
+Course 'ISTE-110'
+	* Is new
+Course 'ISTE-120'
+	* Is new
+Course 'ISTE-121'
+	* Is new
+Course 'ISTE-190'
+	* Is new
+Course 'ISTE-200'
+	* Is new
+Course 'ISTE-202'
+	* Is new
+Course 'ISTE-205'
+	* Is new
+Course 'ISTE-206'
+	* Is new
+Course 'ISTE-230'
+	* Is new
+Course 'ISTE-240'
+	* Is new
+Course 'ISTE-252'
+	* Is new
+Course 'ISTE-260'
+	* Is new
+Course 'ISTE-264'
+	* Is new
+Course 'ISTE-266'
+	* Is new
+Course 'ISTE-270'
+	* Is new
+Course 'ISTE-271'
+	* Is new
+Course 'ISTE-330'
+	* Is new
+Course 'ISTE-340'
+	* Is new
+Course 'ISTE-341'
+	* Is new
+Course 'ISTE-358'
+	* Is new
+Course 'ISTE-362'
+	* Is new
+Course 'ISTE-371'
+	* Is new
+Course 'ISTE-382'
+	* Is new
+Course 'ISTE-384'
+	* Is new
+Course 'ISTE-305'
+	* Is new
+Course 'ISTE-386'
+	* Is new
+Course 'ISTE-392'
+	* Is new
+Course 'ISTE-394'
+	* Is new
+Course 'ISTE-405'
+	* Is new
+Course 'ISTE-422'
+	* Is new
+Course 'ISTE-424'
+	* Is new
+Course 'ISTE-430'
+	* Is new
+Course 'ISTE-432'
+	* Is new
+Course 'ISTE-434'
+	* Is new
+Course 'ISTE-436'
+	* Is new
+Course 'ISTE-438'
+	* Is new
+Course 'ISTE-442'
+	* Is new
+Course 'ISTE-444'
+	* Is new
+Course 'ISTE-454'
+	* Is new
+Course 'ISTE-456'
+	* Is new
+Course 'ISTE-458'
+	* Is new
+Course 'ISTE-462'
+	* Is new
+Course 'ISTE-464'
+	* Is new
+Course 'ISTE-472'
+	* Is new
+Course 'ISTE-474'
+	* Is new
+Course 'ISTE-476'
+	* Is new
+Course 'ISTE-482'
+	* Is new
+Course 'ISTE-483'
+	* Is new
+Course 'ISTE-484'
+	* Is new
+Course 'ISTE-499'
+	* Is new
+Course 'ISTE-500'
+	* Is new
+Course 'ISTE-501'
+	* Is new
+Course 'ISTE-590'
+	* Is new
+Course 'IGME-099'
+	* Is new
+Course 'IGME-101'
+	* Is new
+Course 'IGME-102'
+	* Is new
+Course 'IGME-105'
+	* Is new
+Course 'IGME-106'
+	* Is new
+Course 'IGME-110'
+	* Is new
+Course 'IGME-119'
+	* Is new
+Course 'IGME-151H'
+	* Is new
+Course 'IGME-201'
+	* Is new
+Course 'IGME-202'
+	* Is new
+Course 'IGME-209'
+	* Is new
+Course 'IGME-219'
+	* Is new
+Course 'IGME-220'
+	* Is new
+Course 'IGME-230'
+	* Is new
+Course 'IGME-236'
+	* Is new
+Course 'IGME-309'
+	* Is new
+Course 'IGME-320'
+	* Is new
+Course 'IGME-330'
+	* Is new
+Course 'IGME-430'
+	* Is new
+Course 'IGME-431'
+	* Is new
+Course 'IGME-440'
+	* Is new
+Course 'IGME-450'
+	* Is new
+Course 'IGME-451'
+	* Is new
+Course 'IGME-460'
+	* Is new
+Course 'IGME-470'
+	* Is new
+Course 'IGME-499'
+	* Is new
+Course 'IGME-529'
+	* Is new
+Course 'IGME-540'
+	* Is new
+Course 'IGME-550'
+	* Is new
+Course 'IGME-560'
+	* Is new
+Course 'IGME-570'
+	* Is new
+Course 'IGME-571'
+	* Is new
+Course 'IGME-580'
+	* Is new
+Course 'IGME-581'
+	* Is new
+Course 'IGME-582'
+	* Is new
+Course 'IGME-583'
+	* Is new
+Course 'IGME-584'
+	* Is new
+Course 'IGME-585'
+	* Is new
+Course 'IGME-588'
+	* Is new
+Course 'IGME-589'
+	* Is new
+Course 'IGME-590'
+	* Is new
+Course 'IGME-599'
+	* Is new
+Course 'MEDI-130'
+	* Is new
+Course 'MEDI-150'
+	* Is new
+Course 'MEDI-245'
+	* Is new
+Course 'MEDI-310'
+	* Is new
+Course 'MEDI-320'
+	* Is new
+Course 'MEDI-330'
+	* Is new
+Course 'MEDI-430'
+	* Is new
+Course 'NSSA-245'
+	* Is new
+Course 'NSSA-101'
+	* Is new
+Course 'NSSA-102'
+	* Is new
+Course 'NSSA-220'
+	* Is new
+Course 'NSSA-221'
+	* Is new
+Course 'NSSA-241'
+	* Is new
+Course 'NSSA-242'
+	* Is new
+Course 'NSSA-320'
+	* Is new
+Course 'NSSA-322'
+	* Is new
+Course 'NSSA-341'
+	* Is new
+Course 'NSSA-342'
+	* Is new
+Course 'NSSA-370'
+	* Is new
+Course 'NSSA-422'
+	* Is new
+Course 'NSSA-423'
+	* Is new
+Course 'NSSA-425'
+	* Is new
+Course 'NSSA-426'
+	* Is new
+Course 'NSSA-441'
+	* Is new
+Course 'NSSA-443'
+	* Is new
+Course 'NSSA-445'
+	* Is new
+Course 'SWEN-101'
+	* Is new
+Course 'SWEN-220'
+	* Is new
+Course 'SWEN-250'
+	* Is new
+Course 'SWEN-256'
+	* Is new
+Course 'SWEN-261'
+	* Is new
+Course 'SWEN-262'
+	* Is new
+Course 'SWEN-331'
+	* Is new
+Course 'SWEN-342'
+	* Is new
+Course 'SWEN-343'
+	* Is new
+Course 'SWEN-344'
+	* Is new
+Course 'SWEN-350'
+	* Is new
+Course 'SWEN-352'
+	* Is new
+Course 'SWEN-356'
+	* Is new
+Course 'SWEN-383'
+	* Is new
+Course 'SWEN-440'
+	* Is new
+Course 'SWEN-444'
+	* Is new
+Course 'SWEN-498'
+	* Is new
+Course 'SWEN-499'
+	* Is new
+Course 'SWEN-548'
+	* Is new
+Course 'SWEN-549'
+	* Is new
+Course 'SWEN-559'
+	* Is new
+Course 'SWEN-561'
+	* Is new
+Course 'SWEN-562'
+	* Is new
+Course 'SWEN-563'
+	* Is new
+Course 'SWEN-564'
+	* Is new
+Course 'SWEN-565'
+	* Is new
+Course 'SWEN-567'
+	* Is new
+Course 'SWEN-590'
+	* Is new
+Course 'SWEN-598'
+	* Is new
+Course 'SWEN-599'
+	* Is new
+Course 'CQAS-325'
+	* Is new
+Course 'BIME-181'
+	* Is new
+Course 'BIME-182'
+	* Is new
+Course 'BIME-200'
+	* Is new
+Course 'BIME-250'
+	* Is new
+Course 'BIME-320'
+	* Is new
+Course 'BIME-370'
+	* Is new
+Course 'BIME-391'
+	* Is new
+Course 'BIME-410'
+	* Is new
+Course 'BIME-411'
+	* Is new
+Course 'BIME-440'
+	* Is new
+Course 'BIME-450'
+	* Is new
+Course 'BIME-460'
+	* Is new
+Course 'BIME-470'
+	* Is new
+Course 'BIME-489'
+	* Is new
+Course 'BIME-491'
+	* Is new
+Course 'BIME-492'
+	* Is new
+Course 'BIME-497'
+	* Is new
+Course 'BIME-498'
+	* Is new
+Course 'BIME-510'
+	* Is new
+Course 'BIME-570'
+	* Is new
+Course 'BIME-599'
+	* Is new
+Course 'CHME-181'
+	* Is new
+Course 'CHME-182'
+	* Is new
+Course 'CHME-230'
+	* Is new
+Course 'CHME-301'
+	* Is new
+Course 'CHME-302'
+	* Is new
+Course 'CHME-310'
+	* Is new
+Course 'CHME-320'
+	* Is new
+Course 'CHME-321'
+	* Is new
+Course 'CHME-330'
+	* Is new
+Course 'CHME-340'
+	* Is new
+Course 'CHME-350'
+	* Is new
+Course 'CHME-391'
+	* Is new
+Course 'CHME-401'
+	* Is new
+Course 'CHME-421'
+	* Is new
+Course 'CHME-422'
+	* Is new
+Course 'CHME-431'
+	* Is new
+Course 'CHME-451'
+	* Is new
+Course 'CHME-489'
+	* Is new
+Course 'CHME-490'
+	* Is new
+Course 'CHME-491'
+	* Is new
+Course 'CHME-492'
+	* Is new
+Course 'CHME-599'
+	* Is new
+Course 'CMPE-110'
+	* Is new
+Course 'CMPE-160'
+	* Is new
+Course 'CMPE-161'
+	* Is new
+Course 'CMPE-240'
+	* Is new
+Course 'CMPE-250'
+	* Is new
+Course 'CMPE-260'
+	* Is new
+Course 'CMPE-350'
+	* Is new
+Course 'CMPE-380'
+	* Is new
+Course 'CMPE-460'
+	* Is new
+Course 'CMPE-480'
+	* Is new
+Course 'CMPE-489'
+	* Is new
+Course 'CMPE-495'
+	* Is new
+Course 'CMPE-496'
+	* Is new
+Course 'CMPE-497'
+	* Is new
+Course 'CMPE-498'
+	* Is new
+Course 'CMPE-530'
+	* Is new
+Course 'CMPE-540'
+	* Is new
+Course 'CMPE-550'
+	* Is new
+Course 'CMPE-570'
+	* Is new
+Course 'CMPE-599'
+	* Is new
+Course 'EEEE-105'
+	* Is new
+Course 'EEEE-220'
+	* Is new
+Course 'EEEE-221'
+	* Is new
+Course 'EEEE-222'
+	* Is new
+Course 'EEEE-252'
+	* Is new
+Course 'EEEE-253'
+	* Is new
+Course 'EEEE-260'
+	* Is new
+Course 'EEEE-282'
+	* Is new
+Course 'EEEE-321'
+	* Is new
+Course 'EEEE-346'
+	* Is new
+Course 'EEEE-353'
+	* Is new
+Course 'EEEE-381'
+	* Is new
+Course 'EEEE-414'
+	* Is new
+Course 'EEEE-420'
+	* Is new
+Course 'EEEE-421'
+	* Is new
+Course 'EEEE-422'
+	* Is new
+Course 'EEEE-489'
+	* Is new
+Course 'EEEE-450'
+	* Is new
+Course 'EEEE-497'
+	* Is new
+Course 'EEEE-451'
+	* Is new
+Course 'EEEE-498'
+	* Is new
+Course 'EEEE-482'
+	* Is new
+Course 'EEEE-484'
+	* Is new
+Course 'EEEE-485'
+	* Is new
+Course 'EEEE-505'
+	* Is new
+Course 'EEEE-510'
+	* Is new
+Course 'EEEE-512'
+	* Is new
+Course 'EEEE-520'
+	* Is new
+Course 'EEEE-521'
+	* Is new
+Course 'EEEE-547'
+	* Is new
+Course 'EEEE-525'
+	* Is new
+Course 'EEEE-579'
+	* Is new
+Course 'EEEE-530'
+	* Is new
+Course 'EEEE-531'
+	* Is new
+Course 'EEEE-532'
+	* Is new
+Course 'EEEE-546'
+	* Is new
+Course 'EEEE-585'
+	* Is new
+Course 'EEEE-587'
+	* Is new
+Course 'EEEE-592'
+	* Is new
+Course 'EEEE-593'
+	* Is new
+Course 'EEEE-599'
+	* Is new
+Course 'EGEN-099'
+	* Is new
+Course 'EGEN-100'
+	* Is new
+Course 'EGEN-231'
+	* Is new
+Course 'ISEE-120'
+	* Is new
+Course 'ISEE-140'
+	* Is new
+Course 'ISEE-200'
+	* Is new
+Course 'ISEE-301'
+	* Is new
+Course 'ISEE-323'
+	* Is new
+Course 'ISEE-325'
+	* Is new
+Course 'ISEE-330'
+	* Is new
+Course 'ISEE-345'
+	* Is new
+Course 'ISEE-350'
+	* Is new
+Course 'ISEE-420'
+	* Is new
+Course 'ISEE-421'
+	* Is new
+Course 'ISEE-489'
+	* Is new
+Course 'ISEE-497'
+	* Is new
+Course 'ISEE-498'
+	* Is new
+Course 'ISEE-510'
+	* Is new
+Course 'ISEE-560'
+	* Is new
+Course 'ISEE-561'
+	* Is new
+Course 'ISEE-582'
+	* Is new
+Course 'ISEE-599'
+	* Is new
+Course 'MECE-104'
+	* Is new
+Course 'MECE-109'
+	* Is new
+Course 'MECE-110'
+	* Is new
+Course 'MECE-200'
+	* Is new
+Course 'MECE-203'
+	* Is new
+Course 'MECE-204'
+	* Is new
+Course 'MECE-210'
+	* Is new
+Course 'MECE-211'
+	* Is new
+Course 'MECE-251'
+	* Is new
+Course 'MECE-253'
+	* Is new
+Course 'MECE-301'
+	* Is new
+Course 'MECE-304'
+	* Is new
+Course 'MECE-305'
+	* Is new
+Course 'MECE-306'
+	* Is new
+Course 'MECE-310'
+	* Is new
+Course 'MECE-320'
+	* Is new
+Course 'MECE-348'
+	* Is new
+Course 'MECE-350'
+	* Is new
+Course 'MECE-352'
+	* Is new
+Course 'MECE-354'
+	* Is new
+Course 'MECE-355'
+	* Is new
+Course 'MECE-360'
+	* Is new
+Course 'MECE-401'
+	* Is new
+Course 'MECE-405'
+	* Is new
+Course 'MECE-406'
+	* Is new
+Course 'MECE-407'
+	* Is new
+Course 'MECE-410'
+	* Is new
+Course 'MECE-411'
+	* Is new
+Course 'MECE-421'
+	* Is new
+Course 'MECE-450'
+	* Is new
+Course 'MECE-451'
+	* Is new
+Course 'MECE-489'
+	* Is new
+Course 'MECE-498'
+	* Is new
+Course 'MECE-499'
+	* Is new
+Course 'MECE-520'
+	* Is new
+Course 'MECE-523'
+	* Is new
+Course 'MECE-524'
+	* Is new
+Course 'MECE-525'
+	* Is new
+Course 'MECE-529'
+	* Is new
+Course 'MECE-538'
+	* Is new
+Course 'MECE-543'
+	* Is new
+Course 'MECE-544'
+	* Is new
+Course 'MECE-556'
+	* Is new
+Course 'MCEE-360'
+	* Is new
+Course 'MECE-557'
+	* Is new
+Course 'MCEE-495'
+	* Is new
+Course 'MECE-558'
+	* Is new
+Course 'MECE-589'
+	* Is new
+Course 'MECE-599'
+	* Is new
+Course 'MCEE-101'
+	* Is new
+Course 'MCEE-201'
+	* Is new
+Course 'MCEE-205'
+	* Is new
+Course 'MCEE-496'
+	* Is new
+Course 'MCEE-499'
+	* Is new
+Course 'MCEE-502'
+	* Is new
+Course 'MCEE-503'
+	* Is new
+Course 'MCEE-505'
+	* Is new
+Course 'MCEE-515'
+	* Is new
+Course 'MCEE-520'
+	* Is new
+Course 'MCEE-550'
+	* Is new
+Course 'MCEE-599'
+	* Is new
+Course 'MEDS-106'
+	* Is new
+Course 'MEDG-101'
+	* Is new
+Course 'MEDG-103'
+	* Is new
+Course 'MEDG-104'
+	* Is new
+Course 'MEDG-105'
+	* Is new
+Course 'MEDG-106'
+	* Is new
+Course 'MEDG-107'
+	* Is new
+Course 'MEDS-105'
+	* Is new
+Course 'MEDS-150'
+	* Is new
+Course 'MEDS-201'
+	* Is new
+Course 'MEDS-240'
+	* Is new
+Course 'MEDS-245'
+	* Is new
+Course 'MEDS-250'
+	* Is new
+Course 'MEDS-251'
+	* Is new
+Course 'MEDS-280'
+	* Is new
+Course 'MEDS-281'
+	* Is new
+Course 'MEDS-290'
+	* Is new
+Course 'MEDS-293'
+	* Is new
+Course 'MEDS-294'
+	* Is new
+Course 'MEDS-295'
+	* Is new
+Course 'MEDS-296'
+	* Is new
+Course 'MEDS-297'
+	* Is new
+Course 'MEDS-298'
+	* Is new
+Course 'MEDS-299'
+	* Is new
+Course 'MEDS-300'
+	* Is new
+Course 'MEDS-310'
+	* Is new
+Course 'MEDS-311'
+	* Is new
+Course 'MEDS-313'
+	* Is new
+Course 'MEDS-315'
+	* Is new
+Course 'MEDS-320'
+	* Is new
+Course 'MEDS-333'
+	* Is new
+Course 'MEDS-345'
+	* Is new
+Course 'MEDS-350'
+	* Is new
+Course 'MEDS-351'
+	* Is new
+Course 'MEDS-352'
+	* Is new
+Course 'MEDS-353'
+	* Is new
+Course 'MEDS-360'
+	* Is new
+Course 'MEDS-361'
+	* Is new
+Course 'MEDS-370'
+	* Is new
+Course 'MEDS-401'
+	* Is new
+Course 'MEDS-402'
+	* Is new
+Course 'MEDS-403'
+	* Is new
+Course 'MEDS-405'
+	* Is new
+Course 'MEDS-406'
+	* Is new
+Course 'MEDS-407'
+	* Is new
+Course 'MEDS-413'
+	* Is new
+Course 'MEDS-415'
+	* Is new
+Course 'MEDS-416'
+	* Is new
+Course 'MEDS-417'
+	* Is new
+Course 'MEDS-418'
+	* Is new
+Course 'MEDS-420'
+	* Is new
+Course 'MEDS-425'
+	* Is new
+Course 'MEDS-426'
+	* Is new
+Course 'MEDS-430'
+	* Is new
+Course 'MEDS-440H'
+	* Is new
+Course 'MEDS-450'
+	* Is new
+Course 'MEDS-451'
+	* Is new
+Course 'MEDS-470'
+	* Is new
+Course 'MEDS-489'
+	* Is new
+Course 'MEDS-490'
+	* Is new
+Course 'MEDS-499'
+	* Is new
+Course 'MEDS-501'
+	* Is new
+Course 'MEDS-510'
+	* Is new
+Course 'MEDS-511'
+	* Is new
+Course 'MEDS-589'
+	* Is new
+Course 'MEDS-599'
+	* Is new
+Course 'DMSO-301'
+	* Is new
+Course 'DMSO-302'
+	* Is new
+Course 'DMSO-309'
+	* Is new
+Course 'DMSO-310'
+	* Is new
+Course 'DMSO-312'
+	* Is new
+Course 'DMSO-414'
+	* Is new
+Course 'DMSO-452'
+	* Is new
+Course 'DMSO-453'
+	* Is new
+Course 'DMSO-454'
+	* Is new
+Course 'DMSO-456'
+	* Is new
+Course 'DMSO-457'
+	* Is new
+Course 'DMSO-460'
+	* Is new
+Course 'DMSO-570'
+	* Is new
+Course 'DMSO-571'
+	* Is new
+Course 'ECHO-305'
+	* Is new
+Course 'ECHO-307'
+	* Is new
+Course 'ECHO-308'
+	* Is new
+Course 'ECHO-320'
+	* Is new
+Course 'ECHO-401'
+	* Is new
+Course 'ECHO-402'
+	* Is new
+Course 'ECHO-410'
+	* Is new
+Course 'ECHO-415'
+	* Is new
+Course 'ECHO-420'
+	* Is new
+Course 'ECHO-421'
+	* Is new
+Course 'ECHO-425'
+	* Is new
+Course 'ECHO-430'
+	* Is new
+Course 'ECHO-431'
+	* Is new
+Course 'ECHO-465'
+	* Is new
+Course 'HLTH-300'
+	* Is new
+Course 'HLTH-310'
+	* Is new
+Course 'HLTH-315'
+	* Is new
+Course 'HLTH-320'
+	* Is new
+Course 'HLTH-325'
+	* Is new
+Course 'HLTH-330'
+	* Is new
+Course 'ILLM-399'
+	* Is new
+Course 'ILLM-498'
+	* Is new
+Course 'ILLM-499'
+	* Is new
+Course 'ILLM-501'
+	* Is new
+Course 'ILLM-502'
+	* Is new
+Course 'ILLM-503'
+	* Is new
+Course 'ILLM-507'
+	* Is new
+Course 'ILLM-508'
+	* Is new
+Course 'ILLM-512'
+	* Is new
+Course 'ILLM-515'
+	* Is new
+Course 'ILLM-516'
+	* Is new
+Course 'ILLM-517'
+	* Is new
+Course 'ILLM-518'
+	* Is new
+Course 'ILLM-599'
+	* Is new
+Course 'NUTR-210'
+	* Is new
+Course 'NUTR-215'
+	* Is new
+Course 'NUTR-223'
+	* Is new
+Course 'NUTR-300'
+	* Is new
+Course 'NUTR-333'
+	* Is new
+Course 'NUTR-402'
+	* Is new
+Course 'NUTR-497'
+	* Is new
+Course 'NUTR-499'
+	* Is new
+Course 'NUTR-510'
+	* Is new
+Course 'NUTR-525'
+	* Is new
+Course 'NUTR-526'
+	* Is new
+Course 'NUTR-550'
+	* Is new
+Course 'NUTR-554'
+	* Is new
+Course 'PHYA-206'
+	* Is new
+Course 'PHYA-401'
+	* Is new
+Course 'PHYA-402'
+	* Is new
+Course 'PHYA-405'
+	* Is new
+Course 'PHYA-406'
+	* Is new
+Course 'PHYA-409'
+	* Is new
+Course 'PHYA-415'
+	* Is new
+Course 'PHYA-416'
+	* Is new
+Course 'PHYA-417'
+	* Is new
+Course 'PHYA-419'
+	* Is new
+Course 'PHYA-420'
+	* Is new
+Course 'PHYA-421'
+	* Is new
+Course 'PHYA-422'
+	* Is new
+Course 'PHYA-424'
+	* Is new
+Course 'PHYA-430'
+	* Is new
+Course 'PHYA-440'
+	* Is new
+Course 'PHYA-510'
+	* Is new
+Course 'PHYA-520'
+	* Is new
+Course 'PHYA-550'
+	* Is new
+Course 'PHYA-560'
+	* Is new
+Course 'ITDI-015'
+	* Is new
+Course 'ITDI-101'
+	* Is new
+Course 'ITDI-151H'
+	* Is new
+Course 'ITDI-211'
+	* Is new
+Course 'ITDI-221'
+	* Is new
+Course 'ITDI-222'
+	* Is new
+Course 'ITDI-223'
+	* Is new
+Course 'ITDI-226'
+	* Is new
+Course 'ITDI-231'
+	* Is new
+Course 'ITDI-233'
+	* Is new
+Course 'ITDI-236'
+	* Is new
+Course 'ITDI-239'
+	* Is new
+Course 'ITDI-246'
+	* Is new
+Course 'ITDI-248'
+	* Is new
+Course 'ITDI-251'
+	* Is new
+Course 'ITDI-256'
+	* Is new
+Course 'ITDI-301'
+	* Is new
+Course 'ITDI-311'
+	* Is new
+Course 'ITDI-316'
+	* Is new
+Course 'ITDI-366'
+	* Is new
+Course 'CCER-201'
+	* Is new
+Course 'CCER-202'
+	* Is new
+Course 'CCER-301'
+	* Is new
+Course 'CCER-399'
+	* Is new
+Course 'CWFD-202'
+	* Is new
+Course 'CCER-498'
+	* Is new
+Course 'CWFD-301'
+	* Is new
+Course 'CCER-499'
+	* Is new
+Course 'CCER-501'
+	* Is new
+Course 'CCER-502'
+	* Is new
+Course 'CCER-530'
+	* Is new
+Course 'CCER-599'
+	* Is new
+Course 'CWFD-302'
+	* Is new
+Course 'CWFD-399'
+	* Is new
+Course 'CWFD-498'
+	* Is new
+Course 'CWFD-499'
+	* Is new
+Course 'CWFD-501'
+	* Is new
+Course 'CWFD-502'
+	* Is new
+Course 'CWFD-201'
+	* Is new
+Course 'CWFD-530'
+	* Is new
+Course 'CWFD-599'
+	* Is new
+Course 'CGEN-201'
+	* Is new
+Course 'CGEN-202'
+	* Is new
+Course 'CGEN-501'
+	* Is new
+Course 'CGEN-502'
+	* Is new
+Course 'CGLS-201'
+	* Is new
+Course 'CGLS-301'
+	* Is new
+Course 'CGLS-399'
+	* Is new
+Course 'CGLS-498'
+	* Is new
+Course 'CGLS-499'
+	* Is new
+Course 'CGLS-501'
+	* Is new
+Course 'CGLS-502'
+	* Is new
+Course 'CGLS-530'
+	* Is new
+Course 'CGLS-599'
+	* Is new
+Course 'CMTJ-201'
+	* Is new
+Course 'CMTJ-202'
+	* Is new
+Course 'CMTJ-501'
+	* Is new
+Course 'CMTJ-301'
+	* Is new
+Course 'CMTJ-530'
+	* Is new
+Course 'CMTJ-302'
+	* Is new
+Course 'CMTJ-399'
+	* Is new
+Course 'CMTJ-498'
+	* Is new
+Course 'CMTJ-499'
+	* Is new
+Course 'CMTJ-599'
+	* Is new
+Course 'CWTD-530'
+	* Is new
+Course 'FDTN-111'
+	* Is new
+Course 'FDTN-112'
+	* Is new
+Course 'FDTN-121'
+	* Is new
+Course 'ARTH-136'
+	* Is new
+Course 'FDTN-122'
+	* Is new
+Course 'ARTH-221'
+	* Is new
+Course 'FDTN-131'
+	* Is new
+Course 'FDTN-132'
+	* Is new
+Course 'ARTH-135'
+	* Is new
+Course 'ARTH-311'
+	* Is new
+Course 'ARTH-312'
+	* Is new
+Course 'ARTH-317'
+	* Is new
+Course 'ARTH-318'
+	* Is new
+Course 'ARTH-345'
+	* Is new
+Course 'ARTH-346'
+	* Is new
+Course 'ARTH-364'
+	* Is new
+Course 'ARTH-366'
+	* Is new
+Course 'ARTH-368'
+	* Is new
+Course 'ARTH-369'
+	* Is new
+Course 'ARTH-373'
+	* Is new
+Course 'ARTH-378'
+	* Is new
+Course 'ARTH-379'
+	* Is new
+Course 'ARTH-392'
+	* Is new
+Course 'ARTH-457'
+	* Is new
+Course 'ARTH-521'
+	* Is new
+Course 'ARTH-541'
+	* Is new
+Course 'ARTH-544'
+	* Is new
+Course 'ARTH-550'
+	* Is new
+Course 'ARTH-554'
+	* Is new
+Course 'ARTH-561'
+	* Is new
+Course 'ARTH-566'
+	* Is new
+Course 'ARTH-571'
+	* Is new
+Course 'ARTH-572'
+	* Is new
+Course 'ARTH-573'
+	* Is new
+Course 'ARTH-574'
+	* Is new
+Course 'ARTH-577'
+	* Is new
+Course 'ARTH-578'
+	* Is new
+Course 'ARTH-582'
+	* Is new
+Course 'ARTH-583'
+	* Is new
+Course 'ARTH-584'
+	* Is new
+Course 'ARTH-586'
+	* Is new
+Course 'ARTH-587'
+	* Is new
+Course 'ARTH-588'
+	* Is new
+Course 'FNAS-201'
+	* Is new
+Course 'FNAS-202'
+	* Is new
+Course 'FNAS-203'
+	* Is new
+Course 'FNAS-204'
+	* Is new
+Course 'FNAS-269'
+	* Is new
+Course 'FNAS-305'
+	* Is new
+Course 'FNAS-399'
+	* Is new
+Course 'FNAS-401'
+	* Is new
+Course 'FNAS-405'
+	* Is new
+Course 'FNAS-498'
+	* Is new
+Course 'FNAS-499'
+	* Is new
+Course 'FNAS-501'
+	* Is new
+Course 'FNAS-502'
+	* Is new
+Course 'FNAS-503'
+	* Is new
+Course 'FNAS-504'
+	* Is new
+Course 'FNAS-514'
+	* Is new
+Course 'FNAS-531'
+	* Is new
+Course 'FNAS-533'
+	* Is new
+Course 'FNAS-535'
+	* Is new
+Course 'FNAS-538'
+	* Is new
+Course 'FNAS-543'
+	* Is new
+Course 'FNAS-550'
+	* Is new
+Course 'FNAS-561'
+	* Is new
+Course 'FNAS-563'
+	* Is new
+Course 'FNAS-568'
+	* Is new
+Course 'FNAS-571'
+	* Is new
+Course 'FNAS-573'
+	* Is new
+Course 'FNAS-583'
+	* Is new
+Course 'FNAS-599'
+	* Is new
+Course 'ILLS-213'
+	* Is new
+Course 'ILLS-214'
+	* Is new
+Course 'ILLS-218'
+	* Is new
+Course 'ILLS-219'
+	* Is new
+Course 'ILLS-413'
+	* Is new
+Course 'ILLS-313'
+	* Is new
+Course 'ILLS-461'
+	* Is new
+Course 'ILLS-319'
+	* Is new
+Course 'ILLS-358'
+	* Is new
+Course 'ILLS-364'
+	* Is new
+Course 'ILLS-462'
+	* Is new
+Course 'ILLS-465'
+	* Is new
+Course 'ILLS-369'
+	* Is new
+Course 'ILLS-467'
+	* Is new
+Course 'ILLS-379'
+	* Is new
+Course 'ILLS-468'
+	* Is new
+Course 'ILLS-399'
+	* Is new
+Course 'ILLS-472'
+	* Is new
+Course 'ILLS-477'
+	* Is new
+Course 'ILLS-482'
+	* Is new
+Course 'ILLS-498'
+	* Is new
+Course 'ILLS-499'
+	* Is new
+Course 'ILLS-501'
+	* Is new
+Course 'ILLS-550'
+	* Is new
+Course 'ILLS-559'
+	* Is new
+Course 'ILLS-563'
+	* Is new
+Course 'ILLS-568'
+	* Is new
+Course 'ILLS-569'
+	* Is new
+Course 'ILLS-599'
+	* Is new
+Course 'ILLM-399'
+	* Is new
+Course 'ILLM-498'
+	* Is new
+Course 'ILLM-499'
+	* Is new
+Course 'ILLM-501'
+	* Is new
+Course 'ILLM-502'
+	* Is new
+Course 'ILLM-503'
+	* Is new
+Course 'ILLM-507'
+	* Is new
+Course 'ILLM-508'
+	* Is new
+Course 'ILLM-512'
+	* Is new
+Course 'ILLM-515'
+	* Is new
+Course 'ILLM-516'
+	* Is new
+Course 'ILLM-517'
+	* Is new
+Course 'ILLM-518'
+	* Is new
+Course 'ILLM-599'
+	* Is new
+Course 'DDDD-101'
+	* Is new
+Course 'DDDD-102'
+	* Is new
+Course 'DDDD-103'
+	* Is new
+Course 'DDDD-201'
+	* Is new
+Course 'DDDD-202'
+	* Is new
+Course 'DDDD-206'
+	* Is new
+Course 'DDDD-207'
+	* Is new
+Course 'DDDD-208'
+	* Is new
+Course 'DDDD-302'
+	* Is new
+Course 'DDDD-306'
+	* Is new
+Course 'DDDD-399'
+	* Is new
+Course 'DDDD-401'
+	* Is new
+Course 'DDDD-402'
+	* Is new
+Course 'DDDD-403'
+	* Is new
+Course 'DDDD-498'
+	* Is new
+Course 'DDDD-499'
+	* Is new
+Course 'DDDD-516'
+	* Is new
+Course 'DDDD-517'
+	* Is new
+Course 'DDDD-521'
+	* Is new
+Course 'DDDD-522'
+	* Is new
+Course 'DDDD-523'
+	* Is new
+Course 'DDDD-526'
+	* Is new
+Course 'DDDD-527'
+	* Is new
+Course 'GRDE-206'
+	* Is new
+Course 'DDDD-528'
+	* Is new
+Course 'GRDE-207'
+	* Is new
+Course 'DDDD-599'
+	* Is new
+Course 'GRDE-106'
+	* Is new
+Course 'GRDE-107'
+	* Is new
+Course 'GRDE-205'
+	* Is new
+Course 'GRDE-301'
+	* Is new
+Course 'GRDE-302'
+	* Is new
+Course 'GRDE-306'
+	* Is new
+Course 'GRDE-307'
+	* Is new
+Course 'GRDE-308'
+	* Is new
+Course 'GRDE-322'
+	* Is new
+Course 'GRDE-326'
+	* Is new
+Course 'GRDE-367'
+	* Is new
+Course 'GRDE-399'
+	* Is new
+Course 'GRDE-401'
+	* Is new
+Course 'GRDE-411'
+	* Is new
+Course 'GRDE-418'
+	* Is new
+Course 'GRDE-421'
+	* Is new
+Course 'GRDE-422'
+	* Is new
+Course 'GRDE-423'
+	* Is new
+Course 'GRDE-431'
+	* Is new
+Course 'GRDE-448'
+	* Is new
+Course 'GRDE-498'
+	* Is new
+Course 'GRDE-499'
+	* Is new
+Course 'GRDE-599'
+	* Is new
+Course 'IDDE-102'
+	* Is new
+Course 'IDDE-202'
+	* Is new
+Course 'IDDE-206'
+	* Is new
+Course 'IDDE-207'
+	* Is new
+Course 'IDDE-211'
+	* Is new
+Course 'IDDE-212'
+	* Is new
+Course 'IDDE-223'
+	* Is new
+Course 'IDDE-301'
+	* Is new
+Course 'IDDE-306'
+	* Is new
+Course 'IDDE-307'
+	* Is new
+Course 'IDDE-311'
+	* Is new
+Course 'IDDE-359'
+	* Is new
+Course 'IDDE-399'
+	* Is new
+Course 'IDDE-406'
+	* Is new
+Course 'IDDE-407'
+	* Is new
+Course 'IDDE-408'
+	* Is new
+Course 'IDDE-498'
+	* Is new
+Course 'IDDE-499'
+	* Is new
+Course 'IDDE-501'
+	* Is new
+Course 'IDDE-502'
+	* Is new
+Course 'IDDE-520'
+	* Is new
+Course 'IDDE-561'
+	* Is new
+Course 'IDDE-569'
+	* Is new
+Course 'IDDE-573'
+	* Is new
+Course 'IDDE-599'
+	* Is new
+Course 'INDE-222'
+	* Is new
+Course 'INDE-301'
+	* Is new
+Course 'INDE-302'
+	* Is new
+Course 'INDE-303'
+	* Is new
+Course 'INDE-304'
+	* Is new
+Course 'INDE-363'
+	* Is new
+Course 'INDE-102'
+	* Is new
+Course 'INDE-366'
+	* Is new
+Course 'INDE-201'
+	* Is new
+Course 'INDE-399'
+	* Is new
+Course 'INDE-202'
+	* Is new
+Course 'INDE-203'
+	* Is new
+Course 'INDE-207'
+	* Is new
+Course 'INDE-401'
+	* Is new
+Course 'INDE-402'
+	* Is new
+Course 'INDE-403'
+	* Is new
+Course 'INDE-212'
+	* Is new
+Course 'INDE-405'
+	* Is new
+Course 'INDE-407'
+	* Is new
+Course 'INDE-498'
+	* Is new
+Course 'INDE-499'
+	* Is new
+Course 'INDE-599'
+	* Is new
+Course 'NMDE-101'
+	* Is new
+Course 'NMDE-102'
+	* Is new
+Course 'NMDE-103'
+	* Is new
+Course 'NMDE-111'
+	* Is new
+Course 'NMDE-112'
+	* Is new
+Course 'NMDE-201'
+	* Is new
+Course 'NMDE-202'
+	* Is new
+Course 'NMDE-203'
+	* Is new
+Course 'NMDE-204'
+	* Is new
+Course 'NMDE-301'
+	* Is new
+Course 'NMDE-302'
+	* Is new
+Course 'NMDE-303'
+	* Is new
+Course 'NMDE-305'
+	* Is new
+Course 'NMDE-498'
+	* Is new
+Course 'NMDE-375'
+	* Is new
+Course 'NMDE-499'
+	* Is new
+Course 'NMDE-399'
+	* Is new
+Course 'NMDE-401'
+	* Is new
+Course 'NMDE-404'
+	* Is new
+Course 'NMDE-406'
+	* Is new
+Course 'NMDE-408'
+	* Is new
+Course 'NMDE-411'
+	* Is new
+Course 'NMDE-599'
+	* Is new
+Course 'SOFA-101'
+	* Is new
+Course 'SOFA-102'
+	* Is new
+Course 'SOFA-103'
+	* Is new
+Course 'SOFA-107'
+	* Is new
+Course 'SOFA-108'
+	* Is new
+Course 'SOFA-111'
+	* Is new
+Course 'SOFA-112'
+	* Is new
+Course 'SOFA-121'
+	* Is new
+Course 'SOFA-122'
+	* Is new
+Course 'SOFA-127'
+	* Is new
+Course 'SOFA-165'
+	* Is new
+Course 'SOFA-202'
+	* Is new
+Course 'SOFA-205'
+	* Is new
+Course 'SOFA-207'
+	* Is new
+Course 'SOFA-208'
+	* Is new
+Course 'SOFA-209'
+	* Is new
+Course 'SOFA-211'
+	* Is new
+Course 'SOFA-212'
+	* Is new
+Course 'SOFA-213'
+	* Is new
+Course 'SOFA-215'
+	* Is new
+Course 'SOFA-216'
+	* Is new
+Course 'SOFA-218'
+	* Is new
+Course 'SOFA-224'
+	* Is new
+Course 'SOFA-225'
+	* Is new
+Course 'SOFA-227'
+	* Is new
+Course 'SOFA-228'
+	* Is new
+Course 'SOFA-306'
+	* Is new
+Course 'SOFA-311'
+	* Is new
+Course 'SOFA-312'
+	* Is new
+Course 'SOFA-313'
+	* Is new
+Course 'SOFA-316'
+	* Is new
+Course 'SOFA-323'
+	* Is new
+Course 'SOFA-363'
+	* Is new
+Course 'SOFA-386'
+	* Is new
+Course 'SOFA-399'
+	* Is new
+Course 'SOFA-402'
+	* Is new
+Course 'SOFA-406'
+	* Is new
+Course 'SOFA-407'
+	* Is new
+Course 'SOFA-498'
+	* Is new
+Course 'SOFA-499'
+	* Is new
+Course 'SOFA-505'
+	* Is new
+Course 'SOFA-509'
+	* Is new
+Course 'SOFA-511'
+	* Is new
+Course 'SOFA-512'
+	* Is new
+Course 'SOFA-513'
+	* Is new
+Course 'SOFA-514'
+	* Is new
+Course 'SOFA-518'
+	* Is new
+Course 'SOFA-521'
+	* Is new
+Course 'SOFA-522'
+	* Is new
+Course 'SOFA-523'
+	* Is new
+Course 'SOFA-524'
+	* Is new
+Course 'SOFA-542'
+	* Is new
+Course 'SOFA-525'
+	* Is new
+Course 'SOFA-543'
+	* Is new
+Course 'SOFA-526'
+	* Is new
+Course 'SOFA-531'
+	* Is new
+Course 'SOFA-532'
+	* Is new
+Course 'SOFA-533'
+	* Is new
+Course 'SOFA-536'
+	* Is new
+Course 'SOFA-541'
+	* Is new
+Course 'SOFA-558'
+	* Is new
+Course 'SOFA-562'
+	* Is new
+Course 'SOFA-563'
+	* Is new
+Course 'SOFA-564'
+	* Is new
+Course 'SOFA-567'
+	* Is new
+Course 'SOFA-568'
+	* Is new
+Course 'SOFA-571'
+	* Is new
+Course 'SOFA-572'
+	* Is new
+Course 'SOFA-573'
+	* Is new
+Course 'SOFA-574'
+	* Is new
+Course 'SOFA-575'
+	* Is new
+Course 'SOFA-578'
+	* Is new
+Course 'SOFA-581'
+	* Is new
+Course 'SOFA-583'
+	* Is new
+Course 'SOFA-586'
+	* Is new
+Course 'SOFA-587'
+	* Is new
+Course 'SOFA-590'
+	* Is new
+Course 'SOFA-599'
+	* Is new
+Course 'MAAT-010'
+	* Is new
+Course 'MAAT-106'
+	* Is new
+Course 'MAAT-206'
+	* Is new
+Course 'MAAT-246'
+	* Is new
+Course 'MAAT-256'
+	* Is new
+Course 'MAAT-266'
+	* Is new
+Course 'MAAT-271'
+	* Is new
+Course 'MAAT-272'
+	* Is new
+Course 'MAAT-301'
+	* Is new
+Course 'MAAT-302'
+	* Is new
+Course 'MAAT-359'
+	* Is new
+Course 'MAAT-363'
+	* Is new
+Course 'MAAT-364'
+	* Is new
+Course 'MAAT-366'
+	* Is new
+Course 'MAAT-367'
+	* Is new
+Course 'MAAT-368'
+	* Is new
+Course 'MAAT-306'
+	* Is new
+Course 'MAAT-307'
+	* Is new
+Course 'MAAT-371'
+	* Is new
+Course 'MAAT-355'
+	* Is new
+Course 'MAAT-356'
+	* Is new
+Course 'MAAT-376'
+	* Is new
+Course 'MAAT-377'
+	* Is new
+Course 'MAAT-383'
+	* Is new
+Course 'MAAT-386'
+	* Is new
+Course 'MAAT-401'
+	* Is new
+Course 'MAAT-498'
+	* Is new
+Course 'MAAT-499'
+	* Is new
+Course 'MAAT-503'
+	* Is new
+Course 'MAAT-541'
+	* Is new
+Course 'MAAT-543'
+	* Is new
+Course 'MAAT-544'
+	* Is new
+Course 'MAAT-550'
+	* Is new
+Course 'MAAT-558'
+	* Is new
+Course 'MAAT-563'
+	* Is new
+Course 'MAAT-566'
+	* Is new
+Course 'MAAT-571'
+	* Is new
+Course 'MAAT-573'
+	* Is new
+Course 'MAAT-578'
+	* Is new
+Course 'MAAT-599'
+	* Is new
+Course 'PHAR-101'
+	* Is new
+Course 'PHAR-201'
+	* Is new
+Course 'PHAR-202'
+	* Is new
+Course 'PHAR-203'
+	* Is new
+Course 'PHAR-204'
+	* Is new
+Course 'PHAR-360'
+	* Is new
+Course 'PHAR-370'
+	* Is new
+Course 'PHAR-399'
+	* Is new
+Course 'PHAR-498'
+	* Is new
+Course 'PHAR-499'
+	* Is new
+Course 'PHAR-599'
+	* Is new
+Course 'PHAP-301'
+	* Is new
+Course 'PHAP-302'
+	* Is new
+Course 'PHAP-306'
+	* Is new
+Course 'PHAP-307'
+	* Is new
+Course 'PHAP-308'
+	* Is new
+Course 'PHAP-311'
+	* Is new
+Course 'PHAP-312'
+	* Is new
+Course 'PHAP-313'
+	* Is new
+Course 'PHAP-314'
+	* Is new
+Course 'PHAP-320'
+	* Is new
+Course 'PHAP-326'
+	* Is new
+Course 'PHAP-327'
+	* Is new
+Course 'PHAP-328'
+	* Is new
+Course 'PHAP-336'
+	* Is new
+Course 'PHAP-337'
+	* Is new
+Course 'PHAP-338'
+	* Is new
+Course 'PHAP-350'
+	* Is new
+Course 'PHAP-351'
+	* Is new
+Course 'PHAP-368'
+	* Is new
+Course 'PHAP-403'
+	* Is new
+Course 'PHAP-411'
+	* Is new
+Course 'PHAP-416'
+	* Is new
+Course 'PHFA-101'
+	* Is new
+Course 'PHFA-105'
+	* Is new
+Course 'PHFA-301'
+	* Is new
+Course 'PHFA-302'
+	* Is new
+Course 'PHFA-311'
+	* Is new
+Course 'PHFA-350'
+	* Is new
+Course 'PHFA-351'
+	* Is new
+Course 'PHFA-359'
+	* Is new
+Course 'PHFA-361'
+	* Is new
+Course 'PHFA-362'
+	* Is new
+Course 'PHFA-363'
+	* Is new
+Course 'PHFA-364'
+	* Is new
+Course 'PHFA-365'
+	* Is new
+Course 'PHFA-366'
+	* Is new
+Course 'PHFA-375'
+	* Is new
+Course 'PHFA-376'
+	* Is new
+Course 'PHFA-381'
+	* Is new
+Course 'PHFA-402'
+	* Is new
+Course 'PHPJ-302'
+	* Is new
+Course 'PHFA-403'
+	* Is new
+Course 'PHFA-531'
+	* Is new
+Course 'PHFA-540'
+	* Is new
+Course 'PHFA-556'
+	* Is new
+Course 'PHFA-557'
+	* Is new
+Course 'PHFA-565'
+	* Is new
+Course 'PHPJ-301'
+	* Is new
+Course 'PHPJ-303'
+	* Is new
+Course 'PHPJ-306'
+	* Is new
+Course 'PHPJ-307'
+	* Is new
+Course 'PHPJ-311'
+	* Is new
+Course 'PHPJ-315'
+	* Is new
+Course 'PHPJ-319'
+	* Is new
+Course 'PHPJ-350'
+	* Is new
+Course 'PHPJ-402'
+	* Is new
+Course 'PHPJ-351'
+	* Is new
+Course 'PHPJ-465'
+	* Is new
+Course 'PHPJ-355'
+	* Is new
+Course 'PHPJ-466'
+	* Is new
+Course 'PHPJ-356'
+	* Is new
+Course 'PHPJ-361'
+	* Is new
+Course 'PHPJ-365'
+	* Is new
+Course 'PHPJ-366'
+	* Is new
+Course 'PHPJ-401'
+	* Is new
+Course 'PHVM-301'
+	* Is new
+Course 'PHVM-350'
+	* Is new
+Course 'PHVM-351'
+	* Is new
+Course 'PHVM-401'
+	* Is new
+Course 'IMPT-301'
+	* Is new
+Course 'IMPT-307'
+	* Is new
+Course 'IMPT-311'
+	* Is new
+Course 'IMPT-312'
+	* Is new
+Course 'IMPT-321'
+	* Is new
+Course 'IMPT-322'
+	* Is new
+Course 'IMSM-301'
+	* Is new
+Course 'IMSM-302'
+	* Is new
+Course 'IMSM-303'
+	* Is new
+Course 'PHBM-312'
+	* Is new
+Course 'PHBM-316'
+	* Is new
+Course 'PHBM-317'
+	* Is new
+Course 'PHBM-321'
+	* Is new
+Course 'PHBM-322'
+	* Is new
+Course 'PHBM-326'
+	* Is new
+Course 'PHBM-327'
+	* Is new
+Course 'PHPS-101'
+	* Is new
+Course 'PHPS-102'
+	* Is new
+Course 'PHPS-106'
+	* Is new
+Course 'PHPS-107'
+	* Is new
+Course 'PHPS-206'
+	* Is new
+Course 'PHPS-207'
+	* Is new
+Course 'PHPS-211'
+	* Is new
+Course 'PHPS-212'
+	* Is new
+Course 'PHPS-302'
+	* Is new
+Course 'PHPS-303'
+	* Is new
+Course 'PHPS-306'
+	* Is new
+Course 'PHPS-307'
+	* Is new
+Course 'PHPS-311'
+	* Is new
+Course 'PHPS-315'
+	* Is new
+Course 'PHPS-316'
+	* Is new
+Course 'PHPS-321'
+	* Is new
+Course 'PHPS-322'
+	* Is new
+Course 'PHPS-323'
+	* Is new
+Course 'PHPS-350'
+	* Is new
+Course 'PHPS-351'
+	* Is new
+Course 'PHPS-498'
+	* Is new
+Course 'PHPS-499'
+	* Is new
+Course 'PHPS-599'
+	* Is new
+Course 'ANTH-102'
+	* Is new
+Course 'ANTH-102H'
+	* Is new
+Course 'ANTH-103'
+	* Is new
+Course 'ANTH-210'
+	* Is new
+Course 'ANTH-215'
+	* Is new
+Course 'ANTH-220'
+	* Is new
+Course 'ANTH-225'
+	* Is new
+Course 'ANTH-235'
+	* Is new
+Course 'ANTH-245'
+	* Is new
+Course 'ANTH-250'
+	* Is new
+Course 'ANTH-255'
+	* Is new
+Course 'ANTH-260'
+	* Is new
+Course 'ANTH-265'
+	* Is new
+Course 'ANTH-270'
+	* Is new
+Course 'ANTH-275'
+	* Is new
+Course 'ANTH-280'
+	* Is new
+Course 'ANTH-285'
+	* Is new
+Course 'ANTH-290'
+	* Is new
+Course 'ANTH-301'
+	* Is new
+Course 'ANTH-302'
+	* Is new
+Course 'ANTH-303'
+	* Is new
+Course 'ANTH-305'
+	* Is new
+Course 'ANTH-340'
+	* Is new
+Course 'ANTH-312'
+	* Is new
+Course 'ANTH-345'
+	* Is new
+Course 'ANTH-315'
+	* Is new
+Course 'ANTH-325'
+	* Is new
+Course 'ANTH-330'
+	* Is new
+Course 'ANTH-335'
+	* Is new
+Course 'ANTH-350'
+	* Is new
+Course 'ANTH-360'
+	* Is new
+Course 'ANTH-370'
+	* Is new
+Course 'ANTH-375'
+	* Is new
+Course 'ANTH-385'
+	* Is new
+Course 'ANTH-390'
+	* Is new
+Course 'ANTH-410'
+	* Is new
+Course 'ANTH-415'
+	* Is new
+Course 'ANTH-425'
+	* Is new
+Course 'ANTH-430'
+	* Is new
+Course 'ANTH-435'
+	* Is new
+Course 'ANTH-455'
+	* Is new
+Course 'ANTH-489'
+	* Is new
+Course 'ANTH-501'
+	* Is new
+Course 'ANTH-599'
+	* Is new
+Course 'COMM-101'
+	* Is new
+Course 'COMM-142'
+	* Is new
+Course 'COMM-201'
+	* Is new
+Course 'COMM-202'
+	* Is new
+Course 'COMM-203'
+	* Is new
+Course 'COMM-211'
+	* Is new
+Course 'COMM-212'
+	* Is new
+Course 'COMM-221'
+	* Is new
+Course 'COMM-223'
+	* Is new
+Course 'COMM-261'
+	* Is new
+Course 'COMM-263'
+	* Is new
+Course 'COMM-271'
+	* Is new
+Course 'COMM-272'
+	* Is new
+Course 'COMM-273'
+	* Is new
+Course 'COMM-274'
+	* Is new
+Course 'COMM-301'
+	* Is new
+Course 'COMM-302'
+	* Is new
+Course 'COMM-303'
+	* Is new
+Course 'COMM-304'
+	* Is new
+Course 'COMM-306'
+	* Is new
+Course 'COMM-321'
+	* Is new
+Course 'COMM-322'
+	* Is new
+Course 'COMM-341'
+	* Is new
+Course 'COMM-342'
+	* Is new
+Course 'COMM-343'
+	* Is new
+Course 'COMM-344'
+	* Is new
+Course 'COMM-345'
+	* Is new
+Course 'COMM-346'
+	* Is new
+Course 'COMM-356'
+	* Is new
+Course 'COMM-357'
+	* Is new
+Course 'COMM-361'
+	* Is new
+Course 'COMM-362'
+	* Is new
+Course 'COMM-401'
+	* Is new
+Course 'COMM-421'
+	* Is new
+Course 'COMM-440'
+	* Is new
+Course 'COMM-441'
+	* Is new
+Course 'COMM-461'
+	* Is new
+Course 'COMM-489'
+	* Is new
+Course 'COMM-497'
+	* Is new
+Course 'COMM-499'
+	* Is new
+Course 'COMM-501'
+	* Is new
+Course 'COMM-503'
+	* Is new
+Course 'COMM-599'
+	* Is new
+Course 'CRIM-100'
+	* Is new
+Course 'CRIM-110'
+	* Is new
+Course 'CRIM-120'
+	* Is new
+Course 'CRIM-210'
+	* Is new
+Course 'CRIM-225'
+	* Is new
+Course 'CRIM-230'
+	* Is new
+Course 'CRIM-235'
+	* Is new
+Course 'CRIM-240'
+	* Is new
+Course 'CRIM-245'
+	* Is new
+Course 'CRIM-250'
+	* Is new
+Course 'CRIM-255'
+	* Is new
+Course 'CRIM-265'
+	* Is new
+Course 'CRIM-270'
+	* Is new
+Course 'CRIM-275'
+	* Is new
+Course 'CRIM-285'
+	* Is new
+Course 'CRIM-290'
+	* Is new
+Course 'CRIM-299'
+	* Is new
+Course 'CRIM-300'
+	* Is new
+Course 'CRIM-350'
+	* Is new
+Course 'CRIM-400'
+	* Is new
+Course 'CRIM-489'
+	* Is new
+Course 'CRIM-500'
+	* Is new
+Course 'CRIM-599'
+	* Is new
+Course 'ECON-100'
+	* Is new
+Course 'ECON-101'
+	* Is new
+Course 'ECON-101H'
+	* Is new
+Course 'ECON-201'
+	* Is new
+Course 'ECON-401'
+	* Is new
+Course 'ECON-402'
+	* Is new
+Course 'ECON-403'
+	* Is new
+Course 'ECON-405'
+	* Is new
+Course 'ECON-406'
+	* Is new
+Course 'ECON-407'
+	* Is new
+Course 'ECON-421'
+	* Is new
+Course 'ECON-422'
+	* Is new
+Course 'ECON-430'
+	* Is new
+Course 'ECON-431'
+	* Is new
+Course 'ECON-432'
+	* Is new
+Course 'ECON-440'
+	* Is new
+Course 'ECON-441'
+	* Is new
+Course 'ECON-444'
+	* Is new
+Course 'ECON-445'
+	* Is new
+Course 'ECON-448'
+	* Is new
+Course 'ECON-449'
+	* Is new
+Course 'ECON-450'
+	* Is new
+Course 'ECON-451'
+	* Is new
+Course 'ECON-452'
+	* Is new
+Course 'ECON-453'
+	* Is new
+Course 'ECON-499'
+	* Is new
+Course 'ECON-501'
+	* Is new
+Course 'ECON-520'
+	* Is new
+Course 'ENGL-150'
+	* Is new
+Course 'ENGL-210'
+	* Is new
+Course 'ENGL-211'
+	* Is new
+Course 'ECON-502'
+	* Is new
+Course 'ENGL-215'
+	* Is new
+Course 'ECON-503'
+	* Is new
+Course 'ENGL-216'
+	* Is new
+Course 'ECON-510'
+	* Is new
+Course 'ENGL-301'
+	* Is new
+Course 'ENGL-302'
+	* Is new
+Course 'ENGL-304'
+	* Is new
+Course 'ENGL-307'
+	* Is new
+Course 'ENGL-309'
+	* Is new
+Course 'ENGL-315'
+	* Is new
+Course 'ENGL-316'
+	* Is new
+Course 'ENGL-318'
+	* Is new
+Course 'ENGL-320'
+	* Is new
+Course 'ENGL-325H'
+	* Is new
+Course 'ENGL-333'
+	* Is new
+Course 'ENGL-343'
+	* Is new
+Course 'ENGL-345'
+	* Is new
+Course 'ENGL-345H'
+	* Is new
+Course 'ENGL-351'
+	* Is new
+Course 'ENGL-360'
+	* Is new
+Course 'ENGL-361'
+	* Is new
+Course 'ENGL-373'
+	* Is new
+Course 'ENGL-374'
+	* Is new
+Course 'ENGL-375'
+	* Is new
+Course 'ENGL-376'
+	* Is new
+Course 'ENGL-381'
+	* Is new
+Course 'ENGL-386'
+	* Is new
+Course 'ENGL-389'
+	* Is new
+Course 'ENGL-390'
+	* Is new
+Course 'ENGL-391'
+	* Is new
+Course 'ENGL-400'
+	* Is new
+Course 'ENGL-409'
+	* Is new
+Course 'ENGL-410'
+	* Is new
+Course 'ENGL-411'
+	* Is new
+Course 'ENGL-417'
+	* Is new
+Course 'ENGL-419'
+	* Is new
+Course 'ENGL-421'
+	* Is new
+Course 'ENGL-422'
+	* Is new
+Course 'ENGL-440'
+	* Is new
+Course 'ENGL-441'
+	* Is new
+Course 'ENGL-442'
+	* Is new
+Course 'ENGL-450'
+	* Is new
+Course 'ENGL-470'
+	* Is new
+Course 'ENGL-472'
+	* Is new
+Course 'ENGL-480'
+	* Is new
+Course 'ENGL-481'
+	* Is new
+Course 'ENGL-482'
+	* Is new
+Course 'ENGL-490'
+	* Is new
+Course 'ENGL-511'
+	* Is new
+Course 'ENGL-543'
+	* Is new
+Course 'ENGL-582'
+	* Is new
+Course 'ENGL-599'
+	* Is new
+Course 'FNRT-130'
+	* Is new
+Course 'FNRT-201'
+	* Is new
+Course 'FNRT-202'
+	* Is new
+Course 'FNRT-203'
+	* Is new
+Course 'FNRT-204'
+	* Is new
+Course 'FNRT-205'
+	* Is new
+Course 'FNRT-206'
+	* Is new
+Course 'FNRT-207'
+	* Is new
+Course 'FNRT-211'
+	* Is new
+Course 'FNRT-223'
+	* Is new
+Course 'FNRT-224'
+	* Is new
+Course 'FNRT-230'
+	* Is new
+Course 'FNRT-231'
+	* Is new
+Course 'FNRT-250'
+	* Is new
+Course 'FNRT-251'
+	* Is new
+Course 'FNRT-252'
+	* Is new
+Course 'FNRT-253'
+	* Is new
+Course 'FNRT-254'
+	* Is new
+Course 'FNRT-255'
+	* Is new
+Course 'FNRT-256'
+	* Is new
+Course 'FNRT-260'
+	* Is new
+Course 'FNRT-301'
+	* Is new
+Course 'FNRT-302'
+	* Is new
+Course 'FNRT-303'
+	* Is new
+Course 'FNRT-304'
+	* Is new
+Course 'FNRT-320'
+	* Is new
+Course 'FNRT-321'
+	* Is new
+Course 'FNRT-322'
+	* Is new
+Course 'FNRT-323'
+	* Is new
+Course 'FNRT-324'
+	* Is new
+Course 'FNRT-325'
+	* Is new
+Course 'FNRT-326'
+	* Is new
+Course 'FNRT-327'
+	* Is new
+Course 'FNRT-354'
+	* Is new
+Course 'FNRT-355'
+	* Is new
+Course 'FNRT-356'
+	* Is new
+Course 'FNRT-357'
+	* Is new
+Course 'FNRT-358'
+	* Is new
+Course 'FNRT-370'
+	* Is new
+Course 'FNRT-372'
+	* Is new
+Course 'FNRT-373'
+	* Is new
+Course 'FNRT-376'
+	* Is new
+Course 'FNRT-378'
+	* Is new
+Course 'FNRT-379'
+	* Is new
+Course 'FNRT-380'
+	* Is new
+Course 'FNRT-381'
+	* Is new
+Course 'FNRT-382'
+	* Is new
+Course 'FNRT-384'
+	* Is new
+Course 'FNRT-440'
+	* Is new
+Course 'FNRT-485'
+	* Is new
+Course 'FNRT-489'
+	* Is new
+Course 'FNRT-490'
+	* Is new
+Course 'FNRT-599'
+	* Is new
+Course 'MLAR-201'
+	* Is new
+Course 'MLAR-202'
+	* Is new
+Course 'MLAR-301'
+	* Is new
+Course 'MLAR-302'
+	* Is new
+Course 'MLAR-401'
+	* Is new
+Course 'MLAR-402'
+	* Is new
+Course 'MLAR-449'
+	* Is new
+Course 'MLAS-201'
+	* Is new
+Course 'MLAS-202'
+	* Is new
+Course 'MLAS-301'
+	* Is new
+Course 'MLAS-302'
+	* Is new
+Course 'MLAS-351'
+	* Is new
+Course 'MLAS-352'
+	* Is new
+Course 'MLAS-401'
+	* Is new
+Course 'MLAS-402'
+	* Is new
+Course 'MLAS-449'
+	* Is new
+Course 'MLCH-201'
+	* Is new
+Course 'MLCH-202'
+	* Is new
+Course 'MLCH-301'
+	* Is new
+Course 'MLCH-302'
+	* Is new
+Course 'MLCH-401'
+	* Is new
+Course 'MLCH-402'
+	* Is new
+Course 'MLCH-449'
+	* Is new
+Course 'MLFR-201'
+	* Is new
+Course 'MLFR-202'
+	* Is new
+Course 'MLFR-301'
+	* Is new
+Course 'MLFR-302'
+	* Is new
+Course 'MLFR-351'
+	* Is new
+Course 'MLFR-352'
+	* Is new
+Course 'MLFR-401'
+	* Is new
+Course 'MLFR-402'
+	* Is new
+Course 'MLFR-449'
+	* Is new
+Course 'MLGR-201'
+	* Is new
+Course 'MLGR-202'
+	* Is new
+Course 'MLGR-301'
+	* Is new
+Course 'MLGR-302'
+	* Is new
+Course 'MLGR-401'
+	* Is new
+Course 'MLGR-402'
+	* Is new
+Course 'MLGR-449'
+	* Is new
+Course 'MLIT-201'
+	* Is new
+Course 'MLIT-202'
+	* Is new
+Course 'MLIT-301'
+	* Is new
+Course 'MLIT-302'
+	* Is new
+Course 'MLIT-401'
+	* Is new
+Course 'MLIT-402'
+	* Is new
+Course 'MLIT-449'
+	* Is new
+Course 'MLJP-201'
+	* Is new
+Course 'MLJP-202'
+	* Is new
+Course 'MLJP-301'
+	* Is new
+Course 'MLJP-302'
+	* Is new
+Course 'MLJP-351'
+	* Is new
+Course 'MLJP-401'
+	* Is new
+Course 'MLJP-402'
+	* Is new
+Course 'MLJP-403'
+	* Is new
+Course 'MLJP-405'
+	* Is new
+Course 'MLJP-449'
+	* Is new
+Course 'MLPO-449'
+	* Is new
+Course 'MLJP-451'
+	* Is new
+Course 'MLRU-201'
+	* Is new
+Course 'MLPO-201'
+	* Is new
+Course 'MLPO-202'
+	* Is new
+Course 'MLPO-301'
+	* Is new
+Course 'MLPO-302'
+	* Is new
+Course 'MLPO-401'
+	* Is new
+Course 'MLPO-402'
+	* Is new
+Course 'MLRU-202'
+	* Is new
+Course 'MLRU-301'
+	* Is new
+Course 'MLRU-302'
+	* Is new
+Course 'MLRU-401'
+	* Is new
+Course 'MLRU-402'
+	* Is new
+Course 'MLRU-449'
+	* Is new
+Course 'MLSP-201A'
+	* Is new
+Course 'MLSP-201B'
+	* Is new
+Course 'MLSP-202'
+	* Is new
+Course 'MLSP-301'
+	* Is new
+Course 'MLSP-302'
+	* Is new
+Course 'MLSP-352'
+	* Is new
+Course 'MLSP-353'
+	* Is new
+Course 'MLSP-401'
+	* Is new
+Course 'MLSP-402'
+	* Is new
+Course 'MLST-449'
+	* Is new
+Course 'HIST-101'
+	* Is new
+Course 'HIST-102'
+	* Is new
+Course 'HIST-103'
+	* Is new
+Course 'HIST-125'
+	* Is new
+Course 'HIST-160'
+	* Is new
+Course 'HIST-170'
+	* Is new
+Course 'HIST-180'
+	* Is new
+Course 'HIST-190'
+	* Is new
+Course 'HIST-191'
+	* Is new
+Course 'HIST-199'
+	* Is new
+Course 'HIST-201'
+	* Is new
+Course 'HIST-210'
+	* Is new
+Course 'HIST-230'
+	* Is new
+Course 'HIST-238'
+	* Is new
+Course 'HIST-240'
+	* Is new
+Course 'HIST-245'
+	* Is new
+Course 'HIST-250'
+	* Is new
+Course 'HIST-251'
+	* Is new
+Course 'HIST-252'
+	* Is new
+Course 'HIST-275'
+	* Is new
+Course 'HIST-280'
+	* Is new
+Course 'HIST-290'
+	* Is new
+Course 'HIST-301'
+	* Is new
+Course 'HIST-302'
+	* Is new
+Course 'HIST-321'
+	* Is new
+Course 'HIST-322'
+	* Is new
+Course 'HIST-326'
+	* Is new
+Course 'HIST-330'
+	* Is new
+Course 'HIST-333'
+	* Is new
+Course 'HIST-334'
+	* Is new
+Course 'HIST-345'
+	* Is new
+Course 'HIST-350'
+	* Is new
+Course 'HIST-365'
+	* Is new
+Course 'HIST-380'
+	* Is new
+Course 'HIST-381'
+	* Is new
+Course 'HIST-390'
+	* Is new
+Course 'HIST-402'
+	* Is new
+Course 'HIST-421'
+	* Is new
+Course 'HIST-431'
+	* Is new
+Course 'HIST-439'
+	* Is new
+Course 'HIST-450'
+	* Is new
+Course 'HIST-462'
+	* Is new
+Course 'HIST-465'
+	* Is new
+Course 'HIST-470'
+	* Is new
+Course 'HIST-480'
+	* Is new
+Course 'ITDL-101'
+	* Is new
+Course 'ITDL-151H'
+	* Is new
+Course 'ITDL-450'
+	* Is new
+Course 'INGS-101'
+	* Is new
+Course 'INGS-502'
+	* Is new
+Course 'INGS-597'
+	* Is new
+Course 'INGS-201'
+	* Is new
+Course 'INGS-210'
+	* Is new
+Course 'MUSE-223'
+	* Is new
+Course 'INGS-270'
+	* Is new
+Course 'INGS-455'
+	* Is new
+Course 'INGS-489'
+	* Is new
+Course 'MUSE-224'
+	* Is new
+Course 'MUSE-225'
+	* Is new
+Course 'MUSE-340'
+	* Is new
+Course 'MUSE-341'
+	* Is new
+Course 'MUSE-354'
+	* Is new
+Course 'MUSE-355'
+	* Is new
+Course 'MUSE-357'
+	* Is new
+Course 'MUSE-358'
+	* Is new
+Course 'MUSE-359'
+	* Is new
+Course 'MUSE-360'
+	* Is new
+Course 'MUSE-489'
+	* Is new
+Course 'MUSE-490'
+	* Is new
+Course 'MUSE-491'
+	* Is new
+Course 'MUSE-492'
+	* Is new
+Course 'MUSE-599'
+	* Is new
+Course 'PHIL-101'
+	* Is new
+Course 'PHIL-102'
+	* Is new
+Course 'PHIL-103'
+	* Is new
+Course 'PHIL-201'
+	* Is new
+Course 'PHIL-202'
+	* Is new
+Course 'PHIL-203'
+	* Is new
+Course 'PHIL-204'
+	* Is new
+Course 'PHIL-301'
+	* Is new
+Course 'PHIL-302'
+	* Is new
+Course 'PHIL-303'
+	* Is new
+Course 'PHIL-304'
+	* Is new
+Course 'PHIL-305'
+	* Is new
+Course 'PHIL-307'
+	* Is new
+Course 'PHIL-308'
+	* Is new
+Course 'PHIL-309'
+	* Is new
+Course 'PHIL-310'
+	* Is new
+Course 'PHIL-311'
+	* Is new
+Course 'PHIL-312'
+	* Is new
+Course 'PHIL-313'
+	* Is new
+Course 'PHIL-314'
+	* Is new
+Course 'PHIL-401'
+	* Is new
+Course 'PHIL-402'
+	* Is new
+Course 'PHIL-403'
+	* Is new
+Course 'PHIL-404'
+	* Is new
+Course 'PHIL-405'
+	* Is new
+Course 'PHIL-406'
+	* Is new
+Course 'PHIL-407'
+	* Is new
+Course 'PHIL-408'
+	* Is new
+Course 'PHIL-412'
+	* Is new
+Course 'PHIL-413'
+	* Is new
+Course 'PHIL-414'
+	* Is new
+Course 'PHIL-415'
+	* Is new
+Course 'PHIL-416'
+	* Is new
+Course 'PHIL-449'
+	* Is new
+Course 'PHIL-499'
+	* Is new
+Course 'PHIL-571'
+	* Is new
+Course 'PHIL-599'
+	* Is new
+Course 'POLS-110'
+	* Is new
+Course 'POLS-110H'
+	* Is new
+Course 'POLS-115'
+	* Is new
+Course 'POLS-120'
+	* Is new
+Course 'POLS-200'
+	* Is new
+Course 'POLS-205'
+	* Is new
+Course 'POLS-210'
+	* Is new
+Course 'POLS-215'
+	* Is new
+Course 'POLS-220'
+	* Is new
+Course 'POLS-250'
+	* Is new
+Course 'POLS-285'
+	* Is new
+Course 'POLS-290'
+	* Is new
+Course 'POLS-300'
+	* Is new
+Course 'POLS-305'
+	* Is new
+Course 'POLS-310'
+	* Is new
+Course 'POLS-315'
+	* Is new
+Course 'POLS-320'
+	* Is new
+Course 'POLS-325'
+	* Is new
+Course 'POLS-330'
+	* Is new
+Course 'POLS-333'
+	* Is new
+Course 'POLS-335'
+	* Is new
+Course 'POLS-345'
+	* Is new
+Course 'POLS-350'
+	* Is new
+Course 'POLS-355'
+	* Is new
+Course 'POLS-360'
+	* Is new
+Course 'POLS-410'
+	* Is new
+Course 'POLS-415'
+	* Is new
+Course 'POLS-420'
+	* Is new
+Course 'POLS-425'
+	* Is new
+Course 'POLS-435'
+	* Is new
+Course 'POLS-440'
+	* Is new
+Course 'POLS-445'
+	* Is new
+Course 'POLS-455'
+	* Is new
+Course 'POLS-460'
+	* Is new
+Course 'POLS-465'
+	* Is new
+Course 'POLS-485'
+	* Is new
+Course 'POLS-490'
+	* Is new
+Course 'POLS-525'
+	* Is new
+Course 'POLS-530'
+	* Is new
+Course 'PSYC-101'
+	* Is new
+Course 'PSYC-101H'
+	* Is new
+Course 'PSYC-221'
+	* Is new
+Course 'PSYC-223'
+	* Is new
+Course 'PSYC-225'
+	* Is new
+Course 'PSYC-231'
+	* Is new
+Course 'PSYC-232'
+	* Is new
+Course 'PSYC-233'
+	* Is new
+Course 'PSYC-233H'
+	* Is new
+Course 'PSYC-234'
+	* Is new
+Course 'PSYC-235'
+	* Is new
+Course 'PSYC-237'
+	* Is new
+Course 'PSYC-238'
+	* Is new
+Course 'PSYC-239'
+	* Is new
+Course 'PSYC-250'
+	* Is new
+Course 'PSYC-251'
+	* Is new
+Course 'PSYC-312'
+	* Is new
+Course 'PSYC-320'
+	* Is new
+Course 'PSYC-321'
+	* Is new
+Course 'PSYC-330'
+	* Is new
+Course 'PSYC-331'
+	* Is new
+Course 'PSYC-332'
+	* Is new
+Course 'PSYC-340'
+	* Is new
+Course 'PSYC-341'
+	* Is new
+Course 'PSYC-342'
+	* Is new
+Course 'PSYC-350'
+	* Is new
+Course 'PSYC-351'
+	* Is new
+Course 'PSYC-352'
+	* Is new
+Course 'PSYC-401'
+	* Is new
+Course 'PSYC-444'
+	* Is new
+Course 'PSYC-498'
+	* Is new
+Course 'PSYC-499'
+	* Is new
+Course 'PSYC-502'
+	* Is new
+Course 'PSYC-510'
+	* Is new
+Course 'PSYC-599'
+	* Is new
+Course 'PUBL-101'
+	* Is new
+Course 'PUBL-120'
+	* Is new
+Course 'PUBL-510'
+	* Is new
+Course 'PUBL-520'
+	* Is new
+Course 'PUBL-201'
+	* Is new
+Course 'PUBL-530'
+	* Is new
+Course 'PUBL-210'
+	* Is new
+Course 'STSO-120'
+	* Is new
+Course 'PUBL-301'
+	* Is new
+Course 'PUBL-302'
+	* Is new
+Course 'PUBL-489'
+	* Is new
+Course 'PUBL-499'
+	* Is new
+Course 'PUBL-500'
+	* Is new
+Course 'STSO-140'
+	* Is new
+Course 'STSO-201'
+	* Is new
+Course 'STSO-220'
+	* Is new
+Course 'STSO-240'
+	* Is new
+Course 'STSO-326'
+	* Is new
+Course 'STSO-330'
+	* Is new
+Course 'STSO-510'
+	* Is new
+Course 'STSO-341'
+	* Is new
+Course 'STSO-521'
+	* Is new
+Course 'STSO-345'
+	* Is new
+Course 'STSO-346'
+	* Is new
+Course 'STSO-421'
+	* Is new
+Course 'STSO-422'
+	* Is new
+Course 'STSO-441'
+	* Is new
+Course 'STSO-445'
+	* Is new
+Course 'STSO-446'
+	* Is new
+Course 'STSO-489'
+	* Is new
+Course 'STSO-550'
+	* Is new
+Course 'SOCI-102'
+	* Is new
+Course 'SOCI-102H'
+	* Is new
+Course 'SOCI-103'
+	* Is new
+Course 'SOCI-210'
+	* Is new
+Course 'SOCI-220'
+	* Is new
+Course 'SOCI-235'
+	* Is new
+Course 'SOCI-240'
+	* Is new
+Course 'SOCI-245'
+	* Is new
+Course 'SOCI-301'
+	* Is new
+Course 'SOCI-302'
+	* Is new
+Course 'SOCI-303'
+	* Is new
+Course 'SOCI-315'
+	* Is new
+Course 'SOCI-320'
+	* Is new
+Course 'SOCI-330'
+	* Is new
+Course 'SOCI-335'
+	* Is new
+Course 'SOCI-345'
+	* Is new
+Course 'SOCI-350'
+	* Is new
+Course 'SOCI-390'
+	* Is new
+Course 'SOCI-410'
+	* Is new
+Course 'SOCI-451'
+	* Is new
+Course 'SOCI-489'
+	* Is new
+Course 'SOCI-501'
+	* Is new
+Course 'SOCI-599'
+	* Is new
+Course 'WGST-200'
+	* Is new
+Course 'WGST-206'
+	* Is new
+Course 'WGST-210'
+	* Is new
+Course 'WGST-235'
+	* Is new
+Course 'WGST-237'
+	* Is new
+Course 'WGST-245'
+	* Is new
+Course 'WGST-250'
+	* Is new
+Course 'WGST-255'
+	* Is new
+Course 'WGST-265'
+	* Is new
+Course 'WGST-309'
+	* Is new
+Course 'WGST-361'
+	* Is new
+Course 'WGST-384'
+	* Is new
+Course 'WGST-451'
+	* Is new
+Course 'BUSI-205'
+	* Is new
+Course 'BUSI-221'
+	* Is new
+Course 'BUSI-320'
+	* Is new
+Course 'BUSI-324'
+	* Is new
+Course 'BUSI-409'
+	* Is new
+Course 'BUSI-411'
+	* Is new
+Course 'BUSI-412'
+	* Is new
+Course 'BUSI-510'
+	* Is new
+Course 'CMDS-205'
+	* Is new
+Course 'CMDS-211'
+	* Is new
+Course 'CMDS-233'
+	* Is new
+Course 'CMDS-240'
+	* Is new
+Course 'CMDS-298'
+	* Is new
+Course 'CMDS-299'
+	* Is new
+Course 'CMDS-333'
+	* Is new
+Course 'CMDS-362'
+	* Is new
+Course 'CMDS-411'
+	* Is new
+Course 'CMDS-431'
+	* Is new
+Course 'CMDS-441'
+	* Is new
+Course 'CMDS-461'
+	* Is new
+Course 'CMDS-497'
+	* Is new
+Course 'CMDS-498'
+	* Is new
+Course 'CMDS-499'
+	* Is new
+Course 'CMDS-500'
+	* Is new
+Course 'CMDS-510'
+	* Is new
+Course 'CMDS-511'
+	* Is new
+Course 'MTSC-111'
+	* Is new
+Course 'MTSC-112'
+	* Is new
+Course 'MTSC-211'
+	* Is new
+Course 'MTSC-212'
+	* Is new
+Course 'MTSC-231'
+	* Is new
+Course 'MTSC-232'
+	* Is new
+Course 'MTSC-233'
+	* Is new
+Course 'MTSC-234'
+	* Is new
+Course 'MTSC-240'
+	* Is new
+Course 'QLTM-310'
+	* Is new
+Course 'QLTM-340'
+	* Is new
+Course 'QLTM-410'
+	* Is new
+Course 'QLTM-420'
+	* Is new
+Course 'QLTM-430'
+	* Is new
+Course 'TCOM-271'
+	* Is new
+Course 'TCOM-320'
+	* Is new
+Course 'TCOM-325'
+	* Is new
+Course 'TCOM-327'
+	* Is new
+Course 'TCOM-333'
+	* Is new
+Course 'TCOM-435'
+	* Is new
+Course 'TCOM-356'
+	* Is new
+Course 'TCOM-444'
+	* Is new
+Course 'TCOM-361'
+	* Is new
+Course 'TCOM-380'
+	* Is new
+Course 'TCOM-476'
+	* Is new
+Course 'TCOM-381'
+	* Is new
+Course 'TCOM-382'
+	* Is new
+Course 'TCOM-383'
+	* Is new
+Course 'TCOM-410'
+	* Is new
+Course 'TCOM-414'
+	* Is new
+Course 'ASLC-211'
+	* Is new
+Course 'ASLC-212'
+	* Is new
+Course 'ASLC-289'
+	* Is new
+Course 'INTP-120'
+	* Is new
+Course 'INTP-125'
+	* Is new
+Course 'INTP-126'
+	* Is new
+Course 'INTP-200'
+	* Is new
+Course 'INTP-210'
+	* Is new
+Course 'INTP-215'
+	* Is new
+Course 'INTP-225'
+	* Is new
+Course 'INTP-226'
+	* Is new
+Course 'INTP-310'
+	* Is new
+Course 'INTP-315'
+	* Is new
+Course 'INTP-325'
+	* Is new
+Course 'INTP-326'
+	* Is new
+Course 'INTP-335'
+	* Is new
+Course 'INTP-336'
+	* Is new
+Course 'INTP-355'
+	* Is new
+Course 'INTP-360'
+	* Is new
+Course 'INTP-361'
+	* Is new
+Course 'INTP-362'
+	* Is new
+Course 'INTP-363'
+	* Is new
+Course 'INTP-399'
+	* Is new
+Course 'INTP-435'
+	* Is new
+Course 'INTP-436'
+	* Is new
+Course 'INTP-440'
+	* Is new
+Course 'INTP-441'
+	* Is new
+Course 'INTP-451'
+	* Is new
+Course 'INTP-460'
+	* Is new
+Course 'INTP-461'
+	* Is new
+Course 'INTP-471'
+	* Is new
+Course 'INTP-481'
+	* Is new
+Course 'INTP-489'
+	* Is new
+Course 'NASL-190'
+	* Is new
+Course 'NASL-199'
+	* Is new
+Course 'NASL-200'
+	* Is new
+Course 'NASL-230'
+	* Is new
+Course 'NASL-240'
+	* Is new
+Course 'NASL-275'
+	* Is new
+Course 'NASL-280'
+	* Is new
+Course 'NASL-289'
+	* Is new
+Course 'NAIS-130'
+	* Is new
+Course 'NAIS-140'
+	* Is new
+Course 'NAIS-150'
+	* Is new
+Course 'NAIS-160'
+	* Is new
+Course 'NAIS-199'
+	* Is new
+Course 'NAIS-201'
+	* Is new
+Course 'NAIS-289'
+	* Is new
+Course 'NAIS-299'
+	* Is new
+Course 'NGRD-111'
+	* Is new
+Course 'NGRD-115'
+	* Is new
+Course 'NGRD-211'
+	* Is new
+Course 'NGRD-221'
+	* Is new
+Course 'NGRD-230'
+	* Is new
+Course 'NGRD-240'
+	* Is new
+Course 'NGRD-255'
+	* Is new
+Course 'NGRD-256'
+	* Is new
+Course 'NGRP-110'
+	* Is new
+Course 'NGRP-210'
+	* Is new
+Course 'NGRP-231'
+	* Is new
+Course 'NGRP-232'
+	* Is new
+Course 'NGRP-245'
+	* Is new
+Course 'NGRP-250'
+	* Is new
+Course 'NGRP-251'
+	* Is new
+Course 'NGRP-252'
+	* Is new
+Course 'NGRP-260'
+	* Is new
+Course 'NGRP-270'
+	* Is new
+Course 'NGRP-275'
+	* Is new
+Course 'NACC-130'
+	* Is new
+Course 'NACC-201'
+	* Is new
+Course 'NACC-202'
+	* Is new
+Course 'NACC-203'
+	* Is new
+Course 'NACC-204'
+	* Is new
+Course 'NACC-205'
+	* Is new
+Course 'NACC-206'
+	* Is new
+Course 'NACC-289'
+	* Is new
+Course 'NACC-299'
+	* Is new
+Course 'NAST-140'
+	* Is new
+Course 'NAST-150'
+	* Is new
+Course 'NAST-160'
+	* Is new
+Course 'NAST-215'
+	* Is new
+Course 'NAST-220'
+	* Is new
+Course 'NAST-225'
+	* Is new
+Course 'NAST-230'
+	* Is new
+Course 'NAST-240'
+	* Is new
+Course 'NAST-241'
+	* Is new
+Course 'NAST-242'
+	* Is new
+Course 'NAST-243'
+	* Is new
+Course 'NAST-244'
+	* Is new
+Course 'NAST-299'
+	* Is new
+Course 'NBUS-200'
+	* Is new
+Course 'NBUS-211'
+	* Is new
+Course 'NBUS-217'
+	* Is new
+Course 'NBUS-221'
+	* Is new
+Course 'NBUS-223'
+	* Is new
+Course 'NBUS-225'
+	* Is new
+Course 'NCAR-100'
+	* Is new
+Course 'NCAR-110'
+	* Is new
+Course 'NCAR-115'
+	* Is new
+Course 'NCOM-199'
+	* Is new
+Course 'NCOM-201'
+	* Is new
+Course 'NCOM-202'
+	* Is new
+Course 'NCOM-204'
+	* Is new
+Course 'NETS-120'
+	* Is new
+Course 'NETS-150'
+	* Is new
+Course 'NETS-151'
+	* Is new
+Course 'NCOM-206'
+	* Is new
+Course 'NCAD-108'
+	* Is new
+Course 'NCOM-289'
+	* Is new
+Course 'NCAD-150'
+	* Is new
+Course 'NETS-101'
+	* Is new
+Course 'NETS-110'
+	* Is new
+Course 'NETS-111'
+	* Is new
+Course 'NCAD-170'
+	* Is new
+Course 'NCAD-180'
+	* Is new
+Course 'NCAD-199'
+	* Is new
+Course 'NCAD-220'
+	* Is new
+Course 'NCAD-230'
+	* Is new
+Course 'NCAD-240'
+	* Is new
+Course 'NCAD-250'
+	* Is new
+Course 'NCAD-255'
+	* Is new
+Course 'NCAD-265'
+	* Is new
+Course 'NCAD-275'
+	* Is new
+Course 'NCAD-280'
+	* Is new
+Course 'NCAD-285'
+	* Is new
+Course 'NCAD-289'
+	* Is new
+Course 'NCAD-299'
+	* Is new
+Course 'NCIM-101'
+	* Is new
+Course 'NCIM-102'
+	* Is new
+Course 'NCIM-121'
+	* Is new
+Course 'NCIM-131'
+	* Is new
+Course 'NCIM-132'
+	* Is new
+Course 'NCIM-199'
+	* Is new
+Course 'NCIM-207'
+	* Is new
+Course 'NCIM-214'
+	* Is new
+Course 'NCIM-252'
+	* Is new
+Course 'NCIM-222'
+	* Is new
+Course 'NCIM-289'
+	* Is new
+Course 'NCIM-233'
+	* Is new
+Course 'NCIM-234'
+	* Is new
+Course 'NCIM-241'
+	* Is new
+Course 'NCIM-242'
+	* Is new
+Course 'NCIM-243'
+	* Is new
+Course 'NCIM-251'
+	* Is new
+Course 'NCIM-299'
+	* Is new
+Course 'NENG-102'
+	* Is new
+Course 'NENG-103'
+	* Is new
+Course 'NENG-112'
+	* Is new
+Course 'NENG-113'
+	* Is new
+Course 'NENG-199'
+	* Is new
+Course 'NENG-212'
+	* Is new
+Course 'NENG-213'
+	* Is new
+Course 'NENG-221'
+	* Is new
+Course 'NENG-222'
+	* Is new
+Course 'NENG-231'
+	* Is new
+Course 'NENG-232'
+	* Is new
+Course 'NENG-241'
+	* Is new
+Course 'NENG-289'
+	* Is new
+Course 'NHSS-110'
+	* Is new
+Course 'NHSS-120'
+	* Is new
+Course 'NHSS-122'
+	* Is new
+Course 'NHSS-132'
+	* Is new
+Course 'NHSS-134'
+	* Is new
+Course 'NHSS-150'
+	* Is new
+Course 'NHSS-159'
+	* Is new
+Course 'NHSS-180'
+	* Is new
+Course 'NHSS-199'
+	* Is new
+Course 'NHSS-219'
+	* Is new
+Course 'NHSS-223'
+	* Is new
+Course 'NHSS-224'
+	* Is new
+Course 'NHSS-225'
+	* Is new
+Course 'NHSS-240'
+	* Is new
+Course 'NHSS-248'
+	* Is new
+Course 'NHSS-249'
+	* Is new
+Course 'NHSS-260'
+	* Is new
+Course 'NHSS-269'
+	* Is new
+Course 'NHSS-270'
+	* Is new
+Course 'NHSS-279'
+	* Is new
+Course 'NHSS-281'
+	* Is new
+Course 'NHSS-289'
+	* Is new
+Course 'NACA-150'
+	* Is new
+Course 'NACA-160'
+	* Is new
+Course 'NACA-161'
+	* Is new
+Course 'NACA-172'
+	* Is new
+Course 'NACA-174'
+	* Is new
+Course 'NACA-199'
+	* Is new
+Course 'NACA-289'
+	* Is new
+Course 'NACT-120'
+	* Is new
+Course 'NACT-150'
+	* Is new
+Course 'NACT-151'
+	* Is new
+Course 'NACT-160'
+	* Is new
+Course 'NACT-161'
+	* Is new
+Course 'NACT-170'
+	* Is new
+Course 'NACT-199'
+	* Is new
+Course 'NACT-230'
+	* Is new
+Course 'NACT-235'
+	* Is new
+Course 'NACT-240'
+	* Is new
+Course 'NACT-250'
+	* Is new
+Course 'NACT-251'
+	* Is new
+Course 'NACT-252'
+	* Is new
+Course 'NACT-260'
+	* Is new
+Course 'NACT-261'
+	* Is new
+Course 'NACT-266'
+	* Is new
+Course 'NACT-271'
+	* Is new
+Course 'NACT-289'
+	* Is new
+Course 'NACT-295'
+	* Is new
+Course 'NACT-299'
+	* Is new
+Course 'NLST-171'
+	* Is new
+Course 'NLST-172'
+	* Is new
+Course 'NLST-199'
+	* Is new
+Course 'NLST-220'
+	* Is new
+Course 'NLST-225'
+	* Is new
+Course 'NLST-230'
+	* Is new
+Course 'NLST-232'
+	* Is new
+Course 'NLST-235'
+	* Is new
+Course 'NLST-240'
+	* Is new
+Course 'NLST-245'
+	* Is new
+Course 'NLST-250'
+	* Is new
+Course 'NLST-255'
+	* Is new
+Course 'NLST-270'
+	* Is new
+Course 'NLST-289'
+	* Is new
+Course 'NLST-299'
+	* Is new
+Course 'NDLS-256'
+	* Is new
+Course 'NDLS-280'
+	* Is new
+Course 'NMTH-140'
+	* Is new
+Course 'NMTH-180'
+	* Is new
+Course 'NMTH-199'
+	* Is new
+Course 'NMTH-206'
+	* Is new
+Course 'NMTH-207T'
+	* Is new
+Course 'NMTH-210'
+	* Is new
+Course 'NMTH-212'
+	* Is new
+Course 'NMTH-245'
+	* Is new
+Course 'NMTH-250'
+	* Is new
+Course 'NMTH-255'
+	* Is new
+Course 'NMTH-260'
+	* Is new
+Course 'NMTH-265'
+	* Is new
+Course 'NMTH-270'
+	* Is new
+Course 'NMTH-272'
+	* Is new
+Course 'NMTH-275'
+	* Is new
+Course 'NMTH-289'
+	* Is new
+Course 'NSCI-153'
+	* Is new
+Course 'NSCI-154'
+	* Is new
+Course 'NSCI-155'
+	* Is new
+Course 'NSCI-156'
+	* Is new
+Course 'NSCI-157'
+	* Is new
+Course 'NSCI-161'
+	* Is new
+Course 'NSCI-162'
+	* Is new
+Course 'NSCI-199'
+	* Is new
+Course 'NSCI-270'
+	* Is new
+Course 'NSCI-281'
+	* Is new
+Course 'NSCI-282'
+	* Is new
+Course 'NSCI-283'
+	* Is new
+Course 'NSCI-284'
+	* Is new
+Course 'NSCI-289'
+	* Is new
+Course 'BIOG-101'
+	* Is new
+Course 'BIOG-102'
+	* Is new
+Course 'BIOG-110'
+	* Is new
+Course 'BIOG-140'
+	* Is new
+Course 'BIOG-141'
+	* Is new
+Course 'BIOG-142'
+	* Is new
+Course 'BIOL-101'
+	* Is new
+Course 'BIOL-103'
+	* Is new
+Course 'BIOL-104'
+	* Is new
+Course 'BIOL-111'
+	* Is new
+Course 'BIOL-121'
+	* Is new
+Course 'BIOL-122'
+	* Is new
+Course 'BIOL-130'
+	* Is new
+Course 'BIOL-189'
+	* Is new
+Course 'BIOL-201'
+	* Is new
+Course 'BIOL-204'
+	* Is new
+Course 'BIOL-205'
+	* Is new
+Course 'BIOL-207'
+	* Is new
+Course 'BIOL-211'
+	* Is new
+Course 'BIOL-212'
+	* Is new
+Course 'BIOL-218'
+	* Is new
+Course 'BIOL-230'
+	* Is new
+Course 'BIOL-240'
+	* Is new
+Course 'BIOL-255'
+	* Is new
+Course 'BIOL-265'
+	* Is new
+Course 'BIOL-289'
+	* Is new
+Course 'BIOL-290'
+	* Is new
+Course 'BIOL-293'
+	* Is new
+Course 'BIOL-295'
+	* Is new
+Course 'BIOL-296'
+	* Is new
+Course 'BIOL-298'
+	* Is new
+Course 'BIOL-301'
+	* Is new
+Course 'BIOL-313'
+	* Is new
+Course 'BIOL-303'
+	* Is new
+Course 'BIOL-314'
+	* Is new
+Course 'BIOL-305'
+	* Is new
+Course 'BIOL-306'
+	* Is new
+Course 'BIOL-307'
+	* Is new
+Course 'BIOL-308'
+	* Is new
+Course 'BIOL-309'
+	* Is new
+Course 'BIOL-310'
+	* Is new
+Course 'BIOL-312'
+	* Is new
+Course 'BIOL-322'
+	* Is new
+Course 'BIOL-325'
+	* Is new
+Course 'BIOL-335'
+	* Is new
+Course 'BIOL-341'
+	* Is new
+Course 'BIOL-343'
+	* Is new
+Course 'BIOL-345'
+	* Is new
+Course 'BIOL-350'
+	* Is new
+Course 'BIOL-365'
+	* Is new
+Course 'BIOL-370'
+	* Is new
+Course 'BIOL-371'
+	* Is new
+Course 'BIOL-375'
+	* Is new
+Course 'BIOL-377'
+	* Is new
+Course 'BIOL-385'
+	* Is new
+Course 'BIOL-389'
+	* Is new
+Course 'BIOL-401'
+	* Is new
+Course 'BIOL-414'
+	* Is new
+Course 'BIOL-416'
+	* Is new
+Course 'BIOL-418'
+	* Is new
+Course 'BIOL-420'
+	* Is new
+Course 'BIOL-425'
+	* Is new
+Course 'BIOL-427'
+	* Is new
+Course 'BIOL-428'
+	* Is new
+Course 'BIOL-430'
+	* Is new
+Course 'BIOL-440'
+	* Is new
+Course 'BIOL-450'
+	* Is new
+Course 'BIOL-473'
+	* Is new
+Course 'BIOL-475'
+	* Is new
+Course 'BIOL-489'
+	* Is new
+Course 'BIOL-490H'
+	* Is new
+Course 'BIOL-494'
+	* Is new
+Course 'BIOL-495'
+	* Is new
+Course 'BIOL-498'
+	* Is new
+Course 'BIOL-499'
+	* Is new
+Course 'BIOL-500'
+	* Is new
+Course 'BIOL-550'
+	* Is new
+Course 'BIOL-570'
+	* Is new
+Course 'BIOL-571'
+	* Is new
+Course 'BIOL-572'
+	* Is new
+Course 'BIOL-599'
+	* Is new
+Course 'CHEM-130'
+	* Is new
+Course 'CHEM-151'
+	* Is new
+Course 'CHEM-155'
+	* Is new
+Course 'CHEM-189'
+	* Is new
+Course 'CHEM-201'
+	* Is new
+Course 'CHEM-203'
+	* Is new
+Course 'CHEM-289'
+	* Is new
+Course 'CHEM-298'
+	* Is new
+Course 'CHEM-301'
+	* Is new
+Course 'CHEM-489'
+	* Is new
+Course 'CHEM-493'
+	* Is new
+Course 'CHEM-495'
+	* Is new
+Course 'CHEM-498'
+	* Is new
+Course 'CHEM-499'
+	* Is new
+Course 'CHMA-161'
+	* Is new
+Course 'CHMA-165'
+	* Is new
+Course 'CHMA-221'
+	* Is new
+Course 'CHMA-222'
+	* Is new
+Course 'CHMA-231'
+	* Is new
+Course 'CHMB-189'
+	* Is new
+Course 'CHMB-240'
+	* Is new
+Course 'CHMB-289'
+	* Is new
+Course 'CHMB-402'
+	* Is new
+Course 'CHMB-403'
+	* Is new
+Course 'CHMB-405'
+	* Is new
+Course 'CHMB-450'
+	* Is new
+Course 'CHMB-489'
+	* Is new
+Course 'CHMB-493'
+	* Is new
+Course 'CHMB-495'
+	* Is new
+Course 'CHMB-498'
+	* Is new
+Course 'CHMB-499'
+	* Is new
+Course 'CHMG-111'
+	* Is new
+Course 'CHMG-112'
+	* Is new
+Course 'CHMG-122'
+	* Is new
+Course 'CHMG-123'
+	* Is new
+Course 'CHMG-131'
+	* Is new
+Course 'CHMG-141'
+	* Is new
+Course 'CHMG-142'
+	* Is new
+Course 'CHMG-145'
+	* Is new
+Course 'CHMG-146'
+	* Is new
+Course 'CHMG-201'
+	* Is new
+Course 'CHMI-351'
+	* Is new
+Course 'CHMI-464'
+	* Is new
+Course 'CHMI-565'
+	* Is new
+Course 'CHMO-231'
+	* Is new
+Course 'CHMO-232'
+	* Is new
+Course 'CHMO-235'
+	* Is new
+Course 'CHMO-236'
+	* Is new
+Course 'CHMO-331'
+	* Is new
+Course 'CHMO-332'
+	* Is new
+Course 'CHMO-335'
+	* Is new
+Course 'CHMO-336'
+	* Is new
+Course 'CHMO-535'
+	* Is new
+Course 'CHMP-441'
+	* Is new
+Course 'CHMP-442'
+	* Is new
+Course 'CHMP-445'
+	* Is new
+Course 'ENVS-101'
+	* Is new
+Course 'ENVS-111'
+	* Is new
+Course 'ENVS-150'
+	* Is new
+Course 'ENVS-151'
+	* Is new
+Course 'ENVS-189'
+	* Is new
+Course 'ENVS-201'
+	* Is new
+Course 'ENVS-205'
+	* Is new
+Course 'ENVS-241'
+	* Is new
+Course 'ENVS-242H'
+	* Is new
+Course 'ENVS-275'
+	* Is new
+Course 'ENVS-289'
+	* Is new
+Course 'ENVS-295'
+	* Is new
+Course 'ENVS-298'
+	* Is new
+Course 'ENVS-301'
+	* Is new
+Course 'ENVS-450'
+	* Is new
+Course 'ENVS-489'
+	* Is new
+Course 'ENVS-495'
+	* Is new
+Course 'ENVS-498'
+	* Is new
+Course 'ENVS-499'
+	* Is new
+Course 'ENVS-551'
+	* Is new
+Course 'ENVS-552'
+	* Is new
+Course 'GSCI-101'
+	* Is new
+Course 'GSCI-102'
+	* Is new
+Course 'IMGS-111'
+	* Is new
+Course 'IMGS-112'
+	* Is new
+Course 'IMGS-180'
+	* Is new
+Course 'IMGS-241'
+	* Is new
+Course 'IMGS-181'
+	* Is new
+Course 'IMGS-242H'
+	* Is new
+Course 'IMGS-182'
+	* Is new
+Course 'IMGS-189'
+	* Is new
+Course 'IMGS-211'
+	* Is new
+Course 'IMGS-221'
+	* Is new
+Course 'IMGS-230H'
+	* Is new
+Course 'IMGS-261'
+	* Is new
+Course 'IMGS-321'
+	* Is new
+Course 'IMGS-341'
+	* Is new
+Course 'IMGS-351'
+	* Is new
+Course 'IMGS-362'
+	* Is new
+Course 'IMGS-371'
+	* Is new
+Course 'IMGS-433'
+	* Is new
+Course 'IMGS-441'
+	* Is new
+Course 'IMGS-451'
+	* Is new
+Course 'IMGS-461'
+	* Is new
+Course 'IMGS-462'
+	* Is new
+Course 'IMGS-495'
+	* Is new
+Course 'IMGS-499'
+	* Is new
+Course 'IMGS-502'
+	* Is new
+Course 'IMGS-503'
+	* Is new
+Course 'IMGS-528'
+	* Is new
+Course 'IMGS-532'
+	* Is new
+Course 'IMGS-539'
+	* Is new
+Course 'IMGS-542'
+	* Is new
+Course 'IMGS-599'
+	* Is new
+Course 'ITDS-151H'
+	* Is new
+Course 'ITDS-160'
+	* Is new
+Course 'ITDS-161'
+	* Is new
+Course 'MATH-101'
+	* Is new
+Course 'MATH-104'
+	* Is new
+Course 'ITDS-165'
+	* Is new
+Course 'ITDS-189'
+	* Is new
+Course 'MATH-131'
+	* Is new
+Course 'ITDS-280'
+	* Is new
+Course 'MATH-161'
+	* Is new
+Course 'ITDS-359'
+	* Is new
+Course 'MATH-171'
+	* Is new
+Course 'ITDS-370'
+	* Is new
+Course 'ITDS-389'
+	* Is new
+Course 'ITDS-489'
+	* Is new
+Course 'MATH-173'
+	* Is new
+Course 'MATH-180'
+	* Is new
+Course 'MATH-181'
+	* Is new
+Course 'MATH-181A'
+	* Is new
+Course 'MATH-182'
+	* Is new
+Course 'MATH-182A'
+	* Is new
+Course 'MATH-185'
+	* Is new
+Course 'MATH-211'
+	* Is new
+Course 'MATH-219'
+	* Is new
+Course 'MATH-220'
+	* Is new
+Course 'MATH-221H'
+	* Is new
+Course 'MATH-231'
+	* Is new
+Course 'MATH-186'
+	* Is new
+Course 'MATH-233'
+	* Is new
+Course 'MATH-189'
+	* Is new
+Course 'MATH-251'
+	* Is new
+Course 'MATH-190'
+	* Is new
+Course 'MATH-199'
+	* Is new
+Course 'MATH-200'
+	* Is new
+Course 'MATH-252'
+	* Is new
+Course 'MATH-255'
+	* Is new
+Course 'MATH-261'
+	* Is new
+Course 'MATH-289'
+	* Is new
+Course 'MATH-291'
+	* Is new
+Course 'MATH-295'
+	* Is new
+Course 'MATH-301'
+	* Is new
+Course 'MATH-305'
+	* Is new
+Course 'MATH-311'
+	* Is new
+Course 'MATH-312'
+	* Is new
+Course 'MATH-351'
+	* Is new
+Course 'MATH-367'
+	* Is new
+Course 'MATH-371'
+	* Is new
+Course 'MATH-399'
+	* Is new
+Course 'MATH-401'
+	* Is new
+Course 'MATH-411'
+	* Is new
+Course 'MATH-412'
+	* Is new
+Course 'MATH-321'
+	* Is new
+Course 'MATH-421'
+	* Is new
+Course 'MATH-331'
+	* Is new
+Course 'MATH-431'
+	* Is new
+Course 'MATH-341'
+	* Is new
+Course 'MATH-432'
+	* Is new
+Course 'MATH-441'
+	* Is new
+Course 'PHYS-104'
+	* Is new
+Course 'MATH-442'
+	* Is new
+Course 'PHYS-105'
+	* Is new
+Course 'MATH-489'
+	* Is new
+Course 'MATH-495'
+	* Is new
+Course 'MATH-498'
+	* Is new
+Course 'MATH-499'
+	* Is new
+Course 'MATH-500'
+	* Is new
+Course 'MATH-501'
+	* Is new
+Course 'PHYS-103'
+	* Is new
+Course 'PHYS-106'
+	* Is new
+Course 'PHYS-107'
+	* Is new
+Course 'PHYS-111'
+	* Is new
+Course 'PHYS-112'
+	* Is new
+Course 'PHYS-189'
+	* Is new
+Course 'PHYS-205'
+	* Is new
+Course 'PHYS-207'
+	* Is new
+Course 'PHYS-209'
+	* Is new
+Course 'PHYS-211A'
+	* Is new
+Course 'PHYS-211B'
+	* Is new
+Course 'PHYS-213'
+	* Is new
+Course 'PHYS-214'
+	* Is new
+Course 'PHYS-216'
+	* Is new
+Course 'PHYS-217'
+	* Is new
+Course 'PHYS-220'
+	* Is new
+Course 'PHYS-222'
+	* Is new
+Course 'PHYS-225'
+	* Is new
+Course 'PHYS-275'
+	* Is new
+Course 'PHYS-283'
+	* Is new
+Course 'PHYS-289'
+	* Is new
+Course 'PHYS-295'
+	* Is new
+Course 'PHYS-298'
+	* Is new
+Course 'PHYS-315'
+	* Is new
+Course 'PHYS-316'
+	* Is new
+Course 'PHYS-320'
+	* Is new
+Course 'PHYS-321'
+	* Is new
+Course 'PHYS-330'
+	* Is new
+Course 'PHYS-360'
+	* Is new
+Course 'PHYS-370'
+	* Is new
+Course 'PHYS-371'
+	* Is new
+Course 'PHYS-372'
+	* Is new
+Course 'PHYS-377'
+	* Is new
+Course 'PHYS-408'
+	* Is new
+Course 'PHYS-414'
+	* Is new
+Course 'PHYS-415'
+	* Is new
+Course 'PHYS-424'
+	* Is new
+Course 'PHYS-432'
+	* Is new
+Course 'PHYS-440'
+	* Is new
+Course 'PHYS-441'
+	* Is new
+Course 'PHYS-450'
+	* Is new
+Course 'PHYS-451'
+	* Is new
+Course 'PHYS-452'
+	* Is new
+Course 'PHYS-489'
+	* Is new
+Course 'STAT-251'
+	* Is new
+Course 'STAT-252'
+	* Is new
+Course 'PHYS-493'
+	* Is new
+Course 'STAT-295'
+	* Is new
+Course 'PHYS-495'
+	* Is new
+Course 'STAT-305'
+	* Is new
+Course 'PHYS-498'
+	* Is new
+Course 'STAT-315'
+	* Is new
+Course 'PHYS-499'
+	* Is new
+Course 'STAT-325'
+	* Is new
+Course 'STAT-145'
+	* Is new
+Course 'STAT-145H'
+	* Is new
+Course 'STAT-146'
+	* Is new
+Course 'STAT-205'
+	* Is new
+Course 'STAT-335'
+	* Is new
+Course 'STAT-345'
+	* Is new
+Course 'STAT-405'
+	* Is new
+Course 'STAT-406'
+	* Is new
+Course 'STAT-415'
+	* Is new
+Course 'STAT-425'
+	* Is new
+Course 'STAT-435'
+	* Is new
+Course 'STAT-500'
+	* Is new
+Course 'STAT-511'
+	* Is new
+Course 'ITDL-101'
+	* Is new
+Course 'UWRT-150'
+	* Is new
+Course 'UWRT-325'
+	* Is new
+Course 'ITDL-151H'
+	* Is new
+Course 'ITDL-450'
+	* Is new
+Course 'UWRT-100'
+	* Is new
+Course 'ACSC-020'
+	* Is new
+Course 'ACSC-021'
+	* Is new
+Course 'ACSC-061'
+	* Is new
+Course 'ACSC-062'
+	* Is new
+Course 'ACSC-063'
+	* Is new
+Course 'ACSC-072'
+	* Is new
+Course 'ACSC-074'
+	* Is new
+Course 'ELCI-001'
+	* Is new
+Course 'ELCI-003'
+	* Is new
+Course 'ELCI-005'
+	* Is new
+Course 'ELCI-007'
+	* Is new
+Course 'ELCI-009'
+	* Is new
+Course 'ELCI-011'
+	* Is new
+Course 'ELCI-013'
+	* Is new
+Course 'ELCI-037'
+	* Is new
+Course 'ELCI-015'
+	* Is new
+Course 'ELCI-039'
+	* Is new
+Course 'ELCI-017'
+	* Is new
+Course 'ELCI-019'
+	* Is new
+Course 'ELCI-021'
+	* Is new
+Course 'ELCI-023'
+	* Is new
+Course 'ELCI-025'
+	* Is new
+Course 'ELCI-027'
+	* Is new
+Course 'ELCI-029'
+	* Is new
+Course 'ELCI-031'
+	* Is new
+Course 'ELCI-033'
+	* Is new
+Course 'ELCI-035'
+	* Is new
+Course 'ELCI-080'
+	* Is new
+Course 'ELCI-098'
+	* Is new
+Course 'ELCI-099'
+	* Is new
+Course 'ELCI-501'
+	* Is new
+Course 'ELCA-012'
+	* Is new
+Course 'ELCA-014'
+	* Is new
+Course 'ELCA-016'
+	* Is new
+Course 'ELCA-017'
+	* Is new
+Course 'ELCA-018'
+	* Is new
+Course 'ELCA-020'
+	* Is new
+Course 'ELCA-022'
+	* Is new
+Course 'ELCA-024'
+	* Is new
+Course 'ELCA-026'
+	* Is new
+Course 'ELCA-028'
+	* Is new
+Course 'ELCA-030'
+	* Is new
+Course 'ELCA-032'
+	* Is new
+Course 'ELCA-034'
+	* Is new
+Course 'ELCA-036'
+	* Is new
+Course 'ELCA-037'
+	* Is new
+Course 'ELCA-038'
+	* Is new
+Course 'ELCA-040'
+	* Is new
+Course 'ELCA-080'
+	* Is new
+Course 'ELCA-091'
+	* Is new
+Course 'ELCA-093'
+	* Is new
+Course 'ELCA-094'
+	* Is new
+Course 'ELCA-095'
+	* Is new
+Course 'ELCA-096'
+	* Is new
+Course 'ELCA-097'
+	* Is new
+Course 'ELCA-098'
+	* Is new
+Course 'ELCA-099'
+	* Is new
+Course 'WDAN-002'
+	* Is new
+Course 'WDAN-006'
+	* Is new
+Course 'WDAN-007'
+	* Is new
+Course 'WDAN-009'
+	* Is new
+Course 'WDAN-012'
+	* Is new
+Course 'WDAN-030'
+	* Is new
+Course 'WDAN-031'
+	* Is new
+Course 'WDAN-033'
+	* Is new
+Course 'WDAN-035'
+	* Is new
+Course 'WDAN-037'
+	* Is new
+Course 'WDAN-042'
+	* Is new
+Course 'WDAN-045'
+	* Is new
+Course 'WDAN-048'
+	* Is new
+Course 'WFIT-037'
+	* Is new
+Course 'WFIT-041'
+	* Is new
+Course 'WFIT-001'
+	* Is new
+Course 'WFIT-023'
+	* Is new
+Course 'WFIT-028'
+	* Is new
+Course 'WFIT-058'
+	* Is new
+Course 'WFIT-069'
+	* Is new
+Course 'WFIT-070'
+	* Is new
+Course 'WFIT-075'
+	* Is new
+Course 'WFIT-076'
+	* Is new
+Course 'WFIT-082'
+	* Is new
+Course 'WFIT-086'
+	* Is new
+Course 'WFIT-088'
+	* Is new
+Course 'WFIT-091'
+	* Is new
+Course 'WFIT-093'
+	* Is new
+Course 'WFIT-095'
+	* Is new
+Course 'WHLS-010'
+	* Is new
+Course 'WHLS-012'
+	* Is new
+Course 'WHLS-030'
+	* Is new
+Course 'WHWS-001'
+	* Is new
+Course 'WHWS-002'
+	* Is new
+Course 'WHWS-004'
+	* Is new
+Course 'WHWS-012'
+	* Is new
+Course 'WHWS-018'
+	* Is new
+Course 'WHWS-020'
+	* Is new
+Course 'WHWS-021'
+	* Is new
+Course 'WHWS-006'
+	* Is new
+Course 'WHWS-022'
+	* Is new
+Course 'WHWS-008'
+	* Is new
+Course 'WINT-001'
+	* Is new
+Course 'WHWS-009'
+	* Is new
+Course 'WHWS-010'
+	* Is new
+Course 'WINT-004'
+	* Is new
+Course 'WINT-005'
+	* Is new
+Course 'WINT-007'
+	* Is new
+Course 'WINT-010'
+	* Is new
+Course 'WINT-011'
+	* Is new
+Course 'WINT-012'
+	* Is new
+Course 'WINT-013'
+	* Is new
+Course 'WINT-017'
+	* Is new
+Course 'WINT-019'
+	* Is new
+Course 'WINT-025'
+	* Is new
+Course 'WINT-028'
+	* Is new
+Course 'WINT-039'
+	* Is new
+Course 'WINT-042'
+	* Is new
+Course 'WINT-043'
+	* Is new
+Course 'WINT-053'
+	* Is new
+Course 'WINT-055'
+	* Is new
+Course 'WINT-056'
+	* Is new
+Course 'WINT-058'
+	* Is new
+Course 'WINT-059'
+	* Is new
+Course 'WINT-062'
+	* Is new
+Course 'WINT-065'
+	* Is new
+Course 'WINT-068'
+	* Is new
+Course 'WINT-070'
+	* Is new
+Course 'WINT-075'
+	* Is new
+Course 'WINT-076'
+	* Is new
+Course 'WINT-085'
+	* Is new
+Course 'WINT-086'
+	* Is new
+Course 'WREC-009'
+	* Is new
+Course 'WREC-017'
+	* Is new
+Course 'WREC-031'
+	* Is new
+Course 'WREC-034'
+	* Is new
+Course 'WREC-040'
+	* Is new
+Course 'WREC-047 Gol'
+	* Is new
+Course 'WREC-059'
+	* Is new
+Course 'WREC-062'
+	* Is new
+Course 'WREC-071'
+	* Is new
+Course 'WREC-072'
+	* Is new
+Course 'WREC-076'
+	* Is new
+Course 'WREC-080'
+	* Is new
+Course 'WREC-083'
+	* Is new
+Course 'WREC-091'
+	* Is new
+Course 'WREC-092'
+	* Is new
+Course 'WMAR-006'
+	* Is new
+Course 'WMAR-018'
+	* Is new
+Course 'WMAR-021'
+	* Is new
+Course 'WMAR-026'
+	* Is new
+Course 'WMAR-036'
+	* Is new
+Course 'WMAR-071'
+	* Is new
+Course 'WMIL-006'
+	* Is new
+Course 'WMIL-021'
+	* Is new
