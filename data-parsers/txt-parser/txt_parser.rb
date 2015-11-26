@@ -59,9 +59,7 @@ def gen_course_list_from_file(filename)
 end
 
 def courses_to_diffs(course_list, dropped)
-  puts "Dealing with #{course_list.length} courses"
   course_list.map do |course|
-    puts "Adding diff for course #{course.id}"
     Change.new(course.id, [], [], dropped, !dropped)
   end
 end
@@ -70,7 +68,7 @@ def find_diffs_for_course(course1, course2)
   semesters_dropped = course1.semesters_offered - course2.semesters_offered
   semesters_added = course2.semesters_offered - course1.semesters_offered
 
-  if semesters_dropped.nil? && semesters_added.nil?
+  unless semesters_dropped.nil? && semesters_added.nil?
     Change.new(course2.id, semesters_dropped, semesters_added)
   else
     nil
