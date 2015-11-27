@@ -16867,7 +16867,7 @@ Introduction to Psychology
 Introduction to the field of psychology. Provides a survey of basic concepts, theories, and
 research methods. Topics include: thinking critically with psychological science; neuroscience
 and behavior; sensation and perception; learning; memory; thinking, language, and intelligence;
-motivation and emotion; personality; psychological disorders and therapy; and social psychology. Required course for psychology majors. Class 3, Credit 3 (F,S, Su)
+motivation and emotion; personality; psychological disorders and therapy; and social psychology. Required course for psychology majors. Class 3, Credit 3 (F, S, Su)
 
 Undergraduate Course Descriptions	
 
@@ -17883,7 +17883,7 @@ risk analysis software. Also covered are PERT, CPM, Learning Curves, and EVA. In
 the Framework and 10 Knowledge Areas of A Guide to the Project Management Body of
 Knowledge (PMBOK¨Guide) as defined by the Project Management Institute (PMI). Project
 Management is available in on-campus and online formats. (MGMT-150 or MGMT-215 or
-equivalent experience; STAT-145 or MTSC-211; or permission of instructor) Credit 3 (F,S,
+equivalent experience; STAT-145 or MTSC-211; or permission of instructor) Credit 3 (F, S,
 Su) Note: BUSI-510, an undergraduate course, is sometimes co-listed with BUSI-710;
 however, BUSI-510 may not be substituted for BUSI-710 in a CMS graduate concentration or the CMS advanced certificate in project management. Additionally, a student may
 not register for and receive credit for both BUSI-510 and BUSI-710, whether taken as an
@@ -18043,7 +18043,7 @@ CMDS-510 
 Multidisciplinary Life
 A capstone class for students in the Applied Arts and Sciences bachelor of science degree program. Course provides students an opportunity to reflect upon and enhance the many aspects
 of their individualized educational programs and focus on future goals. (CMS senior status is
-required; department approval) Class 3, Credit 3 (F,S,Su)
+required; department approval) Class 3, Credit 3 (F, S, Su)
 CMDS-511 
 Innovation Lab
 This course builds on the skills and knowledge gained in CMDS-211 Exploring Innovation and
@@ -18111,7 +18111,7 @@ This is a second semester introductory course in statistics. Students will learn
 the social sciences. Topics include the Central Limit Theorem, confidence intervals and hypothesis testing (one and two sample proportions and means, variation), correlation and regression
 (simple and multiple), goodness-of-fit, contingency tables, one and two-way analysis of variance, nonparametric statistics, and statistical process control. Computer technology and report
 writing will be utilized throughout the course, for both simulations and computations. (MTSC
-211: Introduction to Statistics I or equivalent) Class 3, Credit 3 (S,Su)
+211: Introduction to Statistics I or equivalent) Class 3, Credit 3 (S, Su)
 MTSC-231 
 Contemporary Science: Biology
 An introduction to the fundamental principles of biology for non-science majors and the application of these concepts to areas of compelling interest in our contemporary, technological
@@ -23807,7 +23807,7 @@ Students will be presented with information on the following skills that apply t
 responding to an emergency situation, controlling bleeding and splinting techniques. Class
 sessions include the use of video tapes, lectures, demonstrations, partner practice and skill
 evaluation (by the instructor). All equipment (mannequins, mats, wraps) are provided by RIT.
-CPR Pro is offered optionally. **A $120.00 course fee applies via SFS bill (F,S,Su)
+CPR Pro is offered optionally. **A $120.00 course fee applies via SFS bill (F, S, Su)
 WHLS-020 Lifeguarding
 Lifeguarding RIT’s Lifeguarding course is designed to provide students with a certification by
 the American Red Cross (ARC). Training consists of methods for individual rescue around
@@ -24104,7 +24104,7 @@ introduction to self rescue with remainder of the day spent on the rocks. Throug
 students will be introduced to the larger concepts involved in top rope anchor construction,
 rock climbing physics and risk management. All equipment and transportation is provided.
 Proof of health insurance is required to take this course. A course fee applies via SFS bill. See
-Course Notes for course fee and any details on class meeting times. (F,S, Su)
+Course Notes for course fee and any details on class meeting times. (F, S, Su)
 WINT-005 
 Backcountry Living
 This is an introductory course in backcountry living. We will work in and out of the classroom
@@ -24121,7 +24121,7 @@ basic paddling, safety and navigation, map reading and route-finding, camping sk
 tenting, fire-building, camp-cooking, and water purification, and Leave No Trace Wilderness
 Ethics. Students need to be comfortable on and in the water. Proof of health insurance is
 required to take this course. A course fee applies via SFS bill. See Course Notes for course fee
-and any details on class meeting times. (F,S, Su)
+and any details on class meeting times. (F, S, Su)
 WINT-055 
 Beginner Kayaking
 This class is taught as an introduction to kayaking. It is typically taught in the pool and covers the following skills: Kayak parts, accessories and terminology, wet exits, hip snaps, paddle
@@ -24129,7 +24129,7 @@ strokes, j-leans, Eskimo rescues and Eskimo rolls. All skills are taught in prog
 drills, games and exercises leading up to a full roll. This class is taught in white water kayaks.
 All necessary gear and equipment is provided. Participants should expect to be in the water
 each class. A course fee applies via SFS bill. See Course Notes for course fee and any details on
-class meeting times. (F,S,Su)
+class meeting times. (F, S, Su)
 WINT-056 
 Whitewater Kayaking
 This course is an intermediate approach to whitewater kayaking. The participants should have
@@ -24139,7 +24139,7 @@ river reading/navigation, ferrying, eddying and peeling. This class will involve
 to moderate whitewater. Depending on the skill level of the class, other more advanced skills
 may be introduced. Students must be able to swim and be comfortable on and in the water.
 Proof of health insurance is required to take this course. A course fee applies via SFS bill. See
-Course Notes for course fee and any details on class meeting times. (F,S, Su)
+Course Notes for course fee and any details on class meeting times. (F, S, Su)
 WINT-058 
 Sea Kayaking
 Sea kayaks are long, narrow, seaworthy vessels that have a covered deck and, in lieu of the
@@ -24148,7 +24148,7 @@ capacity, ease of straight-line paddling, and comfort for long journeys. This cl
 students how to safely and effectively paddle a sea kayak and use this type of vessel for extended open-water trips. This class includes an overnight sea kayaking trip and involves camping
 that may be in a wilderness environment Proof of health insurance is required to take this
 course. A course fee applies via SFS bill. See Course Notes for course fee and any details on
-class meeting times.(F,S, Su)
+class meeting times.(F, S, Su)
 
 	
 
@@ -24162,7 +24162,7 @@ least one component of each: history, equipment, technical skills and language, 
 safety. This class will meet both in the classroom and out on the water. Student should be able
 to swim and feel comfortable on and in the water. Proof of health insurance is required to take
 this course. A course fee applies via SFS bill. See Course Notes for course fee and any details
-on class meeting times. (F,S, Su)
+on class meeting times. (F, S, Su)
 WINT-006 
 Leave No Trace Trainer
 This course is for hikers, climbers, campers and explorers. The Interactive Adventures Program
@@ -24249,7 +24249,7 @@ in the basics of backcountry medical care. Areas of focus include response and a
 musculoskeletal injuries, environmental emergencies, survival skills, soft tissue injuries, and
 medical emergencies. No previous medical training is necessary. WFA certification is good
 for two years. A course fee applies via SFS bill. See Course Notes for course fee and any details
-on class meeting times (F,S, Su)
+on class meeting times (F, S, Su)
 
 WREC-022 Diving
 This course is designed to accommodate all ability levels. The fundamentals of diving will be
@@ -24396,7 +24396,7 @@ demonstrations include ground and riding safety, basic care/maintenance of horse
 bit of history of the human/horse relationship over the past 3000 years! With 80 beautiful acres
 of rolling countryside, open fields and forested areas as well as outdoor/indoor lesson rings, you
 are sure to develop your riding foundation. Attendance is key to success in this class. **A course
-fee applies via SFS bill. Please see class notes section for specific course fee listings.** (F, S,S u)
+fee applies via SFS bill. Please see class notes section for specific course fee listings.** (F, S, S u)
 WREC-059 
 Ice Hockey
 This course is designed for beginning to advanced ice hockey players. Students must provide

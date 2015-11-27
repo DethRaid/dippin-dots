@@ -1,1 +1,2601 @@
 Diffing files ../../data/txt/2014_Undergrad_Course_Descriptions.txt and ../../data/txt/2015_Undergrad_Course_Descriptions.txt
+2825 courses offered last year, 2823 courses offered this year
+296 classes lost at least one semester
+451 classes gained at least one semester
+279 classes are new this year
+294 classes are no longer available this year
+293 courses gained a Fall offering
+330 courses gained a Spring offering
+122 courses gained a Summer offering
+0 courses gained an Intercession offering
+188 courses lost a Fall offering
+181 courses lost a Spring offering
+38 courses lost a Summer offering
+0 courses lost an Intercession offering
+Calculated 1266 differences:
+Course 'CVET-240'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'CVET-241'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'CVET-414'
+	* No longer offered during the S semesters
+Course 'CVET-421'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'CVET-423'
+Course 'CVET-440'
+	* No longer offered during the F semesters
+Course 'CVET-450'
+	* Now offered during the Fall semesters
+Course 'CVET-453'
+	* Now offered during the Spring semesters
+Course 'CVET-464'
+	* No longer offered during the F semesters
+Course 'CVET-465'
+	* Now offered during the Spring semesters
+Course 'CVET-489'
+	* Now offered during the Spring,Summer semesters
+Course 'CVET-499'
+	* No longer offered during the F,S,Su semesters
+Course 'CVET-599'
+	* Now offered during the Spring,Summer semesters
+Course 'CPET-341'
+	* Now offered during the Spring semesters
+Course 'CPET-342'
+	* Now offered during the Spring semesters
+Course 'EEET-598'
+	* Now offered during the Fall,Spring semesters
+Course 'EEET-598'
+	* Now offered during the Fall,Spring semesters
+Course 'HSPT-490'
+	* Now offered during the Fall,Spring semesters
+Course 'SWEN-598'
+	* Now offered during the Spring semesters
+Course 'CVET-599'
+	* Now offered during the Spring,Summer semesters
+Course 'EEET-212'
+	* No longer offered during the F semesters
+Course 'EEET-251'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'EEET-299'
+	* No longer offered during the F semesters
+Course 'EEET-321'
+	* No longer offered during the F semesters
+Course 'EEET-421'
+	* Now offered during the Spring semesters
+Course 'EEET-499'
+	* No longer offered during the F,S,Su semesters
+Course 'CVET-599'
+	* Now offered during the Spring,Summer semesters
+Course 'EMET-499'
+Course 'ENGT-299'
+	* Now offered during the Fall semesters
+Course 'EEET-598'
+	* Now offered during the Fall,Spring semesters
+Course 'ESHS-499'
+Course 'ESHS-515'
+	* Now offered during the Fall semesters
+Course 'ESHS-526'
+	* Now offered during the Fall,Spring semesters
+Course 'ESHS-550'
+	* Now offered during the Spring semesters
+Course 'FOOD-123'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'FOOD-161'
+	* Now offered during the Fall,Spring semesters
+Course 'FOOD-165'
+	* Now offered during the Fall,Spring semesters
+Course 'FOOD-173'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'FOOD-251'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'FOOD-413'
+	* Now offered during the Fall,Spring semesters
+Course 'EEET-598'
+	* Now offered during the Fall,Spring semesters
+Course 'CVET-599'
+	* Now offered during the Spring,Summer semesters
+Course 'HSPT-372'
+	* Now offered during the Fall semesters
+Course 'HSPT-499'
+Course 'CVET-599'
+	* Now offered during the Spring,Summer semesters
+Course 'MFET-420'
+	* Now offered during the Fall semesters
+Course 'CVET-599'
+	* Now offered during the Spring,Summer semesters
+Course 'MCET-110'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'MCET-499'
+Course 'MCET-535'
+	* Now offered during the Spring semesters
+Course 'MCET-563'
+	* Now offered during the Spring semesters
+Course 'CVET-599'
+	* Now offered during the Spring,Summer semesters
+Course 'PACK-152'
+	* No longer offered during the F semesters
+Course 'PACK-212'
+	* No longer offered during the F,S semesters
+Course 'ENGT-299'
+	* Now offered during the Fall semesters
+Course 'PACK-420'
+	* No longer offered during the F,S semesters
+Course 'PACK-535'
+	* Now offered during the Spring semesters
+Course 'PACK-550'
+	* No longer offered during the F semesters
+Course 'PACK-599'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'AERO-201'
+	* Now offered during the Fall semesters
+Course 'AERO-401'
+	* Now offered during the Fall semesters
+Course 'AERO-402'
+	* Now offered during the Spring semesters
+Course 'ARMY-101'
+	* No longer offered during the F semesters
+Course 'ARMY-102'
+	* Now offered during the Spring semesters
+Course 'ARMY-202'
+	* Now offered during the Spring semesters
+Course 'ARMY-402'
+	* Now offered during the Fall semesters
+Course 'ARMY-501'
+Course 'ACCT-365'
+	* No longer offered during the F,S semesters
+Course 'DECS-310'
+	* No longer offered during the F,S,Su semesters
+Course 'INTB-310'
+	* Now offered during the Fall,Spring semesters
+Course 'FINC-420'
+	* No longer offered during the F semesters
+Course 'MGMT-215'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'MGMT-035'
+	* Now offered during the Fall,Spring semesters
+Course 'MGMT-330'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'MGMT-420'
+	* Now offered during the Fall,Spring semesters
+Course 'MGMT-470'
+Course 'MGMT-489'
+Course 'MGMT-550'
+	* Now offered during the Fall,Spring semesters
+Course 'MKTG-230'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'CSCI-101'
+	* Now offered during the Fall semesters
+Course 'CSCI-141'
+	* No longer offered during the F,S semesters
+Course 'CSCI-464'
+	* Now offered during the Fall semesters
+Course 'CSCI-519'
+Course 'CSCI-529'
+Course 'CSCI-539'
+Course 'CSCI-549'
+Course 'CSCI-559'
+Course 'CSCI-569'
+Course 'CSEC-461'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'CSEC-472'
+	* Now offered during the Fall semesters
+Course 'CSEC-473'
+	* Now offered during the Fall semesters
+Course 'CSEC-474'
+	* Now offered during the Spring semesters
+Course 'CSEC-469'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'CSEC-471'
+	* Now offered during the Spring semesters
+Course 'CSEC-475'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'CSEC-477'
+	* Now offered during the Spring semesters
+Course 'CSEC-478'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'CSEC-479'
+	* No longer offered during the S semesters
+Course 'CSEC-499'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'CSEC-599'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'ISTE-341'
+	* No longer offered during the S semesters
+Course 'ISTE-371'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'ISTE-438'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'ISTE-456'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'ISTE-590'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'IGME-430'
+	* Now offered during the Spring semesters
+Course 'ISTE-499'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'IGME-581'
+	* Now offered during the Fall,Spring semesters
+Course 'IGME-582'
+	* Now offered during the Fall semesters
+Course 'IGME-588'
+	* Now offered during the Spring semesters
+Course 'CVET-599'
+	* Now offered during the Spring,Summer semesters
+Course 'MEDI-320'
+	* Now offered during the Spring semesters
+Course 'ESHS-550'
+	* Now offered during the Spring semesters
+Course 'NSSA-443'
+	* Now offered during the Spring semesters
+Course 'SWEN-250'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'SWEN-331'
+	* No longer offered during the S semesters
+Course 'SWEN-343'
+	* No longer offered during the S semesters
+Course 'SWEN-383'
+	* Now offered during the Fall semesters
+Course 'SWEN-561'
+	* No longer offered during the F,Su semesters
+Course 'SWEN-590'
+	* Now offered during the Fall,Spring semesters
+Course 'CVET-599'
+	* Now offered during the Spring,Summer semesters
+Course 'STAT-511'
+	* Now offered during the Spring semesters
+Course 'BIME-497'
+	* Now offered during the Fall semesters
+Course 'BIME-498'
+	* No longer offered during the F,S,Su semesters
+Course 'CVET-599'
+	* No longer offered during the F semesters
+Course 'CHME-321'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'CHME-340'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'CHME-401'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'CHME-421'
+	* No longer offered during the S semesters
+Course 'CHME-422'
+	* No longer offered during the F semesters
+Course 'CHME-431'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'CHME-491'
+	* No longer offered during the S,Su semesters
+Course 'CVET-599'
+	* No longer offered during the F semesters
+Course 'CMPE-110'
+	* Now offered during the Fall semesters
+Course 'CMPE-350'
+	* Now offered during the Fall,Spring semesters
+Course 'EEET-425'
+	* No longer offered during the F semesters
+Course 'BIME-497'
+	* No longer offered during the S semesters
+Course 'BIME-498'
+	* No longer offered during the F,S,Su semesters
+Course 'CMPE-530'
+	* No longer offered during the F,S semesters
+Course 'EEEE-220'
+	* Now offered during the Fall semesters
+Course 'CSCI-453'
+	* No longer offered during the F semesters
+Course 'CVET-599'
+	* No longer offered during the F semesters
+Course 'EGEN-099'
+	* Now offered during the Fall,Spring semesters
+Course 'EEEE-221'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'EEEE-252'
+	* Now offered during the Spring,Summer semesters
+Course 'EEEE-253'
+	* Now offered during the Fall semesters
+Course 'EEEE-321'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'EEEE-346'
+	* Now offered during the Spring semesters
+Course 'EEET-211'
+	* Now offered during the Fall semesters
+Course 'EEEE-421'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'EEEE-422'
+	* Now offered during the Fall semesters
+Course 'EEEE-497'
+	* Now offered during the Spring semesters
+Course 'EEEE-450'
+	* Now offered during the Fall semesters
+Course 'EEEE-451'
+	* Now offered during the Spring semesters
+Course 'EEET-221'
+	* No longer offered during the F semesters
+Course 'EEEE-505'
+	* No longer offered during the F semesters
+Course 'EEEE-512'
+	* Now offered during the Fall,Spring semesters
+Course 'EEEE-485'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'EEEE-521'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'EEEE-525'
+	* Now offered during the Spring semesters
+Course 'EEEE-585'
+	* No longer offered during the S semesters
+Course 'EEEE-592'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'CVET-599'
+	* Now offered during the Spring,Summer semesters
+Course 'EGEN-231'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'ISEE-120'
+	* Now offered during the Spring semesters
+Course 'ISEE-301'
+	* Now offered during the Fall semesters
+Course 'ISEE-560'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'BIME-497'
+	* Now offered during the Fall semesters
+Course 'BIME-498'
+	* No longer offered during the F,S,Su semesters
+Course 'CVET-599'
+	* Now offered during the Spring,Summer semesters
+Course 'MECE-109'
+	* Now offered during the Spring semesters
+Course 'MECE-251'
+	* Now offered during the Fall,Spring semesters
+Course 'MECE-253'
+	* Now offered during the Fall,Spring semesters
+Course 'MECE-348'
+	* Now offered during the Fall semesters
+Course 'MECE-352'
+	* Now offered during the Fall semesters
+Course 'MECE-355'
+	* Now offered during the Spring semesters
+Course 'MECE-360'
+	* Now offered during the Fall semesters
+Course 'MECE-401'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'MECE-405'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'MECE-406'
+	* No longer offered during the Su semesters
+Course 'MECE-411'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'MECE-421'
+	* Now offered during the Spring semesters
+Course 'EEEE-450'
+	* Now offered during the Fall semesters
+Course 'MECE-451'
+	* Now offered during the Fall,Spring semesters
+Course 'EEEE-525'
+	* Now offered during the Spring semesters
+Course 'MECE-538'
+	* No longer offered during the Su semesters
+Course 'MECE-543'
+	* Now offered during the Spring semesters
+Course 'MECE-498'
+	* Now offered during the Fall semesters
+Course 'MECE-499'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'MECE-520'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'MECE-544'
+	* Now offered during the Fall semesters
+Course 'MECE-599'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'MCEE-205'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'MCEE-499'
+	* No longer offered during the F,S,Su semesters
+Course 'MCEE-520'
+	* Now offered during the Spring semesters
+Course 'CVET-599'
+	* Now offered during the Spring,Summer semesters
+Course 'MEDG-105'
+	* No longer offered during the F semesters
+Course 'MEDS-240'
+	* Now offered during the Spring semesters
+Course 'MEDS-251'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'MEDS-280'
+	* No longer offered during the F,S,Su semesters
+Course 'MEDS-281'
+	* No longer offered during the F,S,Su semesters
+Course 'MEDS-290'
+	* No longer offered during the F,S,Su semesters
+Course 'MEDS-294'
+	* No longer offered during the F semesters
+Course 'MEDS-296'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'MEDS-298'
+Course 'CVET-599'
+	* No longer offered during the F semesters
+Course 'MEDS-310'
+	* No longer offered during the S semesters
+Course 'MEDS-311'
+	* No longer offered during the F semesters
+Course 'MEDS-313'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'MEDS-315'
+	* Now offered during the Fall semesters
+Course 'MEDS-350'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'MEDS-351'
+	* No longer offered during the F semesters
+Course 'MEDS-353'
+	* No longer offered during the S semesters
+Course 'MEDS-370'
+	* No longer offered during the S semesters
+Course 'MEDS-402'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'MEDS-403'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'MEDS-405'
+Course 'MEDS-406'
+Course 'MEDS-407'
+	* No longer offered during the F semesters
+Course 'MEDS-413'
+	* No longer offered during the S semesters
+Course 'MEDS-420'
+	* No longer offered during the S,Su semesters
+Course 'MEDS-290'
+	* No longer offered during the F,S,Su semesters
+Course 'CVET-599'
+	* No longer offered during the F semesters
+Course 'ECHO-320'
+	* Now offered during the Spring semesters
+Course 'ECHO-401'
+	* Now offered during the Fall semesters
+Course 'ECHO-402'
+	* Now offered during the Spring semesters
+Course 'ECHO-410'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'NUTR-210'
+	* Now offered during the Fall semesters
+Course 'NUTR-300'
+	* No longer offered during the F,S semesters
+Course 'NUTR-497'
+	* No longer offered during the F semesters
+Course 'PHYA-421'
+	* Now offered during the Fall semesters
+Course 'ITDI-222'
+	* Now offered during the Spring semesters
+Course 'ITDI-231'
+	* Now offered during the Spring semesters
+Course 'ITDI-101'
+	* No longer offered during the S semesters
+Course 'ITDI-233'
+	* No longer offered during the F semesters
+Course 'ITDI-236'
+	* Now offered during the Spring semesters
+Course 'ITDI-211'
+	* Now offered during the Fall semesters
+Course 'ITDI-239'
+	* Now offered during the Spring semesters
+Course 'ITDI-246'
+	* No longer offered during the F,S semesters
+Course 'ITDI-248'
+	* Now offered during the Fall semesters
+Course 'ITDI-256'
+	* Now offered during the Spring semesters
+Course 'ITDI-311'
+	* Now offered during the Spring semesters
+Course 'ITDI-316'
+	* Now offered during the Fall,Spring semesters
+Course 'CCER-501'
+	* Now offered during the Fall semesters
+Course 'CCER-502'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'CCER-530'
+	* No longer offered during the F,S semesters
+Course 'CMTJ-599'
+	* Now offered during the Fall,Spring semesters
+Course 'ARTH-135'
+	* No longer offered during the S semesters
+Course 'FNAS-535'
+	* Now offered during the Fall,Spring semesters
+Course 'FNAS-543'
+	* No longer offered during the F semesters
+Course 'MEDS-490'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'DDDD-402'
+	* Now offered during the Spring semesters
+Course 'DDDD-403'
+	* No longer offered during the F,S semesters
+Course 'DDDD-499'
+	* No longer offered during the F,S,Su semesters
+Course 'DDDD-599'
+	* Now offered during the Fall,Spring semesters
+Course 'GRDE-411'
+	* Now offered during the Spring semesters
+Course 'GRDE-499'
+	* No longer offered during the F,S,Su semesters
+Course 'GRDE-599'
+Course 'IDDE-223'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'IDDE-311'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'IDDE-498'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'INDE-304'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'INDE-499'
+	* No longer offered during the F,S,Su semesters
+Course 'NMDE-411'
+	* Now offered during the Fall semesters
+Course 'NMDE-498'
+	* No longer offered during the F,S,Su semesters
+Course 'SOFA-111'
+	* No longer offered during the S semesters
+Course 'SOFA-211'
+	* No longer offered during the F semesters
+Course 'DDDD-402'
+	* Now offered during the Spring semesters
+Course 'DDDD-403'
+	* No longer offered during the S semesters
+Course 'SOFA-563'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'SOFA-574'
+	* Now offered during the Spring semesters
+Course 'SOFA-578'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'MAAT-106'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'SOFA-599'
+	* No longer offered during the F,S,Su semesters
+Course 'MAAT-302'
+	* Now offered during the Spring semesters
+Course 'MAAT-368'
+	* No longer offered during the F semesters
+Course 'MAAT-401'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'MAAT-503'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'MAAT-573'
+	* Now offered during the Spring semesters
+Course 'CVET-599'
+	* No longer offered during the F semesters
+Course 'PHAR-498'
+	* No longer offered during the F,S,Su semesters
+Course 'PHAP-411'
+	* No longer offered during the S semesters
+Course 'PHPJ-315'
+	* Now offered during the Fall semesters
+Course 'PHPJ-365'
+	* No longer offered during the F,S semesters
+Course 'PHPJ-366'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'HSPT-490'
+	* Now offered during the Spring semesters
+Course 'PHVM-401'
+	* Now offered during the Spring semesters
+Course 'IMPT-322'
+	* Now offered during the Fall semesters
+Course 'PHPS-322'
+	* No longer offered during the S semesters
+Course 'PHAR-498'
+	* No longer offered during the F,S,Su semesters
+Course 'ANTH-102'
+	* Now offered during the Fall,Spring semesters
+Course 'ANTH-210'
+	* Now offered during the Fall,Spring semesters
+Course 'ANTH-220'
+	* Now offered during the Fall semesters
+Course 'ANTH-225'
+	* Now offered during the Spring semesters
+Course 'ANTH-235'
+	* No longer offered during the F semesters
+Course 'ANTH-245'
+Course 'ANTH-255'
+	* Now offered during the Fall,Spring semesters
+Course 'ANTH-280'
+	* Now offered during the Fall semesters
+Course 'ANTH-301'
+	* Now offered during the Spring semesters
+Course 'ANTH-302'
+	* No longer offered during the F semesters
+Course 'ANTH-303'
+	* No longer offered during the S semesters
+Course 'ANTH-330'
+	* Now offered during the Spring semesters
+Course 'ANTH-335'
+Course 'ANTH-340'
+	* Now offered during the Fall,Spring semesters
+Course 'ANTH-350'
+Course 'ANTH-360'
+	* Now offered during the Spring semesters
+Course 'ANTH-370'
+	* Now offered during the Fall,Spring semesters
+Course 'ANTH-375'
+	* Now offered during the Fall semesters
+Course 'ANTH-410'
+	* Now offered during the Fall,Spring semesters
+Course 'ANTH-425'
+	* Now offered during the Fall,Spring semesters
+Course 'CVET-599'
+	* Now offered during the Spring,Summer semesters
+Course 'ANTH-430'
+	* Now offered during the Fall,Spring semesters
+Course 'EEET-598'
+	* Now offered during the Fall,Spring semesters
+Course 'COMM-202'
+	* No longer offered during the F,S,Su semesters
+Course 'COMM-304'
+	* No longer offered during the F,S,Su semesters
+Course 'COMM-341'
+	* Now offered during the Spring semesters
+Course 'COMM-489'
+	* Now offered during the Spring semesters
+Course 'COMM-499'
+	* No longer offered during the F,S,Su semesters
+Course 'COMM-501'
+	* Now offered during the Spring,Summer semesters
+Course 'HSPT-490'
+	* Now offered during the Fall semesters
+Course 'CVET-599'
+	* No longer offered during the F semesters
+Course 'CRIM-100'
+	* Now offered during the Fall,Spring semesters
+Course 'CRIM-210'
+	* Now offered during the Fall semesters
+Course 'POLS-200'
+	* No longer offered during the S semesters
+	* Now offered during the F semesters
+Course 'CRIM-225'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'CRIM-245'
+	* Now offered during the Spring semesters
+Course 'CRIM-250'
+	* Now offered during the Fall semesters
+Course 'CRIM-255'
+	* Now offered during the Spring semesters
+Course 'CRIM-265'
+	* Now offered during the Spring semesters
+Course 'CRIM-275'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'CRIM-300'
+	* No longer offered during the F,S semesters
+Course 'CRIM-400'
+	* Now offered during the Spring semesters
+Course 'CRIM-500'
+	* Now offered during the Fall,Spring semesters
+Course 'CVET-599'
+	* No longer offered during the F semesters
+Course 'ECON-101'
+	* Now offered during the Fall,Spring semesters
+Course 'ECON-101'
+	* Now offered during the Fall,Spring semesters
+Course 'ECON-401'
+	* Now offered during the Spring semesters
+Course 'ECON-405'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'ECON-407'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'ECON-421'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'ECON-422'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'ECON-430'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'ECON-431'
+Course 'ECON-432'
+	* No longer offered during the S semesters
+Course 'ECON-440'
+	* No longer offered during the F semesters
+Course 'ECON-441'
+Course 'ECON-444'
+	* No longer offered during the S semesters
+Course 'ECON-448'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'ECON-449'
+	* No longer offered during the F semesters
+Course 'ECON-451'
+	* Now offered during the Fall semesters
+Course 'ECON-453'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'ECON-502'
+Course 'ECON-520'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'ENGL-150'
+	* No longer offered during the F,S,Su semesters
+Course 'ENGL-150'
+	* No longer offered during the F,S,Su semesters
+Course 'ENGL-210'
+	* No longer offered during the F,S,Su semesters
+Course 'ENGL-211'
+	* Now offered during the Fall semesters
+Course 'ENGL-215'
+	* Now offered during the Fall,Spring semesters
+Course 'ENGL-301'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'ENGL-302'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'ENGL-304'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'ENGL-304'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'ENGL-315'
+	* Now offered during the Fall semesters
+Course 'ENGL-325'
+	* Now offered during the S semesters
+Course 'ENGL-343'
+	* Now offered during the Spring,Summer semesters
+Course 'ENGL-345'
+	* Now offered during the Fall semesters
+Course 'ENGL-345'
+	* Now offered during the Fall semesters
+Course 'ENGL-351'
+	* Now offered during the Fall semesters
+Course 'ENGL-360'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'ENGL-361'
+Course 'ENGL-375'
+	* Now offered during the Spring semesters
+Course 'ENGL-376'
+	* Now offered during the Fall,Spring semesters
+Course 'ENGL-381'
+	* Now offered during the Fall,Spring semesters
+Course 'ENGL-391'
+	* Now offered during the Fall,Spring semesters
+Course 'ENGL-400'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'ENGL-307'
+	* Now offered during the Spring semesters
+Course 'ENGL-410'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'ENGL-411'
+	* Now offered during the Fall,Spring semesters
+Course 'ENGL-417'
+	* Now offered during the Spring semesters
+Course 'ENGL-419'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'ENGL-421'
+	* Now offered during the Spring semesters
+Course 'ENGL-422'
+	* Now offered during the Fall,Spring semesters
+Course 'ENGL-440'
+	* Now offered during the Fall,Spring semesters
+Course 'SOFA-212'
+	* Now offered during the Fall,Spring semesters
+Course 'ENGL-442'
+	* Now offered during the Spring semesters
+Course 'ENGL-450'
+	* Now offered during the Spring semesters
+Course 'ENGL-470'
+	* Now offered during the Fall,Spring semesters
+Course 'ENGL-472'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'ENGL-480'
+	* Now offered during the Spring,Summer semesters
+Course 'ENGL-482'
+	* Now offered during the Fall semesters
+Course 'ENGL-490'
+	* Now offered during the Fall,Spring semesters
+Course 'ENGL-543'
+	* No longer offered during the S semesters
+Course 'CVET-599'
+	* No longer offered during the F semesters
+Course 'FNRT-130'
+	* Now offered during the Spring,Summer semesters
+Course 'FNRT-206'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'FNRT-207'
+	* Now offered during the Fall semesters
+Course 'FNRT-324'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'FNRT-376'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'FNRT-378'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'FNRT-384'
+	* Now offered during the Spring semesters
+Course 'CVET-599'
+	* No longer offered during the F semesters
+Course 'MLAR-201'
+	* No longer offered during the S semesters
+Course 'MLAR-202'
+	* No longer offered during the F semesters
+Course 'MLAR-401'
+	* Now offered during the Fall semesters
+Course 'MLAR-402'
+	* Now offered during the Fall semesters
+Course 'MLAR-449'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'MLAS-449'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'MLCH-201'
+	* No longer offered during the S semesters
+Course 'MLCH-202'
+	* No longer offered during the F semesters
+Course 'MLCH-301'
+	* No longer offered during the S semesters
+Course 'MLCH-302'
+	* No longer offered during the F semesters
+Course 'MLFR-201'
+	* No longer offered during the S semesters
+Course 'MLFR-202'
+	* No longer offered during the F semesters
+Course 'MLFR-301'
+	* No longer offered during the S semesters
+Course 'MLFR-302'
+	* No longer offered during the F semesters
+Course 'MLFR-351'
+	* Now offered during the Spring semesters
+Course 'MLFR-449'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'MLGR-201'
+	* No longer offered during the S semesters
+Course 'MLGR-202'
+	* No longer offered during the F semesters
+Course 'MLGR-301'
+	* No longer offered during the S semesters
+Course 'MLGR-302'
+	* No longer offered during the F semesters
+Course 'MLGR-449'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'MLIT-201'
+	* No longer offered during the S semesters
+Course 'MLIT-202'
+	* No longer offered during the F semesters
+Course 'MLIT-301'
+	* No longer offered during the S semesters
+Course 'MLIT-302'
+	* No longer offered during the F semesters
+Course 'MLIT-402'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'MLIT-449'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'MLJP-201'
+	* No longer offered during the S semesters
+Course 'MLJP-202'
+	* No longer offered during the F semesters
+Course 'MLJP-301'
+	* No longer offered during the S semesters
+Course 'MLJP-302'
+	* No longer offered during the F semesters
+Course 'MLJP-351'
+	* Now offered during the Fall,Spring semesters
+Course 'MLJP-449'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'MLJP-451'
+	* Now offered during the Fall,Spring semesters
+Course 'MLPO-449'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'MLRU-449'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'MLSP-202'
+	* No longer offered during the F semesters
+Course 'MLSP-301'
+	* No longer offered during the S semesters
+Course 'MLSP-302'
+	* No longer offered during the F semesters
+Course 'MLST-449'
+	* Now offered during the Spring semesters
+Course 'HIST-160'
+	* Now offered during the Fall,Spring semesters
+Course 'HIST-201'
+	* Now offered during the Fall,Spring semesters
+Course 'HIST-210'
+Course 'HIST-230'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'HIST-238'
+	* Now offered during the Fall,Spring semesters
+Course 'HIST-245'
+	* Now offered during the Spring semesters
+Course 'HIST-252'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'HIST-345'
+	* Now offered during the Fall semesters
+Course 'HIST-350'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'HIST-365'
+	* Now offered during the Fall,Spring semesters
+Course 'HIST-439'
+	* Now offered during the Spring semesters
+Course 'HIST-465'
+	* Now offered during the Fall,Spring semesters
+Course 'HIST-470'
+	* Now offered during the Spring semesters
+Course 'CVET-599'
+	* Now offered during the Spring,Summer semesters
+Course 'HIST-201'
+	* Now offered during the Fall,Spring semesters
+Course 'HIST-210'
+Course 'INGS-502'
+	* Now offered during the Fall,Spring semesters
+Course 'INGS-597'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'CVET-599'
+	* No longer offered during the F semesters
+Course 'PHIL-101'
+	* No longer offered during the F,S semesters
+Course 'PHIL-102'
+	* No longer offered during the F,S semesters
+Course 'PHIL-201'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHIL-202'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHIL-203'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHIL-204'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHIL-301'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHIL-302'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHIL-303'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHIL-304'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHIL-305'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHIL-307'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHIL-308'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHIL-309'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHIL-310'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHIL-311'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHIL-312'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHIL-313'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHIL-314'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHIL-401'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHIL-402'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHIL-403'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHIL-404'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHIL-405'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHIL-406'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHIL-407'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHIL-408'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHIL-416'
+	* No longer offered during the F,S semesters
+Course 'EEET-598'
+	* Now offered during the Fall,Spring semesters
+Course 'PHIL-499'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHIL-571'
+Course 'CVET-599'
+	* No longer offered during the F semesters
+Course 'PHIL-412'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHIL-413'
+Course 'PHIL-414'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHIL-415'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'POLS-110'
+	* Now offered during the Spring semesters
+Course 'POLS-220'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'POLS-320'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'POLS-360'
+	* Now offered during the Spring semesters
+Course 'POLS-445'
+	* Now offered during the Fall semesters
+Course 'CVET-599'
+	* Now offered during the Spring,Summer semesters
+Course 'PSYC-221'
+	* No longer offered during the F,S semesters
+Course 'PSYC-250'
+	* Now offered during the Spring semesters
+Course 'PSYC-312'
+	* No longer offered during the F,S semesters
+Course 'PSYC-320'
+	* No longer offered during the F,S semesters
+Course 'PSYC-321'
+	* No longer offered during the F,S semesters
+Course 'PSYC-330'
+	* No longer offered during the F,S semesters
+Course 'PSYC-331'
+	* No longer offered during the F,S semesters
+Course 'PSYC-332'
+	* No longer offered during the F,S semesters
+Course 'PSYC-340'
+	* No longer offered during the F,S semesters
+Course 'PSYC-341'
+	* No longer offered during the F,S semesters
+Course 'PSYC-342'
+	* No longer offered during the F,S semesters
+Course 'PSYC-350'
+	* No longer offered during the F,S semesters
+Course 'PSYC-351'
+	* No longer offered during the F,S semesters
+Course 'PSYC-352'
+	* No longer offered during the F,S semesters
+Course 'PSYC-499'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PSYC-502'
+	* No longer offered during the F,S semesters
+Course 'CVET-599'
+	* No longer offered during the F semesters
+Course 'PUBL-101'
+	* No longer offered during the S semesters
+Course 'PUBL-201'
+	* No longer offered during the S semesters
+Course 'EEET-598'
+	* Now offered during the Fall,Spring semesters
+Course 'HSPT-490'
+	* Now offered during the Spring semesters
+Course 'PUBL-520'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'PUBL-530'
+	* No longer offered during the F semesters
+Course 'EEET-598'
+	* Now offered during the Fall,Spring semesters
+Course 'SOCI-102'
+	* Now offered during the Fall,Spring semesters
+Course 'SOCI-103'
+Course 'SOCI-210'
+	* Now offered during the Spring semesters
+Course 'SOCI-220'
+Course 'SOCI-235'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'SOCI-245'
+	* Now offered during the Fall semesters
+Course 'ANTH-301'
+	* Now offered during the Spring semesters
+Course 'ANTH-302'
+	* No longer offered during the F semesters
+Course 'ANTH-303'
+	* No longer offered during the S semesters
+Course 'SOCI-315'
+Course 'SOCI-330'
+	* Now offered during the Spring semesters
+Course 'SOCI-345'
+Course 'SOCI-350'
+	* Now offered during the Fall semesters
+Course 'SOCI-410'
+Course 'CVET-599'
+	* Now offered during the Spring,Summer semesters
+Course 'BUSI-205'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'BUSI-324'
+	* Now offered during the Fall,Spring semesters
+Course 'BUSI-409'
+	* Now offered during the Fall,Summer semesters
+Course 'ESHS-550'
+	* Now offered during the Spring semesters
+Course 'CMDS-298'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'EEET-598'
+	* Now offered during the Fall,Spring semesters
+Course 'CMDS-333'
+	* Now offered during the Fall,Spring semesters
+Course 'CMDS-441'
+Course 'EEET-598'
+	* Now offered during the Fall,Spring semesters
+Course 'CVET-599'
+	* Now offered during the Spring,Summer semesters
+Course 'CMDS-499'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'MTSC-211'
+	* Now offered during the Spring semesters
+Course 'QLTM-420'
+	* Now offered during the Fall semesters
+Course 'TCOM-327'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'TCOM-382'
+	* No longer offered during the S semesters
+Course 'ENGL-381'
+	* Now offered during the Spring semesters
+Course 'TCOM-476'
+	* Now offered during the Fall,Spring semesters
+Course 'ASLC-289'
+	* Now offered during the Fall,Spring semesters
+Course 'INTP-120'
+	* Now offered during the Fall semesters
+Course 'INTP-451'
+	* Now offered during the Spring semesters
+Course 'INTP-120'
+	* No longer offered during the S semesters
+Course 'INTP-125'
+	* No longer offered during the S semesters
+Course 'NASL-289'
+	* No longer offered during the F,S semesters
+Course 'NAIS-299'
+Course 'NGRD-115'
+	* No longer offered during the F semesters
+Course 'FDTN-112'
+	* Now offered during the Fall semesters
+Course 'NGRP-210'
+	* No longer offered during the F semesters
+Course 'NAST-160'
+	* No longer offered during the F,S semesters
+Course 'NAST-299'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'NCAR-100'
+	* No longer offered during the F,S semesters
+Course 'NCAR-110'
+	* No longer offered during the F semesters
+Course 'NCAR-115'
+	* No longer offered during the F,S semesters
+Course 'PSYC-340'
+	* No longer offered during the F,S semesters
+Course 'COMM-304'
+	* No longer offered during the F,S semesters
+Course 'NCOM-204'
+	* No longer offered during the F,S semesters
+Course 'NCOM-206'
+	* No longer offered during the F,S semesters
+Course 'MCET-101'
+	* No longer offered during the S semesters
+Course 'MFET-120'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'NETS-151'
+	* Now offered during the Spring semesters
+Course 'NCAD-150'
+	* No longer offered during the F semesters
+Course 'NCAD-170'
+	* No longer offered during the S semesters
+Course 'NCAD-299'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'NCIM-199'
+	* Now offered during the Fall,Spring semesters
+Course 'NENG-102'
+	* No longer offered during the F,S semesters
+Course 'NHSS-110'
+	* No longer offered during the S semesters
+Course 'NHSS-120'
+	* No longer offered during the F,S semesters
+Course 'NHSS-122'
+	* No longer offered during the F semesters
+Course 'NHSS-159'
+	* No longer offered during the F,S semesters
+Course 'NHSS-240'
+	* No longer offered during the S semesters
+Course 'NHSS-249'
+	* No longer offered during the F,S semesters
+Course 'NHSS-260'
+	* No longer offered during the F,S semesters
+Course 'NHSS-270'
+	* No longer offered during the F,S semesters
+Course 'NHSS-279'
+	* No longer offered during the F,S semesters
+Course 'NHSS-281'
+	* No longer offered during the F,S semesters
+Course 'NACA-150'
+	* No longer offered during the F,S semesters
+Course 'NACA-289'
+	* Now offered during the Fall,Spring semesters
+Course 'NACT-252'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'NACT-295'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'NDLS-256'
+	* Now offered during the Spring semesters
+Course 'NSCI-161'
+	* No longer offered during the F semesters
+Course 'NSCI-270'
+	* Now offered during the Fall,Spring semesters
+Course 'BIOL-111'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'BIOL-189'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'BIOL-289'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'BIOL-201'
+	* No longer offered during the F,S semesters
+Course 'BIOL-290'
+	* Now offered during the Fall semesters
+Course 'BIOL-204'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'BIOL-205'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'BIOL-211'
+	* No longer offered during the F semesters
+Course 'BIOL-212'
+	* No longer offered during the S semesters
+Course 'BIOL-298'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'BIOL-301'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'BIOL-309'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'BIOL-310'
+	* Now offered during the Spring semesters
+Course 'BIOL-313'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'BIOL-314'
+	* No longer offered during the S,Su semesters
+Course 'BIOL-341'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'BIOL-425'
+	* Now offered during the Spring semesters
+Course 'BIOL-490'
+	* Now offered during the Spring semesters
+Course 'BIOL-498'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'BIOL-499'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'BIOL-189'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'BIOL-289'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'CHEM-298'
+Course 'BIOL-301'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'CHEM-489'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'CHEM-493'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'CHEM-499'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'CHMA-161'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'CHMA-165'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'CHMA-222'
+	* No longer offered during the F semesters
+Course 'BIOL-189'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'BIOL-289'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'CHEM-489'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'CHMB-493'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'CHMB-498'
+Course 'CHMB-499'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'BIOL-189'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'BIOL-289'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'ENVS-301'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'ENVS-275'
+	* Now offered during the Fall semesters
+Course 'ENVS-298'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'CHEM-489'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'ENVS-498'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'ENVS-499'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'IMGS-111'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'IMGS-180'
+	* Now offered during the Spring semesters
+Course 'EEET-598'
+	* Now offered during the Fall,Spring semesters
+Course 'IMGS-351'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'IMGS-462'
+	* No longer offered during the F semesters
+Course 'IMGS-495'
+Course 'IMGS-499'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'IMGS-503'
+	* Now offered during the Spring semesters
+Course 'EEET-598'
+	* Now offered during the Fall,Spring semesters
+Course 'ITDS-359'
+	* Now offered during the Fall,Spring semesters
+Course 'BIOL-289'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'MATH-104'
+	* No longer offered during the F semesters
+Course 'MATH-161'
+	* No longer offered during the F,S semesters
+Course 'MATH-182'
+	* No longer offered during the F,S,Su semesters
+Course 'MATH-182'
+	* No longer offered during the F,S,Su semesters
+Course 'MATH-200'
+	* No longer offered during the S semesters
+Course 'MATH-221'
+	* No longer offered during the S,Su semesters
+Course 'MATH-255'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'MATH-261'
+	* No longer offered during the S semesters
+Course 'EEET-598'
+	* Now offered during the Fall,Spring semesters
+Course 'MATH-291'
+	* No longer offered during the S semesters
+Course 'MATH-221'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'MATH-401'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'MATH-341'
+	* No longer offered during the F semesters
+Course 'MATH-431'
+	* No longer offered during the F,S semesters
+Course 'MATH-498'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'MATH-499'
+	* No longer offered during the F,S,Su semesters
+Course 'BIOL-189'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHYS-104'
+	* Now offered during the Spring semesters
+Course 'PHYS-111'
+	* No longer offered during the F,S,Su semesters
+Course 'PHYS-211'
+	* Now offered during the Fall semesters
+Course 'BIOL-289'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHYS-298'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHYS-316'
+	* No longer offered during the F semesters
+	* Now offered during the Spring semesters
+Course 'PHYS-370'
+	* No longer offered during the F semesters
+Course 'PHYS-424'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'PHYS-432'
+	* No longer offered during the S semesters
+	* Now offered during the Fall semesters
+Course 'CHEM-489'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHYS-498'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'PHYS-499'
+	* Now offered during the Fall,Spring,Summer semesters
+Course 'STAT-145'
+	* Now offered during the Fall semesters
+Course 'MTSC-212'
+	* No longer offered during the F semesters
+Course 'WFIT-023'
+	* Now offered during the Fall semesters
+Course 'WFIT-028'
+	* No longer offered during the Su semesters
+Course 'WINT-025'
+	* No longer offered during the S,Su semesters
+Course 'WINT-043'
+	* No longer offered during the S,Su semesters
+Course 'WREC-072'
+	* Now offered during the Fall semesters
+Course 'CVET-220'
+	* Was dropped
+Course 'CVET-330'
+	* Was dropped
+Course 'CVET-452'
+	* Was dropped
+Course 'CVET-505'
+	* Was dropped
+Course 'EEET-111'
+	* Was dropped
+Course 'EEET-112'
+	* Was dropped
+Course 'EEET-215'
+	* Was dropped
+Course 'EEET-489'
+	* Was dropped
+Course 'EMET-290'
+	* Was dropped
+Course 'ESHS-320'
+	* Was dropped
+Course 'ESHS-599'
+	* Was dropped
+Course 'FOOD-111'
+	* Was dropped
+Course 'FOOD-224'
+	* Was dropped
+Course 'FOOD-226'
+	* Was dropped
+Course 'HSPT-234'
+	* Was dropped
+Course 'HSPT-248'
+	* Was dropped
+Course 'HSPT-334'
+	* Was dropped
+Course 'HRDE-386'
+	* Was dropped
+Course 'MFET-499'
+	* Was dropped
+Course 'MCET-221'
+	* Was dropped
+Course 'PACK-489'
+	* Was dropped
+Course 'ARMY-201'
+	* Was dropped
+Course 'ARMY-340'
+	* Was dropped
+Course 'ARMY-401'
+	* Was dropped
+Course 'BLEG-300'
+	* Was dropped
+Course 'INTB-489'
+	* Was dropped
+Course 'MGMT-320'
+	* Was dropped
+Course 'MGMT-340'
+	* Was dropped
+Course 'MGIS-101'
+	* Was dropped
+Course 'MGIS-250'
+	* Was dropped
+Course 'MGIS-340'
+	* Was dropped
+Course 'MKTG-320'
+	* Was dropped
+Course 'CSCI-242'
+	* Was dropped
+Course 'CSCI-571'
+	* Was dropped
+Course 'CSCI-531'
+	* Was dropped
+Course 'CSCI-599'
+	* Was dropped
+Course 'CSEC-210'
+	* Was dropped
+Course 'CSEC-463'
+	* Was dropped
+Course 'CSEC-464'
+	* Was dropped
+Course 'CSEC-465'
+	* Was dropped
+Course 'ISTE-599'
+	* Was dropped
+Course 'NSSA-290'
+	* Was dropped
+Course 'SWEN-461'
+	* Was dropped
+Course 'SWEN-462'
+	* Was dropped
+Course 'SWEN-463'
+	* Was dropped
+Course 'SWEN-467'
+	* Was dropped
+Course 'CHME-450'
+	* Was dropped
+Course 'EEEE-120'
+	* Was dropped
+Course 'EEEE-251'
+	* Was dropped
+Course 'EEEE-281'
+	* Was dropped
+Course 'EEEE-285'
+	* Was dropped
+Course 'EEEE-374'
+	* Was dropped
+Course 'EGEN-132'
+	* Was dropped
+Course 'EGEN-489'
+	* Was dropped
+Course 'MECE-102'
+	* Was dropped
+Course 'MECE-151'
+	* Was dropped
+Course 'MECE-252'
+	* Was dropped
+Course 'MECE-317'
+	* Was dropped
+Course 'MECE-497'
+	* Was dropped
+Course 'MCEE-320'
+	* Was dropped
+Course 'MEDG-102'
+	* Was dropped
+Course 'MEDS-301'
+	* Was dropped
+Course 'MEDS-354'
+	* Was dropped
+Course 'MEDS-400'
+	* Was dropped
+Course 'PHYA-423'
+	* Was dropped
+Course 'CCER-302'
+	* Was dropped
+Course 'CCER-520'
+	* Was dropped
+Course 'CWFD-520'
+	* Was dropped
+Course 'CGLS-202'
+	* Was dropped
+Course 'CGLS-302'
+	* Was dropped
+Course 'CGLS-520'
+	* Was dropped
+Course 'CMTJ-502'
+	* Was dropped
+Course 'CMTJ-520'
+	* Was dropped
+Course 'FDTN-141'
+	* Was dropped
+Course 'ARTH-558'
+	* Was dropped
+Course 'ARTH-568'
+	* Was dropped
+Course 'ARTH-576'
+	* Was dropped
+Course 'ARTH-581'
+	* Was dropped
+Course 'FNAS-205'
+	* Was dropped
+Course 'FNAS-517'
+	* Was dropped
+Course 'ILLS-466'
+	* Was dropped
+Course 'ILLM-506'
+	* Was dropped
+Course 'GRDE-202'
+	* Was dropped
+Course 'GRDE-402'
+	* Was dropped
+Course 'GRDE-428'
+	* Was dropped
+Course 'IDDE-201'
+	* Was dropped
+Course 'IDDE-221'
+	* Was dropped
+Course 'IDDE-302'
+	* Was dropped
+Course 'SOFA-106'
+	* Was dropped
+Course 'SOFA-203'
+	* Was dropped
+Course 'SOFA-217'
+	* Was dropped
+Course 'SOFA-317'
+	* Was dropped
+Course 'SOFA-401'
+	* Was dropped
+Course 'SOFA-408'
+	* Was dropped
+Course 'SOFA-561'
+	* Was dropped
+Course 'SOFA-566'
+	* Was dropped
+Course 'SOFA-576'
+	* Was dropped
+Course 'SOFA-582'
+	* Was dropped
+Course 'SOFA-588'
+	* Was dropped
+Course 'PHAR-102'
+	* Was dropped
+Course 'MAAT-561'
+	* Was dropped
+Course 'PHAR-211'
+	* Was dropped
+Course 'PHAR-212'
+	* Was dropped
+Course 'PHFA-401'
+	* Was dropped
+Course 'PHBM-311'
+	* Was dropped
+Course 'PHPS-201'
+	* Was dropped
+Course 'PHPS-202'
+	* Was dropped
+Course 'PHPS-402'
+	* Was dropped
+Course 'ANTH-201'
+	* Was dropped
+Course 'ANTH-230'
+	* Was dropped
+Course 'ANTH-240'
+	* Was dropped
+Course 'ANTH-310'
+	* Was dropped
+Course 'ANTH-355'
+	* Was dropped
+Course 'ANTH-365'
+	* Was dropped
+Course 'ANTH-380'
+	* Was dropped
+Course 'ANTH-420'
+	* Was dropped
+Course 'ANTH-502'
+	* Was dropped
+Course 'ANTH-503'
+	* Was dropped
+Course 'ANTH-440'
+	* Was dropped
+Course 'COMM-442'
+	* Was dropped
+Course 'CRIM-310'
+	* Was dropped
+Course 'CRIM-550'
+	* Was dropped
+Course 'ECON-404'
+	* Was dropped
+Course 'ECON-410'
+	* Was dropped
+Course 'ENGL-305'
+	* Was dropped
+Course 'ENGL-310'
+	* Was dropped
+Course 'ENGL-340'
+	* Was dropped
+Course 'ENGL-362'
+	* Was dropped
+Course 'ENGL-371'
+	* Was dropped
+Course 'ENGL-403'
+	* Was dropped
+Course 'ENGL-403'
+	* Was dropped
+Course 'ENGL-406'
+	* Was dropped
+Course 'ENGL-407'
+	* Was dropped
+Course 'ENGL-408'
+	* Was dropped
+Course 'ENGL-412'
+	* Was dropped
+Course 'ENGL-413'
+	* Was dropped
+Course 'ENGL-413'
+	* Was dropped
+Course 'ENGL-414'
+	* Was dropped
+Course 'ENGL-415'
+	* Was dropped
+Course 'ENGL-416'
+	* Was dropped
+Course 'ENGL-418'
+	* Was dropped
+Course 'ENGL-420'
+	* Was dropped
+Course 'ENGL-425'
+	* Was dropped
+Course 'ENGL-443'
+	* Was dropped
+Course 'ENGL-462'
+	* Was dropped
+Course 'ENGL-463'
+	* Was dropped
+Course 'ENGL-466'
+	* Was dropped
+Course 'ENGL-467'
+	* Was dropped
+Course 'ENGL-540'
+	* Was dropped
+Course 'ENGL-541'
+	* Was dropped
+Course 'FNRT-100'
+	* Was dropped
+Course 'FNRT-110'
+	* Was dropped
+Course 'FNRT-120'
+	* Was dropped
+Course 'FNRT-210'
+	* Was dropped
+Course 'FNRT-220'
+	* Was dropped
+Course 'FNRT-371'
+	* Was dropped
+Course 'FNRT-374'
+	* Was dropped
+Course 'FNRT-377'
+	* Was dropped
+Course 'FNRT-383'
+	* Was dropped
+Course 'MLJP-404'
+	* Was dropped
+Course 'MLSP-351'
+	* Was dropped
+Course 'MLSP-449'
+	* Was dropped
+Course 'HIST-221'
+	* Was dropped
+Course 'HIST-231'
+	* Was dropped
+Course 'HIST-260'
+	* Was dropped
+Course 'HIST-261'
+	* Was dropped
+Course 'HIST-265'
+	* Was dropped
+Course 'HIST-266'
+	* Was dropped
+Course 'HIST-270'
+	* Was dropped
+Course 'HIST-310'
+	* Was dropped
+Course 'HIST-323'
+	* Was dropped
+Course 'HIST-324'
+	* Was dropped
+Course 'HIST-325'
+	* Was dropped
+Course 'HIST-335'
+	* Was dropped
+Course 'HIST-369'
+	* Was dropped
+Course 'INGS-310'
+	* Was dropped
+Course 'INGS-501'
+	* Was dropped
+Course 'MUSE-220'
+	* Was dropped
+Course 'MUSE-221'
+	* Was dropped
+Course 'MUSE-449'
+	* Was dropped
+Course 'PHIL-306'
+	* Was dropped
+Course 'PHIL-410'
+	* Was dropped
+Course 'PHIL-595'
+	* Was dropped
+Course 'POLS-430'
+	* Was dropped
+Course 'POLS-481'
+	* Was dropped
+Course 'POLS-515'
+	* Was dropped
+Course 'PSYC-550'
+	* Was dropped
+Course 'PUBL-599'
+	* Was dropped
+Course 'STSO-246'
+	* Was dropped
+Course 'STSO-321'
+	* Was dropped
+Course 'STSO-325'
+	* Was dropped
+Course 'STSO-342'
+	* Was dropped
+Course 'STSO-442'
+	* Was dropped
+Course 'STSO-599'
+	* Was dropped
+Course 'SOCI-201'
+	* Was dropped
+Course 'SOCI-215'
+	* Was dropped
+Course 'SOCI-225'
+	* Was dropped
+Course 'SOCI-230'
+	* Was dropped
+Course 'SOCI-250'
+	* Was dropped
+Course 'SOCI-310'
+	* Was dropped
+Course 'SOCI-325'
+	* Was dropped
+Course 'SOCI-340'
+	* Was dropped
+Course 'SOCI-502'
+	* Was dropped
+Course 'SOCI-503'
+	* Was dropped
+Course 'BUSI-263'
+	* Was dropped
+Course 'CMDS-335'
+	* Was dropped
+Course 'CMDS-432'
+	* Was dropped
+Course 'CMDS-442'
+	* Was dropped
+Course 'CMDS-520'
+	* Was dropped
+Course 'QLTM-480'
+	* Was dropped
+Course 'TCOM-270'
+	* Was dropped
+Course 'TCOM-365'
+	* Was dropped
+Course 'INTP-220'
+	* Was dropped
+Course 'INTP-340'
+	* Was dropped
+Course 'INTP-350'
+	* Was dropped
+Course 'INTP-450'
+	* Was dropped
+Course 'NAIS-120'
+	* Was dropped
+Course 'NAIS-291'
+	* Was dropped
+Course 'NAIS-292'
+	* Was dropped
+Course 'NGRD-222'
+	* Was dropped
+Course 'NGRP-261'
+	* Was dropped
+Course 'NACC-199'
+	* Was dropped
+Course 'NAST-199'
+	* Was dropped
+Course 'NAST-210'
+	* Was dropped
+Course 'NBUS-213'
+	* Was dropped
+Course 'NCOM-101'
+	* Was dropped
+Course 'NCOM-207'
+	* Was dropped
+Course 'NCAD-112'
+	* Was dropped
+Course 'NCAD-201'
+	* Was dropped
+Course 'NCIM-201'
+	* Was dropped
+Course 'NCIM-235'
+	* Was dropped
+Course 'NCIM-236'
+	* Was dropped
+Course 'NCIM-237'
+	* Was dropped
+Course 'NHSS-111'
+	* Was dropped
+Course 'NHSS-130'
+	* Was dropped
+Course 'NHSS-231'
+	* Was dropped
+Course 'NHSS-235'
+	* Was dropped
+Course 'NACT-155'
+	* Was dropped
+Course 'NACT-200'
+	* Was dropped
+Course 'NACT-255'
+	* Was dropped
+Course 'NACT-262'
+	* Was dropped
+Course 'NACT-265'
+	* Was dropped
+Course 'NACT-270'
+	* Was dropped
+Course 'NLST-120'
+	* Was dropped
+Course 'NLST-260'
+	* Was dropped
+Course 'NSCI-200'
+	* Was dropped
+Course 'NSCI-201'
+	* Was dropped
+Course 'BIOL-102'
+	* Was dropped
+Course 'BIOL-403'
+	* Was dropped
+Course 'CHMG-121'
+	* Was dropped
+Course 'CHMI-352'
+	* Was dropped
+Course 'ENVS-250'
+	* Was dropped
+Course 'IMGS-290'
+	* Was dropped
+Course 'IMGS-322'
+	* Was dropped
+Course 'IMGS-361'
+	* Was dropped
+Course 'IMGS-365'
+	* Was dropped
+Course 'IMGS-401'
+	* Was dropped
+Course 'IMGS-431'
+	* Was dropped
+Course 'IMGS-475'
+	* Was dropped
+Course 'IMGS-476'
+	* Was dropped
+Course 'ITDS-150'
+	* Was dropped
+Course 'MATH-172'
+	* Was dropped
+Course 'MATH-241'
+	* Was dropped
+Course 'MATH-326'
+	* Was dropped
+Course 'MATH-381'
+	* Was dropped
+Course 'PHYS-206'
+	* Was dropped
+Course 'PHYS-208'
+	* Was dropped
+Course 'PHYS-150'
+	* Was dropped
+Course 'PHYS-212'
+	* Was dropped
+Course 'PHYS-365'
+	* Was dropped
+Course 'PHYS-373'
+	* Was dropped
+Course 'PHYS-411'
+	* Was dropped
+Course 'PHYS-412'
+	* Was dropped
+Course 'STAT-155'
+	* Was dropped
+Course 'STAT-445'
+	* Was dropped
+Course 'WDAN-015'
+	* Was dropped
+Course 'WFIT-034'
+	* Was dropped
+Course 'WFIT-035'
+	* Was dropped
+Course 'WFIT-046'
+	* Was dropped
+Course 'WFIT-064'
+	* Was dropped
+Course 'WFIT-090'
+	* Was dropped
+Course 'WFIT-097'
+	* Was dropped
+Course 'WHWS-015'
+	* Was dropped
+Course 'WINT-006'
+	* Was dropped
+Course 'WINT-063'
+	* Was dropped
+Course 'WREC-016'
+	* Was dropped
+Course 'WREC-079'
+	* Was dropped
+Course 'WMAR-016'
+	* Was dropped
+Course 'WREC-098'
+	* Was dropped
+Course 'WMAR-011'
+	* Was dropped
+Course 'WMAR-031'
+	* Was dropped
+Course 'WMIL-001'
+	* Was dropped
+Course 'WMIL-018'
+	* Was dropped
+Course 'WMIL-024'
+	* Was dropped
+Course 'CVET-424'
+	* Is new
+Course 'EEET-422'
+	* Is new
+Course 'HSPT-518'
+	* Is new
+Course 'MCET-488'
+	* Is new
+Course 'MCET-489'
+	* Is new
+Course 'PACK-560'
+	* Is new
+Course 'ACCT-305'
+	* Is new
+Course 'ACCT-399'
+	* Is new
+Course 'ACCT-488'
+	* Is new
+Course 'ACCT-499'
+	* Is new
+Course 'ACCT-500'
+	* Is new
+Course 'DECS-445'
+	* Is new
+Course 'DECS-489'
+	* Is new
+Course 'ACCT-599'
+	* Is new
+Course 'BLEG-489'
+	* Is new
+Course 'DECS-225'
+	* Is new
+Course 'DECS-435'
+	* Is new
+Course 'DECS-499'
+	* Is new
+Course 'DECS-599'
+	* Is new
+Course 'FINC-399'
+	* Is new
+Course 'FINC-488'
+	* Is new
+Course 'FINC-489'
+	* Is new
+Course 'FINC-499'
+	* Is new
+Course 'FINC-599'
+	* Is new
+Course 'INTB-399'
+	* Is new
+Course 'INTB-480'
+	* Is new
+Course 'INTB-488'
+	* Is new
+Course 'INTB-499'
+	* Is new
+Course 'MGMT-070'
+	* Is new
+Course 'MGMT-399'
+	* Is new
+Course 'MGMT-488'
+	* Is new
+Course 'MGMT-499'
+	* Is new
+Course 'MGMT-599'
+	* Is new
+Course 'MGIS-103'
+	* Is new
+Course 'MGIS-130'
+	* Is new
+Course 'MGIS-399'
+	* Is new
+Course 'MGIS-488'
+	* Is new
+Course 'MGIS-489'
+	* Is new
+Course 'MGIS-499'
+	* Is new
+Course 'MGIS-599'
+	* Is new
+Course 'MKTG-599'
+	* Is new
+Course 'MKTG-399'
+	* Is new
+Course 'MKTG-420'
+	* Is new
+Course 'MKTG-488'
+	* Is new
+Course 'MKTG-489'
+	* Is new
+Course 'MKTG-499'
+	* Is new
+Course 'CSCI-264'
+	* Is new
+Course 'CSCI-488'
+	* Is new
+Course 'CSCI-509'
+	* Is new
+Course 'CSEC-099'
+	* Is new
+Course 'ISTE-099'
+	* Is new
+Course 'ISTE-264'
+	* Is new
+Course 'ISTE-266'
+	* Is new
+Course 'ISTE-358'
+	* Is new
+Course 'ISTE-362'
+	* Is new
+Course 'ISTE-458'
+	* Is new
+Course 'ISTE-462'
+	* Is new
+Course 'ISTE-464'
+	* Is new
+Course 'IGME-099'
+	* Is new
+Course 'IGME-460'
+	* Is new
+Course 'IGME-589'
+	* Is new
+Course 'SWEN-563'
+	* Is new
+Course 'SWEN-564'
+	* Is new
+Course 'SWEN-565'
+	* Is new
+Course 'SWEN-567'
+	* Is new
+Course 'BIME-320'
+	* Is new
+Course 'BIME-470'
+	* Is new
+Course 'BIME-510'
+	* Is new
+Course 'BIME-570'
+	* Is new
+Course 'CHME-492'
+	* Is new
+Course 'CMPE-161'
+	* Is new
+Course 'EEEE-222'
+	* Is new
+Course 'ISEE-325'
+	* Is new
+Course 'ISEE-582'
+	* Is new
+Course 'MECE-354'
+	* Is new
+Course 'MECE-556'
+	* Is new
+Course 'MEDS-106'
+	* Is new
+Course 'MEDG-107'
+	* Is new
+Course 'MEDS-150'
+	* Is new
+Course 'MEDS-293'
+	* Is new
+Course 'MEDS-320'
+	* Is new
+Course 'MEDS-470'
+	* Is new
+Course 'MEDS-501'
+	* Is new
+Course 'ECHO-415'
+	* Is new
+Course 'ECHO-420'
+	* Is new
+Course 'ECHO-421'
+	* Is new
+Course 'ECHO-425'
+	* Is new
+Course 'ECHO-430'
+	* Is new
+Course 'ECHO-431'
+	* Is new
+Course 'ECHO-465'
+	* Is new
+Course 'HLTH-315'
+	* Is new
+Course 'HLTH-325'
+	* Is new
+Course 'ILLM-399'
+	* Is new
+Course 'ITDI-366'
+	* Is new
+Course 'CCER-399'
+	* Is new
+Course 'CWFD-399'
+	* Is new
+Course 'CGLS-399'
+	* Is new
+Course 'CMTJ-399'
+	* Is new
+Course 'ARTH-571'
+	* Is new
+Course 'FNAS-399'
+	* Is new
+Course 'FNAS-405'
+	* Is new
+Course 'FNAS-531'
+	* Is new
+Course 'FNAS-550'
+	* Is new
+Course 'ILLS-399'
+	* Is new
+Course 'ILLS-550'
+	* Is new
+Course 'ILLM-399'
+	* Is new
+Course 'DDDD-399'
+	* Is new
+Course 'GRDE-399'
+	* Is new
+Course 'IDDE-399'
+	* Is new
+Course 'INDE-399'
+	* Is new
+Course 'NMDE-111'
+	* Is new
+Course 'NMDE-112'
+	* Is new
+Course 'NMDE-375'
+	* Is new
+Course 'NMDE-399'
+	* Is new
+Course 'SOFA-207'
+	* Is new
+Course 'SOFA-386'
+	* Is new
+Course 'SOFA-399'
+	* Is new
+Course 'SOFA-525'
+	* Is new
+Course 'SOFA-567'
+	* Is new
+Course 'MAAT-010'
+	* Is new
+Course 'MAAT-386'
+	* Is new
+Course 'MAAT-498'
+	* Is new
+Course 'MAAT-543'
+	* Is new
+Course 'MAAT-550'
+	* Is new
+Course 'PHAR-399'
+	* Is new
+Course 'PHAP-350'
+	* Is new
+Course 'PHAP-351'
+	* Is new
+Course 'PHFA-350'
+	* Is new
+Course 'PHFA-351'
+	* Is new
+Course 'PHFA-531'
+	* Is new
+Course 'PHPJ-350'
+	* Is new
+Course 'PHPJ-351'
+	* Is new
+Course 'PHVM-350'
+	* Is new
+Course 'PHVM-351'
+	* Is new
+Course 'PHPS-350'
+	* Is new
+Course 'PHPS-351'
+	* Is new
+Course 'ANTH-285'
+	* Is new
+Course 'ANTH-290'
+	* Is new
+Course 'ANTH-305'
+	* Is new
+Course 'ANTH-312'
+	* Is new
+Course 'ANTH-435'
+	* Is new
+Course 'COMM-346'
+	* Is new
+Course 'CRIM-299'
+	* Is new
+Course 'ENGL-216'
+	* Is new
+Course 'ENGL-309'
+	* Is new
+Course 'ENGL-316'
+	* Is new
+Course 'ENGL-318'
+	* Is new
+Course 'ENGL-320'
+	* Is new
+Course 'ENGL-333'
+	* Is new
+Course 'ENGL-373'
+	* Is new
+Course 'ENGL-386'
+	* Is new
+Course 'ENGL-389'
+	* Is new
+Course 'ENGL-390'
+	* Is new
+Course 'FNRT-260'
+	* Is new
+Course 'MLFR-352'
+	* Is new
+Course 'HIST-431'
+	* Is new
+Course 'ITDL-450'
+	* Is new
+Course 'MUSE-225'
+	* Is new
+Course 'MUSE-340'
+	* Is new
+Course 'MUSE-341'
+	* Is new
+Course 'MUSE-359'
+	* Is new
+Course 'MUSE-360'
+	* Is new
+Course 'POLS-215'
+	* Is new
+Course 'POLS-285'
+	* Is new
+Course 'POLS-300'
+	* Is new
+Course 'POLS-333'
+	* Is new
+Course 'PSYC-498'
+	* Is new
+Course 'WGST-200'
+	* Is new
+Course 'WGST-210'
+	* Is new
+Course 'WGST-361'
+	* Is new
+Course 'BUSI-411'
+	* Is new
+Course 'BUSI-412'
+	* Is new
+Course 'CMDS-240'
+	* Is new
+Course 'INTP-355'
+	* Is new
+Course 'INTP-440'
+	* Is new
+Course 'INTP-481'
+	* Is new
+Course 'NASL-230'
+	* Is new
+Course 'NASL-240'
+	* Is new
+Course 'NCIM-214'
+	* Is new
+Course 'NMTH-207'
+	* Is new
+Course 'NMTH-255'
+	* Is new
+Course 'BIOG-101'
+	* Is new
+Course 'BIOG-102'
+	* Is new
+Course 'BIOL-207'
+	* Is new
+Course 'BIOL-255'
+	* Is new
+Course 'BIOL-335'
+	* Is new
+Course 'BIOL-377'
+	* Is new
+Course 'BIOL-414'
+	* Is new
+Course 'BIOL-500'
+	* Is new
+Course 'CHEM-155'
+	* Is new
+Course 'CHMA-231'
+	* Is new
+Course 'CHMI-464'
+	* Is new
+Course 'IMGS-371'
+	* Is new
+Course 'ITDS-165'
+	* Is new
+Course 'ITDS-370'
+	* Is new
+Course 'ITDS-489'
+	* Is new
+Course 'MATH-500'
+	* Is new
+Course 'MATH-501'
+	* Is new
+Course 'STAT-500'
+	* Is new
+Course 'ITDL-450'
+	* Is new
+Course 'ACSC-020'
+	* Is new
+Course 'ACSC-021'
+	* Is new
+Course 'ACSC-061'
+	* Is new
+Course 'ACSC-062'
+	* Is new
+Course 'ACSC-063'
+	* Is new
+Course 'ACSC-072'
+	* Is new
+Course 'ACSC-074'
+	* Is new
+Course 'ELCI-001'
+	* Is new
+Course 'ELCI-003'
+	* Is new
+Course 'ELCI-005'
+	* Is new
+Course 'ELCI-007'
+	* Is new
+Course 'ELCI-009'
+	* Is new
+Course 'ELCI-011'
+	* Is new
+Course 'ELCI-013'
+	* Is new
+Course 'ELCI-037'
+	* Is new
+Course 'ELCI-015'
+	* Is new
+Course 'ELCI-039'
+	* Is new
+Course 'ELCI-017'
+	* Is new
+Course 'ELCI-019'
+	* Is new
+Course 'ELCI-021'
+	* Is new
+Course 'ELCI-023'
+	* Is new
+Course 'ELCI-025'
+	* Is new
+Course 'ELCI-027'
+	* Is new
+Course 'ELCI-029'
+	* Is new
+Course 'ELCI-031'
+	* Is new
+Course 'ELCI-033'
+	* Is new
+Course 'ELCI-035'
+	* Is new
+Course 'ELCI-080'
+	* Is new
+Course 'ELCI-098'
+	* Is new
+Course 'ELCI-099'
+	* Is new
+Course 'ELCI-501'
+	* Is new
+Course 'ELCA-012'
+	* Is new
+Course 'ELCA-014'
+	* Is new
+Course 'ELCA-016'
+	* Is new
+Course 'ELCA-017'
+	* Is new
+Course 'ELCA-018'
+	* Is new
+Course 'ELCA-020'
+	* Is new
+Course 'ELCA-022'
+	* Is new
+Course 'ELCA-024'
+	* Is new
+Course 'ELCA-026'
+	* Is new
+Course 'ELCA-028'
+	* Is new
+Course 'ELCA-030'
+	* Is new
+Course 'ELCA-032'
+	* Is new
+Course 'ELCA-034'
+	* Is new
+Course 'ELCA-036'
+	* Is new
+Course 'ELCA-037'
+	* Is new
+Course 'ELCA-038'
+	* Is new
+Course 'ELCA-040'
+	* Is new
+Course 'ELCA-080'
+	* Is new
+Course 'ELCA-091'
+	* Is new
+Course 'ELCA-093'
+	* Is new
+Course 'ELCA-094'
+	* Is new
+Course 'ELCA-095'
+	* Is new
+Course 'ELCA-096'
+	* Is new
+Course 'ELCA-097'
+	* Is new
+Course 'ELCA-098'
+	* Is new
+Course 'ELCA-099'
+	* Is new
+Course 'WDAN-002'
+	* Is new
+Course 'WDAN-007'
+	* Is new
+Course 'WDAN-009'
+	* Is new
+Course 'WDAN-030'
+	* Is new
+Course 'WDAN-042'
+	* Is new
+Course 'WFIT-041'
+	* Is new
+Course 'WFIT-058'
+	* Is new
+Course 'WFIT-082'
+	* Is new
+Course 'WFIT-091'
+	* Is new
+Course 'WFIT-093'
+	* Is new
+Course 'WHLS-012'
+	* Is new
+Course 'WHWS-012'
+	* Is new
+Course 'WINT-007'
+	* Is new
+Course 'WINT-012'
+	* Is new
+Course 'WINT-086'
+	* Is new
+Course 'WREC-009'
+	* Is new
+Course 'WREC-017'
+	* Is new
+Course 'WREC-034'
+	* Is new
+Course 'WREC-080'
+	* Is new
+Course 'WREC-083'
+	* Is new
+Course 'WREC-092'
+	* Is new
+Course 'WMAR-018'
+	* Is new

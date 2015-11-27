@@ -7049,8 +7049,7 @@ material stresses functional and clinical correlates corresponding to laboratory
 (Prerequisites: (MEDS-250 and MEDS-251) or (1026-350 and 1026-360) or equivalent courses.) Lab 6, Lecture 3, Credits 4 (Spring)
 MEDS-499 
 Biomedical Sciences Co-op
-One semester of paid work experience in a healthcare related field. Co-op, Credits 0 (Fall,
-Spring, Summer)
+One semester of paid work experience in a healthcare related field. Co-op, Credits 0 (Fall, Spring, Summer)
 MEDS-501 
 Human Development
 This course will provide a survey of the primary biological events, mechanisms and underpinnings of human development from conception through aging. It will use case studies, human
@@ -7062,8 +7061,7 @@ or equivalent courses.) Lecture 3, Credits 3 (Spring)
 MEDS-510 
 Biomedical Research
 This course provides an opportunity for in-depth experiential learning through collaborative
-work on an independent research project. Independent Study, Credits 1 - 4 (Fall, Spring,
-Summer)
+work on an independent research project. Independent Study, Credits 1 - 4 (Fall, Spring, Summer)
 MEDS-511 
 Interdisciplinary Research
 This course will provide an independent, interdisciplinary research opportunity to enhance the

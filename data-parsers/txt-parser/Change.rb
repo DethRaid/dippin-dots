@@ -20,9 +20,13 @@ class Change
   def to_s
     ret_val = "Course '#{@course_id}'"
 
-    ret_val += "\n\t* No longer offered during the #{@semesters_lost.join(',')} semesters" if semesters_lost.length > 0
+    unless semesters_lost.nil?
+      ret_val += "\n\t* No longer offered during the #{@semesters_lost.join(',')} semesters" if semesters_lost.length > 0
+    end
 
-    ret_val += "\n\t* Now offered during the #{@semesters_gained.join(',')} semesters" if semesters_gained.length > 0
+    unless semesters_gained.nil?
+      ret_val += "\n\t* Now offered during the #{@semesters_gained.join(',')} semesters" if semesters_gained.length > 0
+    end
 
     ret_val += "\n\t* Is new" if @new
     ret_val += "\n\t* Was dropped" if @dropped

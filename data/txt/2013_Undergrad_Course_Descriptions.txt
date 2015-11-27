@@ -1288,7 +1288,7 @@ Principles of wastewater treatment plant design, conceptual and hydraulic
 design of activated sludge and trickling filter plants are studied. Tertiary
 treatment facilities, such as nitrogen and phosphorous removal are discussed.
 Process, plant design, and construction elements are stressed. (0608-432, 0608438) Class 1, Recitation 2, Credit 2
-0608-514	
+0608-514
 Land Use Planning
 The environmental and social aspects as well as the engineering and cost
 considerations of land-use planning are covered. Topics included are zoning
@@ -1297,8 +1297,7 @@ plains, environmentally sensitive areas, wetlands, other planning and control
 tools, solar access planning, and urban revitalization. Students are involved in
 an independent project consisting of a concept design for a subdivision or other
 land-use project. Extensive use is made of field trips and attendance at appropriate meetings or work sessions. (0608-211, 220, 320, 340, 432) Class 4, Credit 4
-0608-525	
-
+0608-525
 Civil Engineering in Resource Recovery
 and Waste Management
 An introduction to civil engineering aspects of dealing with resource recovery
@@ -4584,8 +4583,7 @@ lab setting. Students will be required to design and implement a small computer 
 datagrams, data link protocols, and user (presentation) level services. (4003406 and 4003-541) Class 4, Credit 4
 4003-543 	
 Ad-hoc Networks
-This course explores serverless ad-hoc networks. Topics include authentication, confidentiality, routing, service discovery, middleware and key generation and key distribution. Programming projects are required. (4003-233 and
-4003-420)
+This course explores serverless ad-hoc networks. Topics include authentication, confidentiality, routing, service discovery, middleware and key generation and key distribution. Programming projects are required. (4003-233 and 4003-420)
 4003-544 	
 Operating Systems II
 This course is a more in-depth look at the concepts in Operating Systems I
@@ -15969,12 +15967,10 @@ area. The course concludes with a brief discussion of the inter-disciplinary
 aspects of natural resource management. Part of the economics concentration
 and minor; the environmental studies minor; and may also be taken as an
 elective. (0511-211 or 0511-325) Class 4, Credit 4 (offered occasionally)
-0511-499	
-
+0511-499
 Economics Coop
 
-0511-599	
-
+0511-599
 Independent Study
 
 Political Science
