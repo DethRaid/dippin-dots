@@ -4,14 +4,17 @@ Diffing files ../../data/txt/2014_Undergrad_Course_Descriptions.txt and ../../da
 451 classes gained at least one semester
 279 classes are new this year
 294 classes are no longer available this year
+
 293 courses gained a Fall offering
 330 courses gained a Spring offering
 122 courses gained a Summer offering
 0 courses gained an Intercession offering
+
 188 courses lost a Fall offering
 181 courses lost a Spring offering
 38 courses lost a Summer offering
 0 courses lost an Intercession offering
+
 Calculated 1266 differences:
 Course 'CVET-240'
 	* No longer offered during the F semesters
