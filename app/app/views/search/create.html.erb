@@ -1,5 +1,28 @@
 <!--
 Shows the results of a search
 
-Receives its data as an array of Course objects, sorted by relevance. For the initial POC, this means that only the course with the matching course number will be returned. However, once search-by-name is implemented (by zombies), the list snould be all the classes that match
+Receives its data as an array of Course objects, sorted by relevance. For the
+initial POC, this means that only the course with the matching course number
+will be returned. However, once search-by-name is implemented (by zombies),
+the list snould be all the classes that match sorted by matching score
+
+The array should be in the @courses variable
 -->
+
+<div class="container">
+    <div class="col-md-3">
+        <!-- Placeholder div so our content is nice and centered -->
+    </div>
+
+    <div class="col-md-6">
+        <!-- Display all the courses returned form the search -->
+
+        <% @courses.each do |course| %>
+            Here's a course!
+        <% end %>
+    </div>
+
+    <div class="col-md-3">
+        <!-- Placeholder so nothing weird happens -->
+    </div>
+</div>
