@@ -8,6 +8,6 @@ class SearchController < ApplicationController
 
   private
   def get_courses_for_search_term(search_term)
-    [1,2,3,4,5,6,7,8,9,0]
+    [Course.new({:title => 'Course title', :description => 'Course description'})]
   end
 end

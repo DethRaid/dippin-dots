@@ -18,9 +18,10 @@ The array should be in the @courses variable
         <!-- Display all the courses returned form the search -->
 
         <% @courses.each do |course| %>
-            Here's a course!
+            <h2><%= course.title %></h2>
+            <p><%= course.description %></p>
         <% end %>
-    </div>
+    </div>1
 
     <div class="col-md-3">
         <!-- Placeholder so nothing weird happens -->
