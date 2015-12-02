@@ -6,4 +6,13 @@
     <button class="btn" type="submit"><i class="icon-search">Search</i></button>
   </div>
 <% end %>
+
+<script>
+$('#search').on('keyup', function() {
+    if(this.value.length > 1) {
+        // Send off a search and display the results
+        console.log(this.value);
+    }
+});
+</script>
 <%= yield %>
