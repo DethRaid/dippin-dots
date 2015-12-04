@@ -17,6 +17,8 @@ The array should be in the @courses variable
     <div class="col-md-6">
         <!-- Display all the courses returned form the search -->
 
+        <h2>Found courses:</h2>
+
         <% @courses.each do |course| %>
             <h2><%= course.title %></h2>
             <p><%= course.description %></p>

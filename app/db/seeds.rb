@@ -16,4 +16,7 @@ courses = Course.create([
     {:title => 'SWEN-262', :description => 'Refactoring'},
     {:title => 'MLAS-301', :description => 'Intermediate ASL 1'},
     {:title => 'CSMP-250', :description => 'Assembly'},
+    {:title => 'CMPE-240', :description => 'Assembler'}
     ])
+
+Course.bulk_update_fuzzy_description
