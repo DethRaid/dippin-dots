@@ -3,8 +3,8 @@
 </div>
 <div>
     <h3>Browse</h3>
-    <p>By class id</p>
-    <p>By major</p>
-    <p>By minor</p>
-    <p>By immersion</p>
+    <p><%= link_to 'Classes', browse_path(:courses) %></p>
+    <p><%= link_to 'Majors', browse_path(:majors) %></p>
+    <p><%= link_to 'Minors', browse_path(:minors) %></p>
+    <p><%= link_to 'Immersions', browse_path(:immersions) %></p>
 </div>

@@ -1,0 +1,45 @@
+<!-- Receives a list of caregories, and a list of items in each category.
+
+For each category, display a link to that category. The link expands a div with the same id as the category name. That div has a listing of everything in that category. Clicking something in one of those categories will expand another div with more details on that item-->
+
+<div class="container">
+  <div class="row-md-2">
+    <div class="row-md-8">
+
+      <div id="category-links">
+        <h1>Categories</h1>
+        <% @items.each do |category, _| %>
+          <button type="button" onclick="expandDiv('<%= category %>')"><%= category %></button>
+        <% end %>
+      </div>
+
+      <div id="categories-listing">
+        <% @items.each do |category, values| %>
+          <h3><%= category %></h3>
+          <div id="<%= category %>" class="hidden">
+
+            <% values.each do |value| %>
+              <% if value.is_a?(Course) %>
+              
+              <% end %>
+            <% end %>
+            
+          </div>
+        <% end %>
+      </div>
+
+      <script>
+      function expandDiv(divId) {
+        console.log("Trying to expand div " + divId);
+        var div = $("#" + divId)
+        if( div.css("display") == 'none') {
+          div.show('slow');
+          div.attr("class", "");
+        } else {
+          div.hide('slow');
+        }
+      }
+      </script>
+    </div>
+  </div>
+</div>
