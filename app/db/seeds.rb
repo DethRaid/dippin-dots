@@ -19,4 +19,5 @@ courses = Course.create([
     {:title => 'CMPE-240', :description => 'Assembler'}
     ])
 
+# TODO: Figure out a way to make this code run every time the database is updated
 Course.bulk_update_fuzzy_description
