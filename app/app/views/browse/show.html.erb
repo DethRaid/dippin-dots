@@ -19,9 +19,7 @@ For each category, display a link to that category. The link expands a div with 
           <div id="<%= category %>" class="hidden">
 
             <% values.each do |value| %>
-              <% if value.is_a?(Course) %>
-              
-              <% end %>
+              <%= render value %>
             <% end %>
             
           </div>
