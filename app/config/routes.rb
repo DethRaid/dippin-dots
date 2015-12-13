@@ -1,5 +1,11 @@
 Rails.application.routes.draw do
-  resources :poc, :search, :browse
+  devise_for :users
+  resources :poc, :search, :browse, :trigrams
+
+  namespace :student do
+    resource :add_course
+  end
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

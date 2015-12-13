@@ -1,2 +1,24 @@
 <h3><%= course.title %></h3>
 <p><%= course.description %></p>
+<a id="add<%= course.title %>" href="#" onclick="addCourse('<%= course.title %>')">I want to take this course</a>
+<div class="hidden" id="confirm<%= course.title %>">
+  Added course!
+</div>
+
+<script>
+function addCourse(course) {
+  $.post('/student/add_course',
+    {
+      id: course
+    },
+    function(data) {
+      var addAnchor = $('#add' + course);
+      addAnchor.hide('slow');
+
+      var confirmDiv = $('#confirm' + course);
+      confirmDiv.attr('class', '');
+      confirmDiv.show('slow');
+    }
+  );
+}
+</script>
