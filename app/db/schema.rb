@@ -26,6 +26,17 @@ ActiveRecord::Schema.define(version: 20151206163318) do
     t.datetime "updated_at", null: false
   end
 
+  create_table "requirements", force: :cascade do |t|
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "schools", force: :cascade do |t|
+    t.string   "name"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
   create_table "students", force: :cascade do |t|
     t.string   "username"
     t.datetime "created_at", null: false
