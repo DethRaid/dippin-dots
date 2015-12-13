@@ -2,12 +2,12 @@ class BrowseController < ApplicationController
   def show
     id = params[:id]
     if id == 'courses'
-      @items = organize_courses_alphabetically
+      @items = alphabetize_courses
     end
   end
 
   private
-  def organize_courses_alphabetically
+  def alphabetize_courses
     ret_val = Hash.new([])
 
     Course.find_each do |course|
