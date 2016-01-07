@@ -1,5 +1,6 @@
 class PlanScheduleController < ApplicationController
 	def index
+		@username = 'Fred'
 	end
 
 	private

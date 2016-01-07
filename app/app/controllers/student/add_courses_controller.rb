@@ -14,8 +14,4 @@ class Student::AddCoursesController < ApplicationController
 
     puts "Session courses: #{session[:courses]}"
   end
-
-  def show
-    puts "called for params #{params}"
-  end
 end

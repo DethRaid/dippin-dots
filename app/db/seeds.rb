@@ -10,14 +10,61 @@
 
 # Create initial test data
 # TODO: hook into the data loaders and load real data
-courses = Course.create([
-    {:title => 'SWEN-261', :description => 'The worst'},
-    {:title => 'CSCI-240', :description => 'CS Theory'},
-    {:title => 'SWEN-262', :description => 'Refactoring'},
-    {:title => 'MLAS-301', :description => 'Intermediate ASL 1'},
-    {:title => 'CSMP-250', :description => 'Assembly'},
-    {:title => 'CMPE-240', :description => 'Assembler'}
+
+puts 'Deleting old records'
+Course.delete_all
+
+puts 'Adding new records'
+Course.create([
+    {
+        :course_id => 'SWEN-261',
+        :title => 'Intro to Software Engineering',
+        :description => 'The worst',
+        :num_credits => 3
+    },
+    {
+        :course_id => 'CSCI-240',
+        :title => 'Introduction to Computer Science Theory',
+        :description => 'CS Theory',
+        :num_credits => 3
+    },
+    {
+        :course_id => 'SWEN-262',
+        :title => 'Engineering of Software Subsystems',
+        :description => 'Refactoring',
+        :num_credits => 3
+    },
+    {
+        :course_id => 'MLAS-301',
+        :title => 'Intermediate ASL 1',
+        :description => 'Intermediate ASL 1',
+        :num_credits => 3
+    },
+    {
+        :course_id => 'CSMP-250',
+        :title => 'Introduction to Computer Engineering for CEs',
+        :description => 'Assembly',
+        :num_credits => 4
+    },
+    {
+        :course_id => 'CMPE-240',
+        :title => 'Introduction to Computer Engineering for Non-majors',
+        :description => 'Assembler',
+        :num_credits => 4
+    }
     ])
+
+puts 'Deleting old semesters'
+Semester.delete_all
+
+puts 'Creating new semesters'
+Semester.create([
+    {:name => 'SPRING'},
+    {:name => 'FALL'},
+    {:name => 'SUMMER'}
+    ])
+
+puts 'Done!'
 
 # TODO: Figure out a way to make this code run every time the database is updated
 Course.bulk_update_fuzzy_description

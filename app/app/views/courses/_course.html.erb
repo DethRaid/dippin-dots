@@ -1,5 +1,7 @@
 <h3><%= course.title %></h3>
+<h4><%= course.course_id %></h4>
 <p><%= course.description %></p>
+<p>Credits: <%= course.num_credits %></p>
 <a id="add<%= course.title %>" href="#" onclick="addCourse('<%= course.title %>')">I want to take this course</a>
 <div class="hidden" id="confirm<%= course.title %>">
   Added course!

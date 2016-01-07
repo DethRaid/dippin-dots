@@ -11,7 +11,8 @@ class BrowseController < ApplicationController
     ret_val = Hash.new([])
 
     Course.find_each do |course|
-      key = course.title[/^[A-Z0-9]{4}/]
+      puts "Looking at course #{course}"
+      key = course.course_id[/^[A-Z0-9]{4}/]
       ret_val[key] += [course]
     end
 

@@ -10,7 +10,7 @@ class SearchController < ApplicationController
   def get_courses_for_search_term(search_term)
     # Check if the input is a course id
     if search_term =~ /[A-Z0-9]{4}-[0-9]{3}/
-      [Course.where(title: search_term).take]
+      [Course.where(course_id: search_term).take]
     else
       puts "Seaching for #{search_term}"
       Course.find_by_fuzzy_description(search_term, :limit => 10)
