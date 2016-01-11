@@ -16,53 +16,68 @@ Course.delete_all
 
 puts 'Adding new records'
 Course.create([
-    {
-        :course_id => 'SWEN-261',
-        :title => 'Intro to Software Engineering',
-        :description => 'The worst',
-        :num_credits => 3
-    },
-    {
-        :course_id => 'CSCI-240',
-        :title => 'Introduction to Computer Science Theory',
-        :description => 'CS Theory',
-        :num_credits => 3
-    },
-    {
-        :course_id => 'SWEN-262',
-        :title => 'Engineering of Software Subsystems',
-        :description => 'Refactoring',
-        :num_credits => 3
-    },
-    {
-        :course_id => 'MLAS-301',
-        :title => 'Intermediate ASL 1',
-        :description => 'Intermediate ASL 1',
-        :num_credits => 3
-    },
-    {
-        :course_id => 'CSMP-250',
-        :title => 'Introduction to Computer Engineering for CEs',
-        :description => 'Assembly',
-        :num_credits => 4
-    },
-    {
-        :course_id => 'CMPE-240',
-        :title => 'Introduction to Computer Engineering for Non-majors',
-        :description => 'Assembler',
-        :num_credits => 4
-    }
-    ])
+  {
+    course_id: 'SWEN-261',
+    title: 'Intro to Software Engineering',
+    description: 'The worst',
+    num_credits: 3
+  },
+  {
+    course_id: 'CSCI-240',
+    title: 'Introduction to Computer Science Theory',
+    description: 'CS Theory',
+    num_credits: 3
+  },
+  {
+    course_id: 'SWEN-262',
+    title: 'Engineering of Software Subsystems',
+    description: 'Refactoring',
+    num_credits: 3
+  },
+  {
+    course_id: 'MLAS-301',
+    title: 'Intermediate ASL 1',
+    description: 'Intermediate ASL 1',
+    num_credits: 3
+  },
+  {
+    course_id: 'CSMP-250',
+    title: 'Introduction to Computer Engineering for CEs',
+    description: 'Assembly',
+    num_credits: 4
+  },
+  {
+    course_id: 'CMPE-240',
+    title: 'Introduction to Computer Engineering for Non-majors',
+    description: 'Assembler',
+    num_credits: 4
+  }
+  ])
 
 puts 'Deleting old semesters'
 Semester.delete_all
 
 puts 'Creating new semesters'
 Semester.create([
-    {:name => 'SPRING'},
-    {:name => 'FALL'},
-    {:name => 'SUMMER'}
-    ])
+  {name: 'SPRING'},
+  {name: 'FALL'},
+  {name: 'SUMMER'}
+  ])
+
+puts 'Deleting old requirement lists'
+RequirementList.delete_all
+
+puts 'Adding new requirement lists'
+RequirementList.create([
+  {
+    name: 'Software Engineering',
+    abbreviation: 'SWEN'
+  },
+  {
+    name: 'Computer Engineering',
+    abbreviation: 'CMPE'
+  }
+  ])
 
 puts 'Done!'
 
